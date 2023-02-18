@@ -4,15 +4,19 @@
     "data":[
     {
     "number":1,
+    "name":"سُورَةُ ٱلْفَاتِحَةِ",
+    "englishName":"Al-Faatiha",
+    "englishNameTranslation":"The Opening",
+    "revelationType":"Meccan",
     "numberOfChannels":7,
     "channels":[
     {
     "number":1,
     "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
-    "video":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
+    "video":"",
     "title":"cabdellah 100",
     "subtitle":"Sport",
-    "logo":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/icon.png",
+    "logo":"",
     
     "audioSecondary":["https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"],
     "text":"﻿بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
@@ -27,10 +31,10 @@
     {
     "number":2,
     "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/2.mp3",
-    "video":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
+    "video":"",
     "title":"cabdellah 100",
     "subtitle":"Sport",
-    "logo":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/icon.png",
+    "logo":"",
     
     "audioSecondary":["https://cdn.islamic.network/quran/audio/64/ar.alafasy/2.mp3"],
     "text":"ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ",
@@ -45,10 +49,10 @@
     {
     "number":3,
     "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/3.mp3",
-    "video":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
+    "video":"",
     "title":"cabdellah 100",
     "subtitle":"Sport",
-    "logo":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/icon.png",
+    "logo":"",
     
     "audioSecondary":["https://cdn.islamic.network/quran/audio/64/ar.alafasy/3.mp3"],
     "text":"ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
@@ -63,10 +67,10 @@
     {
     "number":4,
     "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/4.mp3",
-    "video":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
+    "video":"",
     "title":"cabdellah 100",
     "subtitle":"Sport",
-    "logo":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/icon.png",
+    "logo":"",
     
     "audioSecondary":["https://cdn.islamic.network/quran/audio/64/ar.alafasy/4.mp3"],
     "text":"مَٰلِكِ يَوْمِ ٱلدِّينِ",
@@ -81,10 +85,10 @@
     {
     "number":5,
     "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/5.mp3",
-    "video":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
+    "video":"",
     "title":"cabdellah 100",
     "subtitle":"Sport",
-    "logo":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/icon.png",
+    "logo":"",
     
     "audioSecondary":["https://cdn.islamic.network/quran/audio/64/ar.alafasy/5.mp3"],
     "text":"إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
@@ -99,10 +103,10 @@
     {
     "number":6,
     "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/6.mp3",
-    "video":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
+    "video":"",
     "title":"cabdellah 100",
     "subtitle":"Sport",
-    "logo":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/icon.png",
+    "logo":"",
     
     "audioSecondary":["https://cdn.islamic.network/quran/audio/64/ar.alafasy/6.mp3"],
     "text":"ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
@@ -117,10 +121,10 @@
     {
     "number":7,
     "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/7.mp3",
-    "video":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
+    "video":"",
     "title":"cabdellah 100",
     "subtitle":"Sport",
-    "logo":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/icon.png",
+    "logo":"",
     
     "audioSecondary":["https://cdn.islamic.network/quran/audio/64/ar.alafasy/7.mp3"],
     "text":"صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
