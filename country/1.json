@@ -1,22 +1,21 @@
-{
-    "data":[
-    {
+{"data":[{
     "number":1,
     "numberOfChannels":2,
     "channels":[
     {
-    "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/6205.mp3",
-    "text":"بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
-    "video":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1000000=3-mp4a_130400_qad=1.m3u8",
-    "logo":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/icon.png"
+       "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/6205.mp3",
+       "text":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/icon.png"
     },
     {
-    "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/6206.mp3",
-    "text":"321",
-    "video":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1000000=3-mp4a_130400_qad=1.m3u8",
-    "logo":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/tv.png"
-    } 
-    ]
+       "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/6206.mp3",
+       "text":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/icon.png"
+    },
+    {
+       "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/6206.mp3",
+       "text":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/icon.png"
+    },
+    {
+       "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/6206.mp3",
+       "text":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/icon.png"
     }
-    ]
-    }
+]}]}
