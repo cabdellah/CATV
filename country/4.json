@@ -13,12 +13,9 @@
     {
     "number":1,
     "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
-    "video":"",
-    "title":"cabdellah 100",
-    "subtitle":"Sport",
-    "logo":"",
-    
-    "audioSecondary":["https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"],
+    "audioSecondary":[
+    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1.mp3"
+    ],
     "text":"﻿بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
     "numberInSurah":1,
     "juz":1,
@@ -31,12 +28,9 @@
     {
     "number":2,
     "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/2.mp3",
-    "video":"",
-    "title":"cabdellah 100",
-    "subtitle":"Sport",
-    "logo":"",
-    
-    "audioSecondary":["https://cdn.islamic.network/quran/audio/64/ar.alafasy/2.mp3"],
+    "audioSecondary":[
+    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2.mp3"
+    ],
     "text":"ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ",
     "numberInSurah":2,
     "juz":1,
@@ -49,12 +43,9 @@
     {
     "number":3,
     "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/3.mp3",
-    "video":"",
-    "title":"cabdellah 100",
-    "subtitle":"Sport",
-    "logo":"",
-    
-    "audioSecondary":["https://cdn.islamic.network/quran/audio/64/ar.alafasy/3.mp3"],
+    "audioSecondary":[
+    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3.mp3"
+    ],
     "text":"ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
     "numberInSurah":3,
     "juz":1,
@@ -67,12 +58,9 @@
     {
     "number":4,
     "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/4.mp3",
-    "video":"",
-    "title":"cabdellah 100",
-    "subtitle":"Sport",
-    "logo":"",
-    
-    "audioSecondary":["https://cdn.islamic.network/quran/audio/64/ar.alafasy/4.mp3"],
+    "audioSecondary":[
+    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4.mp3"
+    ],
     "text":"مَٰلِكِ يَوْمِ ٱلدِّينِ",
     "numberInSurah":4,
     "juz":1,
@@ -85,12 +73,9 @@
     {
     "number":5,
     "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/5.mp3",
-    "video":"",
-    "title":"cabdellah 100",
-    "subtitle":"Sport",
-    "logo":"",
-    
-    "audioSecondary":["https://cdn.islamic.network/quran/audio/64/ar.alafasy/5.mp3"],
+    "audioSecondary":[
+    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5.mp3"
+    ],
     "text":"إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
     "numberInSurah":5,
     "juz":1,
@@ -103,12 +88,9 @@
     {
     "number":6,
     "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/6.mp3",
-    "video":"",
-    "title":"cabdellah 100",
-    "subtitle":"Sport",
-    "logo":"",
-    
-    "audioSecondary":["https://cdn.islamic.network/quran/audio/64/ar.alafasy/6.mp3"],
+    "audioSecondary":[
+    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6.mp3"
+    ],
     "text":"ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
     "numberInSurah":6,
     "juz":1,
@@ -121,12 +103,9 @@
     {
     "number":7,
     "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/7.mp3",
-    "video":"",
-    "title":"cabdellah 100",
-    "subtitle":"Sport",
-    "logo":"",
-    
-    "audioSecondary":["https://cdn.islamic.network/quran/audio/64/ar.alafasy/7.mp3"],
+    "audioSecondary":[
+    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/7.mp3"
+    ],
     "text":"صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
     "numberInSurah":7,
     "juz":1,
