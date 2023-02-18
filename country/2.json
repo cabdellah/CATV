@@ -1,10 +1,8 @@
 {
-    "code":200,
-    "status":"OK",
     "data":[
     {
     "number":2,
-    "numberOfChannels":3,
+    "numberOfChannels":4,
     "channels":[
     {
     "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/6205.mp3",
@@ -17,17 +15,12 @@
     {
     "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/6207.mp3",
     "text":"إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ"
-    }
-    ],
-    "edition":{
-    "identifier":"ar.alafasy",
-    "language":"ar",
-    "name":"مشاري العفاسي",
-    "englishName":"Alafasy",
-    "format":"audio",
-    "type":"versebyverse",
-    "direction":null
-    }
+    },
+    {
+    "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/2.mp3",
+    "text":"ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ"
+    }    
+    ]
     }
     ]
     }
