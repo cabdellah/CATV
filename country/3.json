@@ -1,0 +1,22 @@
+{
+    "data":[
+    {
+    "number":4,
+    "numberOfChannels":3,
+    "channels":[
+    {
+    "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/6205.mp3",
+    "text":"بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ"
+    },
+    {
+    "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/6206.mp3",
+    "text":"فَصَلِّ لِرَبِّكَ وَٱنْحَرْ"
+    },
+    {
+    "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/6207.mp3",
+    "text":"إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ"
+    }  
+    ]
+    }
+    ]
+    }
