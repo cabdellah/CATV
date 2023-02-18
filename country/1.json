@@ -7,7 +7,6 @@
     "numberOfChannels":7,
     "channels":[
     {
-    "number":1,
     "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
     "video":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
     "title":"cabdellah 100",
@@ -25,7 +24,6 @@
     "sajda":false
     },
     {
-    "number":2,
     "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/2.mp3",
     "video":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
     "title":"cabdellah 100",
@@ -43,7 +41,6 @@
     "sajda":false
     },
     {
-    "number":3,
     "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/3.mp3",
     "video":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
     "title":"cabdellah 100",
@@ -61,7 +58,6 @@
     "sajda":false
     },
     {
-    "number":4,
     "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/4.mp3",
     "video":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
     "title":"cabdellah 100",
@@ -79,7 +75,6 @@
     "sajda":false
     },
     {
-    "number":5,
     "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/5.mp3",
     "video":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
     "title":"cabdellah 100",
@@ -97,7 +92,6 @@
     "sajda":false
     },
     {
-    "number":6,
     "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/6.mp3",
     "video":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
     "title":"cabdellah 100",
@@ -115,7 +109,6 @@
     "sajda":false
     },
     {
-    "number":7,
     "audio":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/7.mp3",
     "video":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
     "title":"cabdellah 100",
