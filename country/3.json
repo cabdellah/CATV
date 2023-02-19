@@ -5,55 +5,55 @@
     "numberOfChannels":13,
     "channels":[
         {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/DZ_elaoula.png",
+            "text":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/DZ_elaoula.png",
             "audio":"https://elahmad.ipslow.com/tv186_www.elahmad.com_alegria_1/tracks-v1/mono.m3u8?token=79be4ff09d5e9a8a16f684f6bb91bc819f49e755-e673c31935b80025a97a962d40510994-1676388411-1676377611"
           },
           {      
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/DZ_elaoula.png",
+            "text":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/DZ_elaoula.png",
             "audio":"https://rpn1.bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8?nimblesessionid=264660993&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDIzIDU6MjQ6NDIgUE0maGFzaF92YWx1ZT1YUWdBcXFTdnVxZkE3UlZCVDN4WnF3PT0mdmFsaWRtaW51dGVzPTI4ODA="
           },
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/DZ_elaoula.png",
+            "text":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/DZ_elaoula.png",
             "audio":"https://elahmad.ipslow.com/tv185_www.elahmad.com_alegria_3/tracks-v1a1/mono.m3u8?token=c3475f3fd203535809bd6168a06024b548362c38-f9dc5c1afa2cf0f2840b318ee9dcc800-1675108732-1675097932"
           },            
           {      
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/DZ_echorouk.png",
+            "text":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/DZ_echorouk.png",
             "audio":"https://live.elahmad.net/https://echorouk-live-tv.dzsecurity.net/echo/EchoroukNews/chunks.m3u8"
           },
           {      
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/DZ_echorouk.png",
+            "text":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/DZ_echorouk.png",
             "audio":"https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/chunks.m3u8"
           },      
           {      
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/DZ_enahar.png",
+            "text":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/DZ_enahar.png",
             "audio":"https://live.elahmad.net/https://echorouk-live-tv.dzsecurity.net/entv/EnnaharTV/chunks.m3u8"
           },
           {      
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/DZ_elbilad.png",
+            "text":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/DZ_elbilad.png",
             "audio":"https://tv.ipslow.com/tv182_www.elahmad.com_elbilad_tv/tracks-v1a1/mono.m3u8?token=76964e56fe0c222373f07e3a64d5554765f28acd-2d8cfc32278b231b8603fff8045654cc-1673898132-1673887332"
           },
           {      
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/DZ_elhaddaf.png",
+            "text":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/DZ_elhaddaf.png",
             "audio":"http://www.elahmad.com/tv/algeria_live.php?id=elheddaf"
           },
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/DZ_beur.png",
+            "text":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/DZ_beur.png",
             "audio":"http://str81.creacast.com/cna/live.sdp/chunklist_w349115404.m3u8"
           },
           {      
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/DZ_samira.png",
+            "text":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/DZ_samira.png",
             "audio":"https://shls-live-ak.akamaized.net/out/v1/2daff8b433344d659bd5079224afc3ab/index_1.m3u8"
           },
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/DZ_24_News.png",
+            "text":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/DZ_24_News.png",
             "audio":"https://www.elahmad.com/tv/algeria_live.php?id=al24news"
           },
           {      
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/DZ_elanis.png",
+            "text":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/DZ_elanis.png",
             "audio":"https://tv.ipslow.com/tv185_www.elahmad.com_alanis_tv/tracks-v1a1/mono.m3u8?token=28f14dea0b573f224867a67a88265a1daf3cf77d-561372dc472ec98fe091a6e4beb2a059-1675108984-1675098184"
           },
           {      
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/DZ_elhayat.png",
+            "text":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/DZ_elhayat.png",
             "audio":"https://tv.ipslow.com/tv185_www.elahmad.com_elhayatonline/tracks-v1a1/mono.m3u8?token=38c0b1700d4186605aa08083216e3bb6762f69d9-d3e994b1e3f5d89200fca797c29fe9f9-1675106007-1675095207"
           } 
     ]
