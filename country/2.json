@@ -3,10 +3,6 @@
     {
     "numberOfChannels":85,
     "channels":[
-        {
-            "text":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/AE_abudhabi.png",
-            "audio":"https://elahmad.ipslow.com/tv186_www.elahmad.com_alegria_1/tracks-v1/mono.m3u8?token=79be4ff09d5e9a8a16f684f6bb91bc819f49e755-e673c31935b80025a97a962d40510994-1676388411-1676377611"
-          },
           {      
             "text":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/DZ_elaoula.png",
             "audio":"https://rpn1.bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8?nimblesessionid=264660993&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDIzIDU6MjQ6NDIgUE0maGFzaF92YWx1ZT1YUWdBcXFTdnVxZkE3UlZCVDN4WnF3PT0mdmFsaWRtaW51dGVzPTI4ODA="

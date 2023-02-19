@@ -4,44 +4,1725 @@
     "number":2,
     "numberOfChannels":9,
     "channels":[
-          {                        
-            "text":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/US_tsc.png",
-            "audio":"https://tscamd.akamaized.net/hls/live/503340/TSCLive/video_1/video_1.m3u8"
-          },
-          {                        
-            "text":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/US_fox_news.png",
-            "audio":"https://fox-foxnewsnow-samsungus.amagi.tv/playlist480p.m3u8"
-          },
-          {                        
-            "text":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/US_bloomberg.png",
-            "audio":"https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-2/Source-EUTVqvs-10000-1-sknn1p-BP-HD-5-N96E3tz8tVF7_live.m3u8"
-          },
-          {                    
-            "text":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/US_daystar.png",
-            "audio":"https://bcsecurelivehls-i.akamaihd.net/hls/live/621275/1539097700001/master_480p.m3u8"
-          },
-          {                        
-            "text":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/US_newsmax.png",
-            "audio":"https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_404.m3u8"
-          },
-          {            
-            "text":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/US_kron_4.png",
-            "audio":"https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_404.m3u8"
-          },
-          {                        
-            "text":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/US_qvc_style.png",
-            "audio":"http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8"
-          },
-          {                       
-            "text":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/US_fox_soccer.png",
-            "audio":"https://rr5---sn-4g5edndd.googlevideo.com/videoplayback?expire=1674260343&ei=F9vKY8zvI4jKWcKam9gE&ip=105.107.94.241&id=o-AF3mcS1DJBKuwL2kNE0EbfTWnGX1qltI8R6DluP312H1&itag=135&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278%2C298%2C302%2C394%2C395%2C396%2C397%2C398&source=youtube&requiressl=yes&spc=zIddbF9JGgeW-sScqr8ocTtLjrIPaUDIi7VZGWRsW7Gr&vprv=1&mime=video%2Fmp4&ns=xDXHpRe0k124jTODUXiKmfcK&gir=yes&clen=18710703&dur=859.459&lmt=1672030575273337&keepalive=yes&fexp=24007246&c=WEB_EMBEDDED_PLAYER&txp=5535434&n=5vDfvRAZJ3Z8aK0&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRAIgYfke4m8GQH-EkhxRgqjDvCcD0ignNntOb0OW6TlJBjcCICKBDx2ZQ8N1Sc7SYSRci7bTvKzq198g9K4T1bYocmXx&cm2rm=sn-5abxgpxuxaxjvh-j1ae7k,sn-4g5edz7s&req_id=f0b51b7eec8ea3ee&redirect_counter=2&cms_redirect=yes&cmsv=e&mh=ld&mm=34&mn=sn-4g5edndd&ms=ltu&mt=1674238625&mv=m&mvi=5&pl=19&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgHDWkrKM_8MQvOD0FDnGFfBr-IJ5U_XOEA..."
-          },
-          {                      
-            "text":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/US_goltv.png",
-            "audio":"https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/mid/c.m3u8"
-          },
-          {                      
-            "text":"https://raw.githubusercontent.com/cabdellah/CATV/main/tv/US_key.png",
-            "audio":"http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8"
-          }
+
+
+
+      {"id":"002RadioTV.do","name":"002 Radio TV","alt_names":[],"network":null,"owners":[],"country":"DO","subdivision":null,"city":null,"broadcast_area":["c/DO"],"languages":["spa"],"categories":["general"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.002radio.com/",
+      
+      "logo":"https://i.imgur.com/7oNe8xj.png"},
+
+
+      {"id":"01TV.fr","name":"01 TV","alt_names":[],"network":null,"owners":[],"country":"FR","subdivision":null,"city":null,"broadcast_area":["c/FR"],"languages":["fra"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+      
+      "logo":"https://i.imgur.com/RMucFq8.png"},
+
+
+      {"id":"0porMovistarPlus.es","name":"#0 por Movistar+","alt_names":[],"network":null,"owners":[],"country":"ES","subdivision":null,"city":null,"broadcast_area":["c/ES","c/AD"],"languages":["spa"],"categories":[],"is_nsfw":false,"launched":"2022-01-22","closed":null,"replaced_by":null,"website":"http://www.movistarplus.es/cero",
+      
+      "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/0_por_Movistar_Plus%2B_2022_logo.svg/512px-0_por_Movistar_Plus%2B_2022_logo.svg.png"},
+
+
+{"id":"1000xHoraTV.uy","name":"1000xHora TV","alt_names":[],"network":null,"owners":[],"country":"UY","subdivision":null,"city":null,"broadcast_area":["c/UY"],"languages":["spa"],"categories":["auto"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.1000xhoratv.com/",
+
+"logo":"https://i.imgur.com/wP3bbYr.png"},
+
+
+{"id":"1001Noites.br","name":"1001 Noites","alt_names":[],"network":null,"owners":[],"country":"BR","subdivision":null,"city":null,"broadcast_area":["c/BR"],"languages":["por"],"categories":["shop"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/dWA9y2J.png"},
+
+
+{"id":"100AutoMotoTV.bg","name":"100% Auto Moto TV","alt_names":[],"network":null,"owners":[],"country":"BG","subdivision":null,"city":null,"broadcast_area":["c/BG"],"languages":["bul","eng"],"categories":["auto"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/mip1puB.png"},
+
+
+{"id":"100News.ua","name":"100% News","alt_names":[],"network":null,"owners":[],"country":"UA","subdivision":null,"city":null,"broadcast_area":["c/UA","c/RU"],"languages":["ukr"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.100news.tv/",
+
+"logo":"https://i.imgur.com/wEou5az.png"},
+
+
+{"id":"100NLTV.nl","name":"100% NL TV","alt_names":[],"network":null,"owners":["Radiocorp B.V."],"country":"NL","subdivision":null,"city":null,"broadcast_area":["c/NL"],"languages":["nld"],"categories":[],"is_nsfw":false,"launched":"2013-10-01","closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/100p-nl-tv-logo.png/512px-100p-nl-tv-logo.png"},
+
+
+{"id":"101TeleAntequera.es","name":"101 Tele Antequera","alt_names":[],"network":null,"owners":[],"country":"ES","subdivision":null,"city":null,"broadcast_area":["c/ES"],"languages":["spa"],"categories":["music"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/skXiSaf.png"},
+
+
+{"id":"101TV.rs","name":"101 TV","alt_names":[],"network":null,"owners":[],"country":"RS","subdivision":null,"city":null,"broadcast_area":["c/RS"],"languages":["srp"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/1gr4BQz.png"},
+
+
+{"id":"101tvMalaga.es","name":"101tv Malaga","alt_names":["101tv Málaga"],"network":null,"owners":[],"country":"ES","subdivision":"ES-AN","city":"Málaga","broadcast_area":["s/ES-AN"],"languages":["spa"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.101tv.es/endirecto101tv/",
+
+"logo":"https://i.imgur.com/CXHLhZD.png"},
+
+
+{"id":"10Bold.au","name":"10 Bold","alt_names":[],"network":null,"owners":["Ten Network Holdings Ltd"],"country":"AU","subdivision":null,"city":null,"broadcast_area":["c/AU"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":"2009-03-26","closed":null,"replaced_by":null,"website":"http://tenplay.com.au/",
+
+"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/10_Bold_2018.svg/512px-10_Bold_2018.svg.png"},
+
+
+{"id":"10emeRueTV.cd","name":"10'eme Rue TV","alt_names":["10'ème Rue TV"],"network":null,"owners":[],"country":"CD","subdivision":null,"city":null,"broadcast_area":["c/CD"],"languages":["fra"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://10emeruetv.net/",
+
+"logo":"https://i.imgur.com/2bm7SgL.png"},
+
+
+{"id":"10Peach.au","name":"10 Peach","alt_names":[],"network":null,"owners":["Ten Network Holdings"],"country":"AU","subdivision":null,"city":null,"broadcast_area":["c/AU"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":"2011-01-11","closed":null,"replaced_by":null,"website":"http://tenplay.com.au/",
+
+"logo":"https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/10_Peach_logo_2018.svg/512px-10_Peach_logo_2018.svg.png"},
+
+
+{"id":"10Shake.au","name":"10 Shake","alt_names":[],"network":null,"owners":["Ten Network Holdings"],"country":"AU","subdivision":null,"city":null,"broadcast_area":["c/AU"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":"2020-09-27","closed":null,"replaced_by":null,"website":"http://10play.com.au",
+
+"logo":"https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/10_Shake_logo_2020.svg/512px-10_Shake_logo_2020.svg.png"},
+
+
+{"id":"10TV.in","name":"10 TV","alt_names":[],"network":null,"owners":[],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/IN"],"languages":["tel"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.10tv.in/",
+
+"logo":"https://i.imgur.com/TauWtuJ.png"},
+
+
+{"id":"10YearsYoungerUK.uk","name":"10 Years Younger UK","alt_names":[],"network":null,"owners":[],"country":"UK","subdivision":null,"city":null,"broadcast_area":["c/UK"],"languages":["eng"],"categories":["lifestyle"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://pluto.tv/en/live-tv/10-years-younger-gb",
+
+"logo":"https://i.imgur.com/B4pCVFR.png"},
+
+
+{"id":"11TV.af","name":"11 TV","alt_names":[],"network":null,"owners":[],"country":"AF","subdivision":null,"city":null,"broadcast_area":["c/AF"],"languages":["pus"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/0Ey0nMc.png"},
+
+
+{"id":"11TV.es","name":"11 TV","alt_names":[],"network":null,"owners":[],"country":"ES","subdivision":"ES-CB","city":"Laredo","broadcast_area":["s/ES-CB"],"languages":["spa"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.11tv.es/",
+
+"logo":"https://i.imgur.com/XpBgRo0.png"},
+
+
+{"id":"123tv.de","name":"1-2-3.tv","alt_names":[],"network":null,"owners":[],"country":"DE","subdivision":null,"city":null,"broadcast_area":["c/DE"],"languages":["deu"],"categories":[],"is_nsfw":false,"launched":"2020-01-01","closed":null,"replaced_by":null,"website":"https://www.1-2-3.tv/",
+
+"logo":"https://i.imgur.com/slSUDNX.png"},
+
+
+{"id":"123TV.ve","name":"123TV","alt_names":[],"network":null,"owners":[],"country":"VE","subdivision":null,"city":null,"broadcast_area":["c/VE"],"languages":["spa"],"categories":["kids"],"is_nsfw":false,"launched":"2019-01-01","closed":null,"replaced_by":null,"website":"https://123tvinfantil.blogspot.com/",
+
+"logo":"https://i.imgur.com/xXGeZms.png"},
+
+
+{"id":"12tv.es","name":"12tv","alt_names":[],"network":null,"owners":[],"country":"ES","subdivision":"ES-VC","city":"Alicante","broadcast_area":["s/ES-VC"],"languages":["spa"],"categories":["general"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.12tv.es/",
+
+"logo":"https://i.imgur.com/VSTgXsh.png"},
+
+
+{"id":"12TVParma.it","name":"12 TV Parma","alt_names":[],"network":null,"owners":[],"country":"IT","subdivision":null,"city":null,"broadcast_area":["c/IT"],"languages":["ita"],"categories":["general"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.12tvparma.it/",
+
+"logo":"https://i.imgur.com/mBYxWOg.png"},
+
+
+{"id":"13C.cl","name":"13C","alt_names":[],"network":null,"owners":[],"country":"CL","subdivision":null,"city":null,"broadcast_area":["c/CL"],"languages":["spa"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.13.cl/c",
+
+"logo":"https://i.imgur.com/BvGsAkw.png"},
+
+
+{"id":"13E.cl","name":"13E","alt_names":["13 Entretención"],"network":null,"owners":[],"country":"CL","subdivision":null,"city":null,"broadcast_area":["c/CL"],"languages":["spa"],"categories":["entertainment"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.13.cl/13e",
+
+"logo":"https://i.imgur.com/utI1tJV.png"},
+
+
+{"id":"13emeRue.fr","name":"13eme Rue","alt_names":["13ème Rue"],"network":null,"owners":["Universal Networks International"],"country":"FR","subdivision":null,"city":null,"broadcast_area":["c/FR","c/BE","c/CH","c/LU","c/MC"],"languages":["fra"],"categories":[],"is_nsfw":false,"launched":"1997-11-13","closed":null,"replaced_by":null,"website":"https://www.13emerue.fr/",
+
+"logo":"https://i.imgur.com/k0DCMTL.png"},
+
+
+{"id":"13i.cl","name":"13i","alt_names":[],"network":null,"owners":["Canal 13 SpA"],"country":"CL","subdivision":null,"city":null,"broadcast_area":["r/HISPAM"],"languages":["spa"],"categories":["general"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://13i.tv/",
+
+"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/13i_2018.png/500px-13i_2018.png"},
+
+
+{"id":"13MaxTelevision.ar","name":"13Max Television","alt_names":["13Max Televisión"],"network":null,"owners":[],"country":"AR","subdivision":"AR-W","city":null,"broadcast_area":["s/AR-W"],"languages":["spa"],"categories":["general"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.13maxtv.com/new/",
+
+"logo":"https://i.imgur.com/QvF4l2t.png"},
+
+
+{"id":"13P.cl","name":"13P","alt_names":["13 Prime"],"network":null,"owners":[],"country":"CL","subdivision":null,"city":null,"broadcast_area":["c/CL"],"languages":["spa"],"categories":["lifestyle"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.13.cl/13p",
+
+"logo":"https://i.imgur.com/R6D228s.png"},
+
+
+{"id":"13SiamThai.th","name":"13 Siam Thai","alt_names":[],"network":null,"owners":[],"country":"TH","subdivision":null,"city":null,"broadcast_area":["c/TH"],"languages":["tha"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.13livetv.com/",
+
+"logo":"https://i.imgur.com/FvEp1S2.png"},
+
+
+{"id":"13T.cl","name":"13T","alt_names":["13 Teleseries"],"network":null,"owners":[],"country":"CL","subdivision":null,"city":null,"broadcast_area":["c/CL"],"languages":["spa"],"categories":["series"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.13.cl/13t",
+
+"logo":"https://i.imgur.com/Agtfbfi.png"},
+
+
+{"id":"13thStreet.de","name":"13th Street","alt_names":[],"network":null,"owners":[],"country":"DE","subdivision":null,"city":null,"broadcast_area":["c/DE"],"languages":["deu"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.13thstreet.de/",
+
+"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/13th_street_logo_uk_master_rgb_black.png/512px-13th_street_logo_uk_master_rgb_black.png"},
+
+
+{"id":"13Ulica.pl","name":"13 Ulica","alt_names":[],"network":null,"owners":[],"country":"PL","subdivision":null,"city":null,"broadcast_area":["c/PL"],"languages":["pol"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.13ulica.pl/",
+
+"logo":"https://i.imgur.com/0gCNnLq.png"},
+
+
+{"id":"15TV.mx","name":"15TV","alt_names":[],"network":null,"owners":[],"country":"MX","subdivision":"MX-COA","city":"Sabinas","broadcast_area":["s/MX-COA"],"languages":["spa"],"categories":["general"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://15tv.com.mx/",
+
+"logo":"https://i.imgur.com/CZ8LKmA.png"},
+
+
+{"id":"16AnnieIncintaItaly.it","name":"16 Anni e Incinta Italy","alt_names":[],"network":null,"owners":[],"country":"IT","subdivision":null,"city":null,"broadcast_area":["c/IT"],"languages":["ita"],"categories":["entertainment"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://pluto.tv/en/live-tv/16-anni-e-incinta-it",
+
+"logo":"https://i.imgur.com/Y2pEs8H.png"},
+
+
+{"id":"1730SAT1Bayern.de","name":"17:30 SAT.1 Bayern","alt_names":[],"network":null,"owners":[],"country":"DE","subdivision":null,"city":null,"broadcast_area":["c/DE"],"languages":["deu"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.sat1.de/serien/regional-bayern",
+
+"logo":"https://i.imgur.com/nVfFBbx.png"},
+
+
+{"id":"1730SAT1LIVE.de","name":"17:30 SAT.1 LIVE","alt_names":[],"network":null,"owners":[],"country":"DE","subdivision":null,"city":null,"broadcast_area":["c/DE"],"languages":["deu"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.1730live.de/",
+
+"logo":"https://i.imgur.com/kaRxLh5.png"},
+
+
+{"id":"1730SAT1REGIONALHamburgSchleswigHolstein.de","name":"17:30 SAT.1 REGIONAL Hamburg & Schleswig-Holstein","alt_names":["17:30 SAT.1 REGIONAL Hamburg und Schleswig-Holstein"],"network":null,"owners":[],"country":"DE","subdivision":null,"city":null,"broadcast_area":["c/DE"],"languages":["deu"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.sat1regional.de/livestream-hamburg/",
+
+"logo":"https://i.imgur.com/geE3xYY.png"},
+
+
+{"id":"1730SAT1REGIONALLowerSaxonyBremen.de","name":"17:30 SAT.1 REGIONAL Lower Saxony & Bremen","alt_names":["17:30 SAT.1 REGIONAL Niedersachsen und Bremen"],"network":null,"owners":[],"country":"DE","subdivision":null,"city":null,"broadcast_area":["c/DE"],"languages":["deu"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.sat1regional.de/livestream-niedersachsen-und-bremen/",
+
+"logo":"https://i.imgur.com/yyJPVZA.png"},
+
+
+{"id":"192TV.nl","name":"192TV","alt_names":[],"network":null,"owners":["BR Music BV"],"country":"NL","subdivision":null,"city":null,"broadcast_area":["c/NL"],"languages":["nld"],"categories":[],"is_nsfw":false,"launched":"2010-07-29","closed":null,"replaced_by":null,"website":"http://www.192tv.tv/",
+
+"logo":"https://i.imgur.com/PQ0Arp9.png"},
+
+
+{"id":"1HDMusicTelevision.ru","name":"1HD Music Television","alt_names":[],"network":null,"owners":[],"country":"RU","subdivision":null,"city":null,"broadcast_area":["c/RU"],"languages":["rus"],"categories":["music"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://1hd.ru/",
+
+"logo":"https://i.imgur.com/4Ww7CsR.png"},
+
+
+{"id":"1KBR.ru","name":"1 KBR","alt_names":["1 КБР"],"network":null,"owners":[],"country":"RU","subdivision":null,"city":null,"broadcast_area":["c/RU"],"languages":["rus"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://1kbr.smikbr.ru/",
+
+"logo":"https://i.imgur.com/CZy4Cqi.png"},
+
+
+{"id":"1KZNTV.za","name":"1KZN TV","alt_names":[],"network":null,"owners":[],"country":"ZA","subdivision":null,"city":null,"broadcast_area":["c/ZA"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.1kzntv.co.za/",
+
+"logo":"https://i.imgur.com/CdeYGdi.png"},
+
+
+{"id":"1MagicAfrica.za","name":"1 Magic Africa","alt_names":[],"network":null,"owners":[],"country":"ZA","subdivision":null,"city":null,"broadcast_area":["c/ZA"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://onemagic.dstv.com/",
+
+"logo":"https://i.imgur.com/PbWcglP.png"},
+
+
+{"id":"1Plus1.ua","name":"1+1","alt_names":[],"network":null,"owners":[],"country":"UA","subdivision":null,"city":null,"broadcast_area":["c/UA","c/RU"],"languages":["ukr"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://1plus1.ua/",
+
+"logo":"https://i.imgur.com/eJXfMh0.png"},
+
+
+{"id":"1Plus1International.ua","name":"1+1 International","alt_names":[],"network":null,"owners":["1+1 Media Group"],"country":"UA","subdivision":null,"city":null,"broadcast_area":["r/EUR"],"languages":["ukr"],"categories":[],"is_nsfw":false,"launched":"2006-03-01","closed":null,"replaced_by":null,"website":"https://1plus1.international/",
+
+"logo":"https://i.imgur.com/YtSWEMy.png"},
+
+
+{"id":"1Plus1Sport.ua","name":"1+1 Sport","alt_names":[],"network":null,"owners":[],"country":"UA","subdivision":null,"city":null,"broadcast_area":["c/UA","c/RU"],"languages":["ukr"],"categories":["sports"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/tHVc8on.png"},
+
+
+{"id":"1Plus2.lv","name":"1+2","alt_names":[],"network":null,"owners":[],"country":"LV","subdivision":null,"city":null,"broadcast_area":["c/LV"],"languages":["lav"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://static.wikia.nocookie.net/logopedia/images/d/d9/1%2B2.svg/revision/latest/scale-to-width-down/512"},
+
+
+{"id":"1Sports.in","name":"1 Sports","alt_names":[],"network":null,"owners":[],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/IN"],"languages":["eng"],"categories":["sports"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://1sport.in/",
+
+"logo":"https://i.imgur.com/J8w95kh.png"},
+
+
+{"id":"1TV.ge","name":"1TV","alt_names":["პირველი არხი","First Channel"],"network":null,"owners":[],"country":"GE","subdivision":null,"city":"Tbilisi","broadcast_area":["c/GE"],"languages":["kat"],"categories":["general"],"is_nsfw":false,"launched":"1956-01-01","closed":null,"replaced_by":null,"website":"https://1tv.ge/",
+
+"logo":"https://i.imgur.com/FSkYLPK.png"},
+
+
+{"id":"1TVAfghanistan.af","name":"1TV Afghanistan","alt_names":["يک تلويزيونتلویزیون یک"],"network":null,"owners":[],"country":"AF","subdivision":null,"city":null,"broadcast_area":["c/AF"],"languages":["prs"],"categories":[],"is_nsfw":false,"launched":"2010-02-01","closed":null,"replaced_by":null,"website":"http://www.1tvmedia.com/",
+
+"logo":"https://i.imgur.com/EEcNI9E.png"},
+
+
+{"id":"1TVPersian.us","name":"1TV Persian","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":"US-CA","city":"Los Angeles","broadcast_area":["c/IR"],"languages":["fas"],"categories":["entertainment"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://1tvpersian.com/",
+
+"logo":"https://i.imgur.com/5oSjzpq.png"},
+
+
+{"id":"1TwenteTV.nl","name":"1Twente TV","alt_names":[],"network":null,"owners":[],"country":"NL","subdivision":null,"city":null,"broadcast_area":["c/NL"],"languages":["nld"],"categories":["general"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.1twente.nl/kijk",
+
+"logo":"https://i.imgur.com/ftiuNK3.png"},
+
+
+{"id":"1YesNews.in","name":"1 Yes News","alt_names":[],"network":null,"owners":[],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/IN"],"languages":["hin"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/4HeuLuA.png"},
+
+
+{"id":"20.it","name":"20","alt_names":[],"network":null,"owners":[],"country":"IT","subdivision":null,"city":null,"broadcast_area":["c/IT"],"languages":["ita"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.mediasetplay.mediaset.it/20mediaset",
+
+"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/512px-20_Mediaset_2018.svg.png"},
+
+
+{"id":"218News.ly","name":"218 News","alt_names":[],"network":null,"owners":[],"country":"LY","subdivision":null,"city":null,"broadcast_area":["c/LY"],"languages":["ara"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.218tv.net/218news-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1/",
+
+"logo":"https://i.imgur.com/qEcljKC.png"},
+
+
+{"id":"218TV.ly","name":"218TV","alt_names":[],"network":null,"owners":[],"country":"LY","subdivision":null,"city":null,"broadcast_area":["c/LY"],"languages":["ara"],"categories":["news"],"is_nsfw":false,"launched":"2015-08-06","closed":null,"replaced_by":null,"website":"https://www.218tv.net/",
+
+"logo":"https://i.imgur.com/tjDCpFt.png"},
+
+
+{"id":"21Junior.xk","name":"21 Junior","alt_names":[],"network":null,"owners":["Company 21"],"country":"XK","subdivision":null,"city":null,"broadcast_area":["c/AL","c/XK"],"languages":["sqi"],"categories":["kids"],"is_nsfw":false,"launched":"2009-09-16","closed":null,"replaced_by":null,"website":"https://rtv21.tv/",
+
+"logo":"https://i.imgur.com/70Czvgc.png"},
+
+
+{"id":"21Mix.xk","name":"21 Mix","alt_names":[],"network":null,"owners":[],"country":"XK","subdivision":null,"city":null,"broadcast_area":["c/AL","c/XK"],"languages":["sqi"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://rtv21.tv/",
+
+"logo":"https://i.imgur.com/vvvmqYn.png"},
+
+
+{"id":"21Plus.xk","name":"21 Plus","alt_names":[],"network":null,"owners":[],"country":"XK","subdivision":null,"city":null,"broadcast_area":["c/AL","c/XK"],"languages":["sqi"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://rtv21.tv/",
+
+"logo":"https://i.imgur.com/noOxd1n.png"},
+
+
+{"id":"21Popullore.xk","name":"21 Popullore","alt_names":[],"network":null,"owners":[],"country":"XK","subdivision":null,"city":null,"broadcast_area":["c/AL","c/XK"],"languages":["sqi"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://rtv21.tv/",
+
+"logo":"https://i.imgur.com/qjWaERN.png"},
+
+
+{"id":"21TV.am","name":"21 TV","alt_names":[],"network":null,"owners":[],"country":"AM","subdivision":null,"city":null,"broadcast_area":["c/AM"],"languages":["hye"],"categories":["entertainment"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://21tv.am/",
+
+"logo":"https://i.imgur.com/jSvTwk5.png"},
+
+
+{"id":"22ArabTV.sa","name":"22 Arab TV","alt_names":[],"network":null,"owners":[],"country":"SA","subdivision":null,"city":null,"broadcast_area":["c/SA"],"languages":["ara"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/1PIm51D.png"},
+
+
+{"id":"24.sk","name":":24","alt_names":[],"network":"RTVS","owners":[],"country":"SK","subdivision":null,"city":null,"broadcast_area":["c/SK"],"languages":["slk"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.rtvs.sk/televizia/tv",
+
+"logo":"https://i.imgur.com/tTCuczU.png"},
+
+
+{"id":"247CanaldeNoticias.ar","name":"24/7 Canal de Noticias","alt_names":[],"network":null,"owners":[],"country":"AR","subdivision":null,"city":null,"broadcast_area":["c/AR"],"languages":["spa"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/4hDCB1M.png"},
+
+
+{"id":"247News.pk","name":"24/7 News","alt_names":[],"network":null,"owners":[],"country":"PK","subdivision":null,"city":null,"broadcast_area":["c/PK"],"languages":["eng"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/wglvAlv.png"},
+
+
+{"id":"247Retro.us","name":"247 Retro","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":["classic"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.247retro.com/",
+
+"logo":"https://i.imgur.com/QqQL7ss.png"},
+
+
+{"id":"24B.ir","name":"24B","alt_names":[],"network":null,"owners":[],"country":"IR","subdivision":null,"city":null,"broadcast_area":["c/IR"],"languages":["fas"],"categories":["music"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://gemonline.tv/",
+
+"logo":"https://i.imgur.com/8LgdPst.png"},
+
+
+{"id":"24Horas.cl","name":"24 Horas","alt_names":[],"network":null,"owners":[],"country":"CL","subdivision":null,"city":null,"broadcast_area":["c/CL"],"languages":["spa"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.24horas.cl/",
+
+"logo":"https://i.imgur.com/CEE9zPe.png"},
+
+
+{"id":"24HourFreeMovies.us","name":"24 Hour Free Movies","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":["movies"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/iSVnzR1.png"},
+
+
+{"id":"24Kanal.ua","name":"24 Kanal","alt_names":[],"network":null,"owners":[],"country":"UA","subdivision":null,"city":null,"broadcast_area":["c/UA","c/RU"],"languages":["ukr"],"categories":["news"],"is_nsfw":false,"launched":"2006-03-01","closed":null,"replaced_by":null,"website":"https://24tv.ua/",
+
+"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/512px-24_Group_Ukraine_04.png"},
+
+
+{"id":"24Kitchen.nl","name":"24Kitchen","alt_names":[],"network":null,"owners":["The Walt Disney Company"],"country":"NL","subdivision":null,"city":null,"broadcast_area":["c/NL"],"languages":["nld"],"categories":["cooking"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.24kitchen.nl/",
+
+"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/512px-24Kitchen.png"},
+
+
+{"id":"24KitchenBulgaria.bg","name":"24Kitchen Bulgaria","alt_names":[],"network":null,"owners":["The Walt Disney Company"],"country":"BG","subdivision":null,"city":null,"broadcast_area":["c/BG"],"languages":["bul"],"categories":["cooking"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.24kitchen.bg/",
+
+"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/512px-24Kitchen.png"},
+
+
+{"id":"24KitchenCroatia.hr","name":"24Kitchen Croatia","alt_names":[],"network":null,"owners":["The Walt Disney Company"],"country":"HR","subdivision":null,"city":null,"broadcast_area":["c/HR"],"languages":["eng","hrv"],"categories":["cooking"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.24kitchen.com.hr/",
+
+"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/512px-24Kitchen.png"},
+
+
+{"id":"24KitchenPortugal.pt","name":"24Kitchen Portugal","alt_names":[],"network":null,"owners":["The Walt Disney Company"],"country":"PT","subdivision":null,"city":null,"broadcast_area":["c/PT","c/MZ","c/AO","c/CV"],"languages":["por"],"categories":["cooking"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.24kitchen.pt/",
+
+"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/512px-24Kitchen.png"},
+
+
+{"id":"24KitchenSerbia.rs","name":"24Kitchen Serbia","alt_names":[],"network":null,"owners":["The Walt Disney Company"],"country":"RS","subdivision":null,"city":null,"broadcast_area":["c/RS"],"languages":["srp","eng"],"categories":["cooking"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.24kitchen.rs/",
+
+"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/512px-24Kitchen.png"},
+
+
+{"id":"24KitchenSlovenia.si","name":"24Kitchen Slovenia","alt_names":[],"network":null,"owners":["The Walt Disney Company"],"country":"SI","subdivision":null,"city":null,"broadcast_area":["c/SI"],"languages":["slv"],"categories":["cooking"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.24kitchen.si/",
+
+"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/512px-24Kitchen.png"},
+
+
+{"id":"24KitchenTurkey.tr","name":"24Kitchen Turkey","alt_names":[],"network":null,"owners":["The Walt Disney Company"],"country":"TR","subdivision":null,"city":null,"broadcast_area":["c/TR"],"languages":["tur"],"categories":["cooking"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.24kitchen.com.tr/",
+
+"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/512px-24Kitchen.png"},
+
+
+{"id":"24News.in","name":"24 News","alt_names":[],"network":null,"owners":[],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/IN"],"languages":["mal"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.twentyfournews.com/",
+
+"logo":"https://i.imgur.com/xraizkS.png"},
+
+
+{"id":"24NewsHD.pk","name":"24 News HD","alt_names":[],"network":null,"owners":["City News Network Mohsin Naqvi"],"country":"PK","subdivision":null,"city":null,"broadcast_area":["c/PK"],"languages":["urd"],"categories":["news"],"is_nsfw":false,"launched":"2015-01-01","closed":null,"replaced_by":null,"website":"https://www.24newshd.tv/",
+
+"logo":"https://upload.wikimedia.org/wikipedia/en/9/93/24_News_HD_Logo.png"},
+
+
+{"id":"24TV.tr","name":"24 TV","alt_names":[],"network":null,"owners":[],"country":"TR","subdivision":null,"city":null,"broadcast_area":["c/TR"],"languages":["tur"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.yirmidort.tv/",
+
+"logo":"https://i.imgur.com/8FO41es.png"},
+
+
+{"id":"25TV.es","name":"25 TV","alt_names":[],"network":null,"owners":[],"country":"ES","subdivision":"ES-CT","city":"Barcelona","broadcast_area":["s/ES-CT"],"languages":["cat"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.25televisio.com/streaming.php",
+
+"logo":"https://i.imgur.com/sADbx7S.png"},
+
+
+{"id":"27Twentyseven.it","name":"27 Twentyseven","alt_names":["Twentyseven"],"network":null,"owners":[],"country":"IT","subdivision":null,"city":null,"broadcast_area":["c/IT"],"languages":["ita"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.mediasetplay.mediaset.it/27twentyseven",
+
+"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/512px-Twentyseven_logo.svg.png"},
+
+
+{"id":"28kanala.es","name":"28 kanala","alt_names":[],"network":null,"owners":[],"country":"ES","subdivision":null,"city":null,"broadcast_area":["c/ES"],"languages":["spa"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/DyvK28q.png"},
+
+
+{"id":"2M.ma","name":"2M","alt_names":[],"network":"2M","owners":[],"country":"MA","subdivision":null,"city":null,"broadcast_area":["c/MA"],"languages":["ara"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://2m.ma/",
+
+"logo":"https://i.imgur.com/PJYTfHi.png"},
+
+
+{"id":"2MInternational.ma","name":"2M International","alt_names":["2M Monde"],"network":"2M","owners":[],"country":"MA","subdivision":null,"city":null,"broadcast_area":["r/ARAB"],"languages":["ara","fra"],"categories":["general"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://2m.ma/",
+
+"logo":"https://i.imgur.com/MvpntzA.png"},
+
+
+{"id":"2Plus2.ua","name":"2+2","alt_names":[],"network":null,"owners":[],"country":"UA","subdivision":null,"city":null,"broadcast_area":["c/UA","c/RU"],"languages":["ukr"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://2plus2.ua/",
+
+"logo":"https://i.imgur.com/v6KBgqk.png"},
+
+
+{"id":"2STV.sn","name":"2S TV","alt_names":[],"network":null,"owners":[],"country":"SN","subdivision":null,"city":null,"broadcast_area":["c/SN"],"languages":["fra"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://2stv.net/",
+
+"logo":"https://i.imgur.com/WByVBZf.png"},
+
+
+{"id":"2TV.ge","name":"2 TV","alt_names":[],"network":null,"owners":[],"country":"GE","subdivision":null,"city":null,"broadcast_area":["c/GE"],"languages":["kat"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/FJBL6zI.png"},
+
+
+{"id":"2TV.lt","name":"2TV","alt_names":[],"network":null,"owners":["MG group"],"country":"LT","subdivision":null,"city":null,"broadcast_area":["c/LT"],"languages":["lit"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://lnk.lt/tiesiogiai#2tv",
+
+"logo":"https://i.imgur.com/sZUIhGc.png"},
+
+
+{"id":"2x2.ru","name":"2x2","alt_names":[],"network":null,"owners":[],"country":"RU","subdivision":null,"city":null,"broadcast_area":["c/RU"],"languages":["rus"],"categories":["entertainment"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://2x2tv.ru/",
+
+"logo":"https://i.imgur.com/fhQFLEl.png"},
+
+
+{"id":"30ADarcizzleOffshore.us","name":"30A Darcizzle Offshore","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":["outdoor"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/Q4l2uao.png"},
+
+
+{"id":"30AInvestmentPitch.us","name":"30A Investment Pitch","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":["business"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/CKCtZo7.png"},
+
+
+{"id":"30AMusic.us","name":"30A Music","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":["music"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/gNWg9tl.png"},
+
+
+{"id":"30ASidewalks.us","name":"30A Sidewalks","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":["entertainment"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/HSdwqZN.png"},
+
+
+{"id":"30ATheBeachShow.us","name":"30A The Beach Show","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/0j5Aget.png"},
+
+
+{"id":"31Kanal.kz","name":"31 Kanal","alt_names":[],"network":null,"owners":[],"country":"KZ","subdivision":null,"city":null,"broadcast_area":["c/KZ"],"languages":["kaz"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://31.kz/",
+
+"logo":"https://i.imgur.com/5Bp9ljw.png"},
+
+
+{"id":"324.es","name":"3/24","alt_names":[],"network":null,"owners":[],"country":"ES","subdivision":"ES-CT","city":null,"broadcast_area":["c/ES","c/AD"],"languages":["cat"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.ccma.cat/tv3/directe/324/",
+
+"logo":"https://i.imgur.com/SG7D0gt.png"},
+
+
+{"id":"34100TV.gr","name":"34100 TV","alt_names":[],"network":null,"owners":[],"country":"GR","subdivision":null,"city":null,"broadcast_area":["c/GR"],"languages":["ell"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://34100tv.com/",
+
+"logo":"https://i.imgur.com/WypYQAo.png"},
+
+
+{"id":"360.tr","name":"360","alt_names":[],"network":null,"owners":[],"country":"TR","subdivision":null,"city":null,"broadcast_area":["c/TR"],"languages":["tur"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.tv360.com.tr/",
+
+"logo":"https://i.imgur.com/agn47sQ.png"},
+
+
+{"id":"360deg.ru","name":"360°","alt_names":[],"network":null,"owners":[],"country":"RU","subdivision":null,"city":null,"broadcast_area":["c/RU"],"languages":["rus"],"categories":["general"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://360tv.ru/",
+
+"logo":"https://i.imgur.com/VTJqdoX.png"},
+
+
+{"id":"360degNews.ru","name":"360° News","alt_names":["360° Новости"],"network":null,"owners":[],"country":"RU","subdivision":null,"city":null,"broadcast_area":["c/RU"],"languages":["rus"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://360tv.ru/",
+
+"logo":"https://i.imgur.com/YXDeX8q.png"},
+
+
+{"id":"360TuneBox.nl","name":"360TuneBox","alt_names":[],"network":null,"owners":[],"country":"NL","subdivision":null,"city":null,"broadcast_area":["c/NL"],"languages":["eng"],"categories":["music"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.360tunebox.com/",
+
+"logo":"https://i.imgur.com/1Fyezng.png"},
+
+
+{"id":"360TV.ar","name":"360 TV","alt_names":[],"network":null,"owners":[],"country":"AR","subdivision":"AR-C","city":null,"broadcast_area":["s/AR-C"],"languages":["spa"],"categories":[],"is_nsfw":false,"launched":null,"closed":"2020-11-01","replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/4V3NJBk.png"},
+
+
+{"id":"363TV.tr","name":"363 TV","alt_names":[],"network":null,"owners":[],"country":"TR","subdivision":null,"city":null,"broadcast_area":["c/TR"],"languages":["tur"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/Jdu5L7P.png"},
+
+
+{"id":"365daysTV.ru","name":"365 days TV","alt_names":["365 дней ТВ"],"network":null,"owners":[],"country":"RU","subdivision":null,"city":null,"broadcast_area":["c/RU"],"languages":["rus"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.365days.ru/",
+
+"logo":"https://cdn.red-media.ru/wp-content/uploads/2019/12/365days(1).png"},
+
+
+{"id":"365TV.tr","name":"365 TV","alt_names":[],"network":null,"owners":[],"country":"TR","subdivision":null,"city":null,"broadcast_area":["c/TR"],"languages":["tur"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/xdxke6m.png"},
+
+
+{"id":"366TV.ua","name":"36.6 TV","alt_names":[],"network":null,"owners":[],"country":"UA","subdivision":null,"city":null,"broadcast_area":["c/UA","c/RU"],"languages":["ukr"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://36i6.tv/",
+
+"logo":"https://i.imgur.com/oaSLffU.png"},
+
+
+{"id":"38TV.cl","name":"38TV","alt_names":[],"network":null,"owners":[],"country":"CL","subdivision":"CL-RM","city":"Santiago","broadcast_area":["s/CL-RM"],"languages":["spa"],"categories":["general"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.38tv.cl/",
+
+"logo":"https://i.imgur.com/mwlQ9xZ.png"},
+
+
+{"id":"3ABNEnglish.us","name":"3ABN English","alt_names":[],"network":"3ABN","owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://3abn.org/",
+
+"logo":"https://i.imgur.com/bgJQIyW.png"},
+
+
+{"id":"3ABNFrench.us","name":"3ABN French","alt_names":["3ABN Français"],"network":"3ABN","owners":[],"country":"US","subdivision":"US-IL","city":"West Frankfort","broadcast_area":["c/US"],"languages":["fra"],"categories":["religious"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.3abnfrancais.org/",
+
+"logo":"https://i.imgur.com/B5gsM7m.png"},
+
+
+{"id":"3ABNInternational.us","name":"3ABN International","alt_names":[],"network":"3ABN","owners":[],"country":"US","subdivision":"US-IL","city":"West Frankfort","broadcast_area":["r/EUR","r/AFR","r/SEA","r/OCE"],"languages":["eng"],"categories":["religious"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://3abnplus.tv/programs/live-d6m99by540u?categoryId=48342",
+
+"logo":"https://i.imgur.com/8YMLPA3.png"},
+
+
+{"id":"3ABNKids.us","name":"3ABN Kids","alt_names":[],"network":"3ABN","owners":[],"country":"US","subdivision":"US-IL","city":"West Frankfort","broadcast_area":["c/US"],"languages":["eng"],"categories":["kids","religious","animation"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://3abnkids.tv/",
+
+"logo":"https://i.imgur.com/SUPQAok.png"},
+
+
+{"id":"3ABNLatino.us","name":"3ABN Latino","alt_names":[],"network":"3ABN","owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["spa"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://3abnlatino.tv/",
+
+"logo":"https://i.imgur.com/If6rCuD.png"},
+
+
+{"id":"3ABNPraiseHimMusicNetwork.us","name":"3ABN Praise Him Music Network","alt_names":[],"network":"3ABN","owners":[],"country":"US","subdivision":"US-IL","city":"West Frankfort","broadcast_area":["c/US"],"languages":["eng"],"categories":["music","religious"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.3abnpraisehim.tv/",
+
+"logo":"https://i.imgur.com/iBcqT8L.png"},
+
+
+{"id":"3ABNRussia.ru","name":"3ABN Russia","alt_names":["Три Ангела"],"network":"3ABN","owners":[],"country":"RU","subdivision":null,"city":null,"broadcast_area":["c/RU"],"languages":["rus"],"categories":["religious"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.3angels.ru/",
+
+"logo":"https://i.imgur.com/4fhBbam.png"},
+
+
+{"id":"3AW.au","name":"3AW","alt_names":[],"network":null,"owners":[],"country":"AU","subdivision":null,"city":"Melbourne","broadcast_area":["c/AU"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/Z4MdB0S.png"},
+
+
+{"id":"3eeshAlAanTV.ae","name":"3eesh Al Aan TV","alt_names":[],"network":null,"owners":[],"country":"AE","subdivision":null,"city":null,"broadcast_area":["r/ARAB"],"languages":["ara"],"categories":["general"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/xhyDrwe.png"},
+
+
+{"id":"3Plus.al","name":"3 Plus","alt_names":[],"network":null,"owners":[],"country":"AL","subdivision":null,"city":null,"broadcast_area":["c/AL"],"languages":["sqi"],"categories":["series"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.tring.al/",
+
+"logo":"https://i.imgur.com/0ZdW9As.png"},
+
+
+{"id":"3Plus.ch","name":"3+","alt_names":[],"network":null,"owners":[],"country":"CH","subdivision":null,"city":null,"broadcast_area":["c/CH"],"languages":["deu"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.oneplus.ch/",
+
+"logo":"https://i.imgur.com/w90p4yx.png"},
+
+
+{"id":"3PlusLatvija.lv","name":"3+ Latvija","alt_names":[],"network":null,"owners":[],"country":"LV","subdivision":null,"city":null,"broadcast_area":["c/LV"],"languages":["lav"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://cdn.tvstart.com/img/channel/207_1543475275-logo_64.jpg"},
+
+
+{"id":"3rdTV.gh","name":"3rd TV","alt_names":[],"network":null,"owners":[],"country":"GH","subdivision":null,"city":null,"broadcast_area":["c/GH"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/46V3hi9.png"},
+
+
+{"id":"3sat.de","name":"3sat","alt_names":[],"network":null,"owners":[],"country":"DE","subdivision":null,"city":null,"broadcast_area":["c/DE"],"languages":["deu"],"categories":[],"is_nsfw":false,"launched":"1984-12-01","closed":null,"replaced_by":null,"website":"https://www.3sat.de/",
+
+"logo":"https://i.imgur.com/es4Bslg.png"},
+
+
+{"id":"3Sport.af","name":"3 Sport","alt_names":[],"network":null,"owners":[],"country":"AF","subdivision":null,"city":null,"broadcast_area":["c/AF"],"languages":["pus"],"categories":["sports"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.goalzz.com/?i=amir_ganjvar%2f3sporttv.jpg"},
+
+
+{"id":"3StonesTV.ke","name":"3 Stones TV","alt_names":[],"network":null,"owners":[],"country":"KE","subdivision":null,"city":null,"broadcast_area":["c/KE"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://threestones.tv/",
+
+"logo":"https://i.imgur.com/im3g7T2.png"},
+
+
+{"id":"3TamilTV.in","name":"3 Tamil TV","alt_names":[],"network":null,"owners":[],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/IN"],"languages":["tam"],"categories":["entertainment"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/U3SlVLx.png"},
+
+
+{"id":"3TV.bf","name":"3 TV","alt_names":[],"network":null,"owners":[],"country":"BF","subdivision":null,"city":null,"broadcast_area":["c/BF"],"languages":["fra"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://3tv.bf/",
+
+"logo":"https://i.imgur.com/Q9es1bM.png"},
+
+
+{"id":"4050Channel.th","name":"4050 Channel","alt_names":[],"network":null,"owners":[],"country":"TH","subdivision":null,"city":null,"broadcast_area":["c/TH"],"languages":["tha"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/vr5JNVv.png"},
+
+
+{"id":"40Plus.uk","name":"40+","alt_names":[],"network":null,"owners":["MG Global Entertainment (Europe) Limited"],"country":"UK","subdivision":null,"city":null,"broadcast_area":["c/UK"],"languages":["eng"],"categories":["xxx"],"is_nsfw":true,"launched":"2019-04-24","closed":null,"replaced_by":null,"website":"https://www.televisionx.com/",
+
+"logo":"https://i.imgur.com/DY9chsN.png"},
+
+
+{"id":"45TV.hn","name":"45 TV","alt_names":[],"network":null,"owners":[],"country":"HN","subdivision":null,"city":null,"broadcast_area":["c/HN"],"languages":["spa"],"categories":["general"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://45tvhn.com/",
+
+"logo":"https://i.imgur.com/SjUnQlg.png"},
+
+
+{"id":"48Hours.us","name":"48 Hours","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":["documentary"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://pluto.tv/en/live-tv/48-hours",
+
+"logo":"https://i.imgur.com/Q7THHhX.png"},
+
+
+{"id":"48NewsUK.pk","name":"48 News UK","alt_names":[],"network":null,"owners":[],"country":"PK","subdivision":null,"city":null,"broadcast_area":["c/PK"],"languages":["eng"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/poj9KAI.jpeg"},
+
+
+{"id":"4E.gr","name":"4E","alt_names":[],"network":null,"owners":[],"country":"GR","subdivision":null,"city":null,"broadcast_area":["c/GR"],"languages":["ell"],"categories":[],"is_nsfw":false,"launched":"1993-12-16","closed":null,"replaced_by":null,"website":"https://tv4e.gr/",
+
+"logo":"https://i.imgur.com/Na0UCV7.png"},
+
+
+{"id":"4Edu.mm","name":"4 Edu","alt_names":[],"network":null,"owners":[],"country":"MM","subdivision":null,"city":null,"broadcast_area":["c/MM"],"languages":["mya"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.forevergroup.com.mm/",
+
+"logo":"https://i.imgur.com/Aqc8Kha.png"},
+
+
+{"id":"4EylulTV.tr","name":"4 Eylul TV","alt_names":["4 Eylül TV"],"network":null,"owners":[],"country":"TR","subdivision":null,"city":null,"broadcast_area":["c/TR"],"languages":["tur"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/VczPSlg.png"},
+
+
+{"id":"4FunDance.pl","name":"4 Fun Dance","alt_names":[],"network":null,"owners":[],"country":"PL","subdivision":null,"city":null,"broadcast_area":["c/PL"],"languages":["pol"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://4fun.tv/dance",
+
+"logo":"https://i.imgur.com/ZEWHe1B.png"},
+
+
+{"id":"4FunKids.pl","name":"4 Fun Kids","alt_names":[],"network":null,"owners":[],"country":"PL","subdivision":null,"city":null,"broadcast_area":["c/PL"],"languages":["pol"],"categories":["kids"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://4fun.tv/kids",
+
+"logo":"https://i.imgur.com/2JO5Y8c.png"},
+
+
+{"id":"4FunTV.pl","name":"4 Fun TV","alt_names":[],"network":null,"owners":[],"country":"PL","subdivision":null,"city":null,"broadcast_area":["c/PL"],"languages":["pol"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://4fun.tv/",
+
+"logo":"https://i.imgur.com/rI1wo2l.png"},
+
+
+{"id":"4Kanal.ua","name":"4 Kanal","alt_names":[],"network":null,"owners":[],"country":"UA","subdivision":null,"city":null,"broadcast_area":["c/UA","c/RU"],"languages":["ukr"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://4channel.com.ua/",
+
+"logo":"https://i.imgur.com/JtqdPlY.png"},
+
+
+{"id":"4KHeritage.us","name":"4K Heritage","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng","fra"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://4kheritage.tv/",
+
+"logo":"https://i.imgur.com/VwnoSaE.png"},
+
+
+{"id":"4KUniverse.us","name":"4KUniverse","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://4kuniversenow.com/",
+
+"logo":"https://i.imgur.com/gt9IcFb.png"},
+
+
+{"id":"4Music.uk","name":"4Music","alt_names":[],"network":null,"owners":["HM Government"],"country":"UK","subdivision":null,"city":null,"broadcast_area":["c/UK"],"languages":["eng"],"categories":["music"],"is_nsfw":false,"launched":"2008-08-15","closed":null,"replaced_by":null,"website":"https://www.boxplus.com/",
+
+"logo":"https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/512px-4Music_logo_2018.svg.png"},
+
+
+{"id":"4Plus.ch","name":"4+","alt_names":[],"network":null,"owners":[],"country":"CH","subdivision":null,"city":null,"broadcast_area":["c/CH"],"languages":["deu"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.oneplus.ch/",
+
+"logo":"https://i.imgur.com/5KlJk5n.png"},
+
+
+{"id":"4seven.uk","name":"4seven","alt_names":[],"network":null,"owners":["HM Government"],"country":"UK","subdivision":null,"city":null,"broadcast_area":["c/UK"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.channel4.com/",
+
+"logo":"https://i.imgur.com/Fpaxyop.png"},
+
+
+{"id":"4TVNews.in","name":"4TV News","alt_names":[],"network":null,"owners":[],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/IN"],"languages":["hin"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.4tvhyd.com/",
+
+"logo":"https://i.imgur.com/DSAaC2b.png"},
+
+
+{"id":"4UTV.tr","name":"4U TV","alt_names":[],"network":null,"owners":[],"country":"TR","subdivision":null,"city":null,"broadcast_area":["c/TR","c/IR"],"languages":["fas"],"categories":["entertainment"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/PexhKwp.png"},
+
+
+{"id":"50Canale.it","name":"50 Canale","alt_names":[],"network":null,"owners":["Rossi Costruttori","Gruppo Pucci","Forti Holding S.p.A."],"country":"IT","subdivision":null,"city":"Pisa","broadcast_area":["c/IT"],"languages":["ita"],"categories":["general"],"is_nsfw":false,"launched":"1983-01-01","closed":null,"replaced_by":null,"website":"https://50canale.tv/",
+
+"logo":"https://i.imgur.com/D3OTRzf.png"},
+
+
+{"id":"51RadioTV.it","name":"51 Radio TV","alt_names":[],"network":null,"owners":[],"country":"IT","subdivision":null,"city":null,"broadcast_area":["c/IT"],"languages":["ita"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://www.51news.it/images/loghi/logo_tv_radio_51news.png"},
+
+
+{"id":"54UnityTV.th","name":"54 Unity TV","alt_names":[],"network":null,"owners":[],"country":"TH","subdivision":null,"city":null,"broadcast_area":["c/TH"],"languages":["tha"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/KYqBz8S.png"},
+
+
+{"id":"555.ru","name":"555","alt_names":[],"network":null,"owners":[],"country":"RU","subdivision":null,"city":"Alushta","broadcast_area":["c/RU"],"languages":["rus"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://trk555.tv/",
+
+"logo":"https://i.imgur.com/JQZkxeA.png"},
+
+
+{"id":"5AABTV.ca","name":"5AAB TV","alt_names":[],"network":null,"owners":[],"country":"CA","subdivision":null,"city":null,"broadcast_area":["c/CA"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/jrGrfof.png"},
+
+
+{"id":"5Action.uk","name":"5 Action","alt_names":[],"network":null,"owners":[],"country":"UK","subdivision":null,"city":null,"broadcast_area":["c/UK"],"languages":["eng"],"categories":["entertainment"],"is_nsfw":false,"launched":"2022-01-19","closed":null,"replaced_by":null,"website":"http://www.channel5.com/channels/5action",
+
+"logo":"https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/5Action_logo.svg/512px-5Action_logo.svg.png"},
+
+
+{"id":"5BuildingBritainUK.uk","name":"5 Building Britain UK","alt_names":[],"network":null,"owners":[],"country":"UK","subdivision":null,"city":null,"broadcast_area":["c/UK"],"languages":["eng"],"categories":["documentary"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://pluto.tv/en/live-tv/5-building-britain-gb",
+
+"logo":"https://i.imgur.com/YTrHoLr.png"},
+
+
+{"id":"5CopsUK.uk","name":"5 Cops UK","alt_names":[],"network":null,"owners":[],"country":"UK","subdivision":null,"city":null,"broadcast_area":["c/UK"],"languages":["eng"],"categories":["documentary"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://pluto.tv/en/live-tv/5-cops-gb",
+
+"logo":"https://i.imgur.com/QFPRaXK.png"},
+
+
+{"id":"5CruisingwithJaneMcDonaldUK.uk","name":"5 Cruising with Jane McDonald UK","alt_names":[],"network":null,"owners":[],"country":"UK","subdivision":null,"city":null,"broadcast_area":["c/UK"],"languages":["eng"],"categories":["lifestyle"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://pluto.tv/en/live-tv/5-cruising-with-jane-mcdonald-gb",
+
+"logo":"https://i.imgur.com/Cw6foyA.png"},
+
+
+{"id":"5DestinationBritainUK.uk","name":"5 Destination Britain UK","alt_names":[],"network":null,"owners":[],"country":"UK","subdivision":null,"city":null,"broadcast_area":["c/UK"],"languages":["eng"],"categories":["lifestyle"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://pluto.tv/en/live-tv/5-destination-britain-gb",
+
+"logo":"https://i.imgur.com/pcfTefk.png"},
+
+
+{"id":"5DiasTV.py","name":"5Dias TV","alt_names":["5Días TV"],"network":null,"owners":[],"country":"PY","subdivision":null,"city":null,"broadcast_area":["c/PY"],"languages":["spa"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.5dias.com.py/videos",
+
+"logo":"https://i.imgur.com/AX25tmv.png"},
+
+
+{"id":"5Gold.il","name":"5Gold","alt_names":[],"network":null,"owners":["RGE Group"],"country":"IL","subdivision":null,"city":null,"broadcast_area":["c/IL"],"languages":["heb"],"categories":["sports"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.sport5.co.il/",
+
+"logo":"https://i.imgur.com/zFLRfXh.png"},
+
+
+{"id":"5GPsUK.uk","name":"5 GP's UK","alt_names":[],"network":null,"owners":[],"country":"UK","subdivision":null,"city":null,"broadcast_area":["c/UK"],"languages":["eng"],"categories":["lifestyle"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://pluto.tv/en/live-tv/5-gps-gb",
+
+"logo":"https://i.imgur.com/xrK2M3o.png"},
+
+
+{"id":"5Live.il","name":"5Live","alt_names":[],"network":null,"owners":["RGE Group"],"country":"IL","subdivision":null,"city":null,"broadcast_area":["c/IL"],"languages":["heb"],"categories":["sports"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.sport5.co.il/",
+
+"logo":"https://i.imgur.com/0yr3yvd.png"},
+
+
+{"id":"5Plus.ch","name":"5+","alt_names":[],"network":null,"owners":[],"country":"CH","subdivision":null,"city":null,"broadcast_area":["c/CH"],"languages":["deu"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.oneplus.ch/",
+
+"logo":"https://static.wikia.nocookie.net/logopedia/images/0/04/5_Plus_TV.svg/revision/latest/scale-to-width-down/512"},
+
+
+{"id":"5Plus.il","name":"5Plus","alt_names":[],"network":null,"owners":["RGE Group"],"country":"IL","subdivision":null,"city":null,"broadcast_area":["c/IL"],"languages":["heb"],"categories":["sports"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.sport5.co.il/",
+
+"logo":"https://i.imgur.com/L3RA9Lv.png"},
+
+
+{"id":"5Plus.mm","name":"5 Plus","alt_names":[],"network":null,"owners":[],"country":"MM","subdivision":null,"city":null,"broadcast_area":["c/MM"],"languages":["mya"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.5pluschannel.com/",
+
+"logo":"https://i.imgur.com/4EHL2mH.png"},
+
+
+{"id":"5RTV.ar","name":"5R TV","alt_names":[],"network":null,"owners":[],"country":"AR","subdivision":null,"city":null,"broadcast_area":["c/AR"],"languages":["spa"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":"SantaFeCanal.ar","website":null,
+
+"logo":"https://i.imgur.com/AChL2ys.png"},
+
+
+{"id":"5Select.uk","name":"5 Select","alt_names":[],"network":null,"owners":[],"country":"UK","subdivision":null,"city":null,"broadcast_area":["c/UK"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.channel5.com/channels/5select",
+
+"logo":"https://i.imgur.com/WJ9xR6l.png"},
+
+
+{"id":"5Sport.il","name":"5Sport","alt_names":["ספורט 5"],"network":null,"owners":["RGE Group"],"country":"IL","subdivision":null,"city":null,"broadcast_area":["c/IL"],"languages":["heb"],"categories":["sports"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.sport5.co.il/",
+
+"logo":"https://i.imgur.com/dRVsB89.png"},
+
+
+{"id":"5Sport4K.il","name":"5Sport 4K","alt_names":[],"network":null,"owners":["RGE Group"],"country":"IL","subdivision":null,"city":null,"broadcast_area":["c/IL"],"languages":["heb"],"categories":["sports"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.sport5.co.il/",
+
+"logo":"https://i.imgur.com/Msfhpqd.png"},
+
+
+{"id":"5Star.uk","name":"5 Star","alt_names":[],"network":null,"owners":[],"country":"UK","subdivision":null,"city":null,"broadcast_area":["c/UK"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/PI11s9s.png"},
+
+
+{"id":"5StarMaxEast.us","name":"5StarMax East","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":["movies"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/5StarMax_Logo.svg/512px-5StarMax_Logo.svg.png"},
+
+
+{"id":"5StarMaxWest.us","name":"5StarMax West","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":["movies"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/5StarMax_Logo.svg/512px-5StarMax_Logo.svg.png"},
+
+
+{"id":"5StarPlus1.uk","name":"5 Star +1","alt_names":[],"network":null,"owners":[],"country":"UK","subdivision":null,"city":null,"broadcast_area":["c/UK"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/fzqtSNm.png"},
+
+
+{"id":"5Stars.il","name":"5Stars","alt_names":[],"network":null,"owners":["RGE Group"],"country":"IL","subdivision":null,"city":null,"broadcast_area":["c/IL"],"languages":["heb"],"categories":["sports"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.sport5.co.il/",
+
+"logo":"https://i.imgur.com/IQtAKIa.png"},
+
+
+{"id":"5Thukhuma.mm","name":"5 Thukhuma","alt_names":[],"network":null,"owners":[],"country":"MM","subdivision":null,"city":null,"broadcast_area":["c/MM"],"languages":["mya"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/N3dbec6.png"},
+
+
+{"id":"5Thukhuma2.mm","name":"5 Thukhuma 2","alt_names":[],"network":null,"owners":[],"country":"MM","subdivision":null,"city":null,"broadcast_area":["c/MM"],"languages":["mya"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/Yj9Zyp7.png"},
+
+
+{"id":"5TVArgentina.ar","name":"5TV Argentina","alt_names":[],"network":null,"owners":[],"country":"AR","subdivision":null,"city":"Corrientes","broadcast_area":["c/AR"],"languages":["spa"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.tvcinco.com/",
+
+"logo":"https://i.imgur.com/mSn7ACs.png"},
+
+
+{"id":"5TVArmenia.am","name":"5TV Armenia","alt_names":["5-րդ ալիք"],"network":null,"owners":[],"country":"AM","subdivision":null,"city":null,"broadcast_area":["c/AM"],"languages":["hye"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.5tv.am/",
+
+"logo":"https://i.imgur.com/VRD6enL.png"},
+
+
+{"id":"5USA.uk","name":"5 USA","alt_names":[],"network":null,"owners":[],"country":"UK","subdivision":null,"city":null,"broadcast_area":["c/UK"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.channel5.com/channels/5usa",
+
+"logo":"https://i.imgur.com/Pi7so2l.png"},
+
+
+{"id":"5USAPlus1.uk","name":"5 USA +1","alt_names":[],"network":null,"owners":[],"country":"UK","subdivision":null,"city":null,"broadcast_area":["c/UK"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.channel5.com/channels/5usa",
+
+"logo":"https://i.imgur.com/hBx6T5t.png"},
+
+
+{"id":"6eren.dk","name":"6'eren","alt_names":[],"network":null,"owners":["Warner Bros. Discovery EMEA"],"country":"DK","subdivision":null,"city":null,"broadcast_area":["c/DK"],"languages":["dan"],"categories":[],"is_nsfw":false,"launched":"2009-01-01","closed":null,"replaced_by":null,"website":"http://www.6-eren.dk/",
+
+"logo":"https://i.imgur.com/8Nw3hMI.png"},
+
+
+{"id":"6Plus.ch","name":"6+","alt_names":[],"network":null,"owners":[],"country":"CH","subdivision":null,"city":null,"broadcast_area":["c/CH"],"languages":["deu"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.oneplus.ch/",
+
+"logo":"https://i.imgur.com/7CN1zfD.png"},
+
+
+{"id":"6ter.fr","name":"6ter","alt_names":[],"network":null,"owners":["Groupe M6"],"country":"FR","subdivision":null,"city":null,"broadcast_area":["c/FR"],"languages":["fra"],"categories":[],"is_nsfw":false,"launched":"2012-12-12","closed":null,"replaced_by":null,"website":"https://www.6play.fr/6ter",
+
+"logo":"https://i.imgur.com/2nd5Cox.png"},
+
+
+{"id":"6terSwitzerland.ch","name":"6ter Switzerland","alt_names":[],"network":null,"owners":[],"country":"CH","subdivision":null,"city":null,"broadcast_area":["c/CH"],"languages":["fra"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.6play.fr/6ter",
+
+"logo":"https://i.imgur.com/PUL07KK.png"},
+
+
+{"id":"6TVBangla.in","name":"6 TV Bangla","alt_names":[],"network":null,"owners":[],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/IN"],"languages":["ben"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/ersxVRe.png"},
+
+
+{"id":"6TVTelugu.in","name":"6 TV Telugu","alt_names":[],"network":null,"owners":[],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/IN"],"languages":["tel"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://6tvtelugu.com/",
+
+"logo":"https://i.imgur.com/l3EcRnZ.png"},
+
+
+{"id":"7080TV.it","name":"70-80 TV","alt_names":[],"network":null,"owners":[],"country":"IT","subdivision":null,"city":"Legnano","broadcast_area":["c/IT"],"languages":["ita"],"categories":["music"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.70-80.it/tv-player/",
+
+"logo":"https://i.imgur.com/y4kNV3Q.png"},
+
+
+{"id":"70sCinema.us","name":"70s Cinema","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":["movies"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://pluto.tv/en/live-tv/70s-cinema",
+
+"logo":"https://i.imgur.com/mgXeEE4.png"},
+
+
+{"id":"77CableAccess.us","name":"77 Cable Access","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":"US-NJ","city":"Tenafly","broadcast_area":["s/US-NJ"],"languages":["eng"],"categories":["education"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://librarymedia.net/77-cable-access-simulcast/",
+
+"logo":"https://i.imgur.com/IQcvSkP.png"},
+
+
+{"id":"78.ru","name":"78","alt_names":[],"network":null,"owners":[],"country":"RU","subdivision":null,"city":"Saint Petersburg","broadcast_area":["c/RU"],"languages":["rus"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://78.ru/",
+
+"logo":"https://i.imgur.com/TNpOr8v.png"},
+
+
+{"id":"78TV.bg","name":"7/8 TV","alt_names":[],"network":null,"owners":["Slavi Trifonov"],"country":"BG","subdivision":null,"city":null,"broadcast_area":["c/BG"],"languages":["bul"],"categories":[],"is_nsfw":false,"launched":"2019-11-04","closed":null,"replaced_by":null,"website":"https://sedemosmi.tv/",
+
+"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Seven-Eight-TV.png/512px-Seven-Eight-TV.png"},
+
+
+{"id":"7alaTV.ps","name":"7ala TV","alt_names":[],"network":null,"owners":[],"country":"PS","subdivision":null,"city":null,"broadcast_area":["c/PS"],"languages":["ara"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png"},
+
+
+{"id":"7ALimoges.fr","name":"7ALimoges","alt_names":[],"network":null,"owners":[],"country":"FR","subdivision":null,"city":null,"broadcast_area":["c/FR"],"languages":["fra"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/1ccTQ7Z.png"},
+
+
+{"id":"7D7.ee","name":"7D7","alt_names":[],"network":null,"owners":[],"country":"EE","subdivision":null,"city":null,"broadcast_area":["c/EE"],"languages":["rus"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://7d7.tv/",
+
+"logo":"https://i.imgur.com/WrQI2EN.png"},
+
+
+{"id":"7flix.au","name":"7flix","alt_names":[],"network":null,"owners":["Seven West Media"],"country":"AU","subdivision":null,"city":null,"broadcast_area":["c/AU"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":"2016-02-28","closed":null,"replaced_by":null,"website":"https://7plus.com.au/",
+
+"logo":"https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/512px-7flix_logo_2020.svg.png"},
+
+
+{"id":"7Gold.it","name":"7 Gold","alt_names":[],"network":null,"owners":[],"country":"IT","subdivision":null,"city":null,"broadcast_area":["c/CH","c/IT"],"languages":["ita"],"categories":[],"is_nsfw":false,"launched":"1999-05-31","closed":null,"replaced_by":null,"website":"http://www.my7.tv/",
+
+"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/7gold.jpg/512px-7gold.jpg"},
+
+
+{"id":"7HD.au","name":"7HD","alt_names":[],"network":null,"owners":["Seven West Media"],"country":"AU","subdivision":null,"city":null,"broadcast_area":["c/AU"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":"2016-05-10","closed":null,"replaced_by":null,"website":"https://7plus.com.au/",
+
+"logo":"https://i.imgur.com/KevoM94.png"},
+
+
+{"id":"7Info.ci","name":"7 Info","alt_names":[],"network":null,"owners":[],"country":"CI","subdivision":null,"city":null,"broadcast_area":["c/CI"],"languages":["fra"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.7info.ci/",
+
+"logo":"https://i.imgur.com/jcl1nNR.png"},
+
+
+{"id":"7LaRioja.es","name":"7 La Rioja","alt_names":[],"network":null,"owners":[],"country":"ES","subdivision":"ES-RI","city":null,"broadcast_area":["s/ES-RI"],"languages":["spa"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://www.7rioja.tv/entorno/Cabeceras/Cabecera7RIOJA.png"},
+
+
+{"id":"7mate.au","name":"7mate","alt_names":[],"network":null,"owners":["Seven West Media"],"country":"AU","subdivision":null,"city":null,"broadcast_area":["c/AU"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":"2010-09-25","closed":null,"replaced_by":null,"website":"https://7plus.com.au/",
+
+"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/512px-7mate_logo_2020.svg.png"},
+
+
+{"id":"7NN.es","name":"7NN","alt_names":[],"network":null,"owners":[],"country":"ES","subdivision":null,"city":null,"broadcast_area":["c/ES"],"languages":["spa"],"categories":["news"],"is_nsfw":false,"launched":"2021-10-12","closed":null,"replaced_by":null,"website":"https://7nn.tv/",
+
+"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/7NN_TV.svg/512px-7NN_TV.svg.png"},
+
+
+{"id":"7Plus.ch","name":"7+","alt_names":[],"network":null,"owners":[],"country":"CH","subdivision":null,"city":null,"broadcast_area":["c/CH"],"languages":["deu"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://inhalte.oneplus.ch/programm/tv7plus",
+
+"logo":"https://i.imgur.com/auWTg2E.png"},
+
+
+{"id":"7PlusNickSchweiz.ch","name":"7+/Nick Schweiz","alt_names":[],"network":null,"owners":[],"country":"CH","subdivision":null,"city":null,"broadcast_area":["c/CH"],"languages":["deu"],"categories":["kids"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://tv.blue.ch/tv-guide",
+
+"logo":"https://i.imgur.com/yK6XmT6.png"},
+
+
+{"id":"7Sky.iq","name":"7 Sky","alt_names":[],"network":null,"owners":[],"country":"IQ","subdivision":null,"city":null,"broadcast_area":["c/IQ"],"languages":["ara"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/5BWm3bL.png"},
+
+
+{"id":"7SMusic.in","name":"7S Music","alt_names":[],"network":null,"owners":[],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/IN"],"languages":["tam"],"categories":["music"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/zDiIhdN.png"},
+
+
+{"id":"7SpiritsTV.et","name":"7 Spirits TV","alt_names":[],"network":null,"owners":[],"country":"ET","subdivision":null,"city":null,"broadcast_area":["c/ET"],"languages":["amh"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/CmNIuqd.png"},
+
+
+{"id":"7StarsTV.jo","name":"7 Stars TV","alt_names":[],"network":null,"owners":[],"country":"JO","subdivision":null,"city":null,"broadcast_area":["c/JO"],"languages":["ara"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://www.livenewsnow.com/wp-content/uploads/2015/12/7-Stars-TV-1.png"},
+
+
+{"id":"7TelevisionRegiondeMurcia.es","name":"7 Television Region de Murcia","alt_names":["7 Televisión Región de Murcia"],"network":null,"owners":[],"country":"ES","subdivision":"ES-MC","city":null,"broadcast_area":["s/ES-MC"],"languages":["spa"],"categories":[],"is_nsfw":false,"launched":"2006-09-20","closed":null,"replaced_by":null,"website":"http://7tvregiondemurcia.es/",
+
+"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/7TVRM.svg/512px-7TVRM.svg.png"},
+
+
+{"id":"7TV.hu","name":"7.TV","alt_names":[],"network":null,"owners":[],"country":"HU","subdivision":null,"city":null,"broadcast_area":["c/HU"],"languages":["hun"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://behir.hu/tv",
+
+"logo":"https://i.imgur.com/CnUhAlK.png"},
+
+
+{"id":"7tv.ru","name":"7tv","alt_names":[],"network":null,"owners":[],"country":"RU","subdivision":null,"city":null,"broadcast_area":["c/RU"],"languages":["rus"],"categories":["entertainment"],"is_nsfw":false,"launched":"2016-12-16","closed":null,"replaced_by":null,"website":"http://www.7-tv.tv/",
+
+"logo":"https://i.imgur.com/Wuy9Vtn.png"},
+
+
+{"id":"7TVAndalucia.es","name":"7 TV Andalucia","alt_names":["7 TV Andalucía"],"network":null,"owners":[],"country":"ES","subdivision":"ES-AN","city":null,"broadcast_area":["s/ES-AN"],"languages":["spa"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/rnzMR9R.png"},
+
+
+{"id":"7TVAndaluciaBahia.es","name":"7 TV Andalucia Bahia","alt_names":["7 TV Andalucía Bahía"],"network":null,"owners":[],"country":"ES","subdivision":"ES-AN","city":"Bahía","broadcast_area":["s/ES-AN"],"languages":["spa"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/rnzMR9R.png"},
+
+
+{"id":"7TVAndaluciaCordoba.es","name":"7 TV Andalucia Cordoba","alt_names":["7 TV Andalucía Córdoba"],"network":null,"owners":[],"country":"ES","subdivision":"ES-AN","city":"Córdoba","broadcast_area":["s/ES-AN"],"languages":["spa"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/rnzMR9R.png"},
+
+
+{"id":"7TVAndaluciaCostaNoroeste.es","name":"7 TV Andalucia Costa Noroeste","alt_names":["7 TV Andalucía Costa Noroeste"],"network":null,"owners":[],"country":"ES","subdivision":"ES-AN","city":"Costa Noroeste","broadcast_area":["s/ES-AN"],"languages":["spa"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/rnzMR9R.png"},
+
+
+{"id":"7TVAndaluciaJaen.es","name":"7 TV Andalucia Jaen","alt_names":["7 TV Andalucía Jaén"],"network":null,"owners":[],"country":"ES","subdivision":"ES-AN","city":"Jaén","broadcast_area":["s/ES-AN"],"languages":["spa"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/rnzMR9R.png"},
+
+
+{"id":"7TVAndaluciaJerez.es","name":"7 TV Andalucia Jerez","alt_names":["7 TV Andalucía Jerez"],"network":null,"owners":[],"country":"ES","subdivision":"ES-AN","city":"Jerez","broadcast_area":["s/ES-AN"],"languages":["spa"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/rnzMR9R.png"},
+
+
+{"id":"7TVAndaluciaMalaga.es","name":"7 TV Andalucia Malaga","alt_names":["7 TV Andalucía Málaga"],"network":null,"owners":[],"country":"ES","subdivision":"ES-AN","city":"Málaga","broadcast_area":["s/ES-AN"],"languages":["spa"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/rnzMR9R.png"},
+
+
+{"id":"7TVAndaluciaSevilla.es","name":"7 TV Andalucia Sevilla","alt_names":["7 TV Andalucía Sevilla"],"network":null,"owners":[],"country":"ES","subdivision":"ES-AN","city":"Sevilla","broadcast_area":["s/ES-AN"],"languages":["spa"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/rnzMR9R.png"},
+
+
+{"id":"7TVAndaluciaSierra.es","name":"7 TV Andalucia Sierra","alt_names":["7 TV Andalucía Sierra"],"network":null,"owners":[],"country":"ES","subdivision":"ES-AN","city":null,"broadcast_area":["s/ES-AN"],"languages":["spa"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/rnzMR9R.png"},
+
+
+{"id":"7TVSenegal.sn","name":"7TV Senegal","alt_names":["7TV Sénégal"],"network":null,"owners":[],"country":"SN","subdivision":null,"city":null,"broadcast_area":["c/SN"],"languages":["fra"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://7tv.sn/",
+
+"logo":"https://i.imgur.com/e2K9oFJ.png"},
+
+
+{"id":"7two.au","name":"7two","alt_names":[],"network":null,"owners":["Seven West Media"],"country":"AU","subdivision":null,"city":null,"broadcast_area":["c/AU"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":"2009-11-01","closed":null,"replaced_by":null,"website":"https://7plus.com.au/",
+
+"logo":"https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/512px-7two_logo_2020.svg.png"},
+
+
+{"id":"80sRewind.us","name":"80s Rewind","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":["movies"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://pluto.tv/it/live-tv/80s-rewind",
+
+"logo":"https://i.imgur.com/nkEeYfI.png"},
+
+
+{"id":"86.ru","name":"86","alt_names":[],"network":null,"owners":[],"country":"RU","subdivision":null,"city":"Surgut","broadcast_area":["c/RU"],"languages":["rus"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://sitv.ru/efir/86/",
+
+"logo":"https://i.imgur.com/0dRS4Cb.png"},
+
+
+{"id":"88Films.us","name":"88 Films","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["zho"],"categories":["movies"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.directv.com/international/chinese",
+
+"logo":"https://i.imgur.com/CbjD0zY.png"},
+
+
+{"id":"88Stereo.cr","name":"88 Stereo","alt_names":[],"network":null,"owners":[],"country":"CR","subdivision":null,"city":null,"broadcast_area":["c/CR"],"languages":["spa"],"categories":["music"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.88stereo.com/",
+
+"logo":"https://i.imgur.com/i3YwORV.png"},
+
+
+{"id":"88TV.us","name":"88 TV","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["zho"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.directv.com/international/chinese",
+
+"logo":"https://i.imgur.com/tcKfZ3T.png"},
+
+
+{"id":"8LaMarinaTV.es","name":"8 La Marina TV","alt_names":[],"network":null,"owners":[],"country":"ES","subdivision":"ES-VC","city":"Benidorm","broadcast_area":["s/ES-VC"],"languages":["spa"],"categories":["general"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://8lamarinatv.com/",
+
+"logo":"https://i.imgur.com/BTJvvBK.png"},
+
+
+{"id":"8TV.my","name":"8TV","alt_names":["八度空间"],"network":null,"owners":[],"country":"MY","subdivision":null,"city":null,"broadcast_area":["c/MY"],"languages":["zho"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.xtra.com.my/",
+
+"logo":"https://i.imgur.com/Jkx9W88.png"},
+
+
+{"id":"8TVCadiz.es","name":"8 TV Cadiz","alt_names":["8 TV Cádiz"],"network":null,"owners":[],"country":"ES","subdivision":"ES-AN","city":"Cadiz","broadcast_area":["s/ES-AN"],"languages":["spa"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.8cadiz.es/directo/",
+
+"logo":"https://i.imgur.com/WGh5ULv.png"},
+
+
+{"id":"8TVCatalunya.es","name":"8 TV Catalunya","alt_names":[],"network":null,"owners":[],"country":"ES","subdivision":"ES-CT","city":null,"broadcast_area":["s/ES-CT"],"languages":["cat"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.8tv.cat/en-directe.html",
+
+"logo":"https://i.imgur.com/5MgRUWR.png"},
+
+
+{"id":"8XM.pk","name":"8XM","alt_names":[],"network":null,"owners":[],"country":"PK","subdivision":null,"city":null,"broadcast_area":["c/PK"],"languages":["urd"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/KLrfKRn.png"},
+
+
+{"id":"90210.us","name":"90210","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":["entertainment"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://pluto.tv/en/live-tv/90210",
+
+"logo":"https://i.imgur.com/xqo5PxO.png"},
+
+
+{"id":"90sThrowback.us","name":"90s Throwback","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":["movies"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://pluto.tv/it/live-tv/90s-throwback",
+
+"logo":"https://i.imgur.com/KoGko6M.png"},
+
+
+{"id":"92NewsHD.pk","name":"92 News HD","alt_names":[],"network":null,"owners":["Mian Muhammad Hanif"],"country":"PK","subdivision":null,"city":null,"broadcast_area":["c/PK"],"languages":["urd"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://92newshd.tv/live-tv",
+
+"logo":"https://i.imgur.com/XqQOUi7.png"},
+
+
+{"id":"92NewsUK.pk","name":"92 News UK","alt_names":[],"network":null,"owners":[],"country":"PK","subdivision":null,"city":null,"broadcast_area":["c/PK"],"languages":["urd"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://92newshd.tv/live-uk",
+
+"logo":"https://i.imgur.com/nAldca2.png"},
+
+
+{"id":"987tv.es","name":"987tv","alt_names":[],"network":null,"owners":[],"country":"ES","subdivision":"ES-CL","city":"León","broadcast_area":["s/ES-CL"],"languages":["spa"],"categories":["general"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://987tv.es/",
+
+"logo":"https://i.imgur.com/LpD7j8z.jpg"},
+
+
+{"id":"99NewsHD.pk","name":"99 News HD","alt_names":[],"network":null,"owners":[],"country":"PK","subdivision":null,"city":null,"broadcast_area":["c/PK"],"languages":["eng"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://99newshd.com/",
+
+"logo":"https://i.imgur.com/UxBeAqr.png"},
+
+
+{"id":"99TV.in","name":"99TV","alt_names":[],"network":null,"owners":["Sky News Media Pvt. Ltd."],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/IN"],"languages":["tel"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/dZA4gel.png"},
+
+
+{"id":"9colors.kr","name":"9colors","alt_names":[],"network":null,"owners":[],"country":"KR","subdivision":null,"city":null,"broadcast_area":["c/KR"],"languages":["kor"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.9colors.co.kr/",
+
+"logo":"https://i.imgur.com/hHuYqA0.png"},
+
+
+{"id":"9Gem.au","name":"9Gem","alt_names":[],"network":null,"owners":["Nine Entertainment"],"country":"AU","subdivision":null,"city":null,"broadcast_area":["c/AU"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.9now.com.au/",
+
+"logo":"https://i.imgur.com/cwLzqaw.png"},
+
+
+{"id":"9Go.au","name":"9Go!","alt_names":[],"network":null,"owners":["Nine Entertainment"],"country":"AU","subdivision":null,"city":null,"broadcast_area":["c/AU"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.9now.com.au/",
+
+"logo":"https://i.imgur.com/RLijQI8.png"},
+
+
+{"id":"9laLomaTV.es","name":"9 la Loma TV","alt_names":[],"network":null,"owners":[],"country":"ES","subdivision":"ES-AN","city":null,"broadcast_area":["c/ES"],"languages":["spa"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://9laloma.tv/",
+
+"logo":"https://i.imgur.com/WQP3el2.png"},
+
+
+{"id":"9Life.au","name":"9Life","alt_names":[],"network":null,"owners":["Nine Entertainment"],"country":"AU","subdivision":null,"city":null,"broadcast_area":["c/AU"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.9now.com.au/",
+
+"logo":"https://i.imgur.com/HlJOrGI.png"},
+
+
+{"id":"9Rush.au","name":"9Rush","alt_names":[],"network":null,"owners":["Nine Entertainment","Warner Bros. Discovery"],"country":"AU","subdivision":null,"city":null,"broadcast_area":["c/AU"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":"2020-04-05","closed":null,"replaced_by":null,"website":"http://www.9now.com.au/",
+
+"logo":"https://upload.wikimedia.org/wikipedia/en/c/c2/Logo_of_9RUSH.png"},
+
+
+{"id":"9Volna.ru","name":"9 Volna","alt_names":["9 Волна"],"network":null,"owners":[],"country":"RU","subdivision":null,"city":null,"broadcast_area":["c/RU"],"languages":["rus"],"categories":["entertainment"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://9volna.com/",
+
+"logo":"https://i.imgur.com/zmnSoBA.png"},
+
+
+{"id":"9XJalwa.in","name":"9X Jalwa","alt_names":[],"network":null,"owners":[],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/IN"],"languages":["hin"],"categories":["music"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.9xjalwa.in/",
+
+"logo":"https://i.imgur.com/qubgOi5.png"},
+
+
+{"id":"9XJhakaas.in","name":"9X Jhakaas","alt_names":[],"network":null,"owners":["9X Media"],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/IN"],"languages":["mar"],"categories":["music"],"is_nsfw":false,"launched":"2011-10-31","closed":null,"replaced_by":null,"website":"https://www.9xjhakaas.in/",
+
+"logo":"https://i.imgur.com/aZ0f85I.png"},
+
+
+{"id":"9XM.in","name":"9XM","alt_names":[],"network":null,"owners":["9X Media"],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/IN"],"languages":["hin"],"categories":["music"],"is_nsfw":false,"launched":"2007-10-01","closed":null,"replaced_by":null,"website":"https://www.9xm.in/",
+
+"logo":"https://i.imgur.com/F17QtN2.png"},
+
+
+{"id":"9XTashan.in","name":"9X Tashan","alt_names":[],"network":null,"owners":["9X Media Jus Broadcasting"],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/IN"],"languages":["pan"],"categories":[],"is_nsfw":false,"launched":"2011-08-31","closed":null,"replaced_by":null,"website":"https://www.9xtashan.in/",
+
+"logo":"https://i.imgur.com/MMR1RMF.png"},
+
+
+{"id":"A1.ru","name":"A1","alt_names":[],"network":null,"owners":[],"country":"RU","subdivision":null,"city":null,"broadcast_area":["c/RU"],"languages":["rus","eng"],"categories":["series"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://amediatv.ru/a1/",
+
+"logo":"https://i.imgur.com/tHLmAvq.png"},
+
+
+{"id":"A12TV.fr","name":"A12 TV","alt_names":[],"network":null,"owners":[],"country":"FR","subdivision":null,"city":null,"broadcast_area":["c/FR"],"languages":["fra"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://a12television.com/",
+
+"logo":"https://i.imgur.com/JgnjgvF.png"},
+
+
+{"id":"A1Kids.ng","name":"A1 Kids","alt_names":[],"network":null,"owners":[],"country":"NG","subdivision":null,"city":null,"broadcast_area":["c/NG"],"languages":["eng"],"categories":["kids"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/GGOcrmy.png"},
+
+
+{"id":"A1Odesa.ua","name":"A1 Odesa","alt_names":[],"network":null,"owners":[],"country":"UA","subdivision":null,"city":"Odesa","broadcast_area":["c/UA"],"languages":["ukr"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://a1online.tv/",
+
+"logo":"https://i.imgur.com/3hBnP3B.png"},
+
+
+{"id":"A1TV.nl","name":"A1 TV","alt_names":[],"network":null,"owners":[],"country":"NL","subdivision":null,"city":"Barneveld","broadcast_area":["c/NL"],"languages":["nld"],"categories":["general"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.a1mediagroep.nl/",
+
+"logo":"https://i.imgur.com/JZ1oTM2.png"},
+
+
+{"id":"A1TVMontenegro.me","name":"A1 TV Montenegro","alt_names":[],"network":null,"owners":[],"country":"ME","subdivision":null,"city":null,"broadcast_area":["c/ME"],"languages":["srp"],"categories":[],"is_nsfw":false,"launched":"2017-01-01","closed":"2021-01-01","replaced_by":"AdriaTV.me","website":null,
+
+"logo":"https://i.imgur.com/08mGJc2.png"},
+
+
+{"id":"A1TVPakisatn.pk","name":"A1TV Pakisatn","alt_names":[],"network":null,"owners":[],"country":"PK","subdivision":null,"city":null,"broadcast_area":["c/PK"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://a1tv.pk/",
+
+"logo":"https://i.imgur.com/NsEOJte.png"},
+
+
+{"id":"A1TVRajasthan.in","name":"A1 TV Rajasthan","alt_names":[],"network":null,"owners":[],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/IN"],"languages":["hin"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.a1live.in/",
+
+"logo":"https://i.imgur.com/XJA3bh1.png"},
+
+
+{"id":"A1TVUK.uk","name":"A1TV UK","alt_names":[],"network":null,"owners":[],"country":"UK","subdivision":null,"city":null,"broadcast_area":["c/UK"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://a1uk.tv/",
+
+"logo":"https://i.imgur.com/zWXMj8H.png"},
+
+
+{"id":"A2.ru","name":"A2","alt_names":[],"network":null,"owners":[],"country":"RU","subdivision":null,"city":null,"broadcast_area":["c/RU"],"languages":["rus"],"categories":["series"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://amediatv.ru/a2/",
+
+"logo":"https://i.imgur.com/WzjFuij.png"},
+
+
+{"id":"A24.ar","name":"A24","alt_names":[],"network":null,"owners":[],"country":"AR","subdivision":null,"city":null,"broadcast_area":["c/AR"],"languages":["spa"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.a24.com/",
+
+"logo":"https://i.imgur.com/LnXQkIU.png"},
+
+
+{"id":"A24Paraguay.py","name":"A24 Paraguay","alt_names":[],"network":null,"owners":[],"country":"PY","subdivision":null,"city":null,"broadcast_area":["c/PY"],"languages":["spa"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.a24.com.py/",
+
+"logo":"https://i.imgur.com/rrQXcUf.png"},
+
+
+{"id":"A2CNN.al","name":"A2 CNN","alt_names":[],"network":null,"owners":[],"country":"AL","subdivision":null,"city":null,"broadcast_area":["c/AL"],"languages":["sqi"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://a2news.com/",
+
+"logo":"https://i.imgur.com/TgO3Lzi.png"},
+
+
+{"id":"A2iMusic.sn","name":"A2i Music","alt_names":[],"network":null,"owners":[],"country":"SN","subdivision":null,"city":null,"broadcast_area":["c/SN"],"languages":["wol","fra"],"categories":["music"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/1UkxzGL.png"},
+
+
+{"id":"A2iNaja.sn","name":"A2i Naja","alt_names":[],"network":null,"owners":[],"country":"SN","subdivision":null,"city":null,"broadcast_area":["c/SN"],"languages":["wol","fra"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/tH7EZL4.jpg"},
+
+
+{"id":"A2iReligion.sn","name":"A2i Religion","alt_names":[],"network":null,"owners":[],"country":"SN","subdivision":null,"city":null,"broadcast_area":["c/SN"],"languages":["wol","fra"],"categories":["religious"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/tH7EZL4.jpg"},
+
+
+{"id":"A2itv.it","name":"A2itv","alt_names":[],"network":null,"owners":[],"country":"IT","subdivision":null,"city":null,"broadcast_area":["c/IT"],"languages":["eng","fra"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://a2itv.com/",
+
+"logo":"https://i.imgur.com/tH7EZL4.jpg"},
+
+
+{"id":"A2TV.tr","name":"A2TV","alt_names":[],"network":null,"owners":[],"country":"TR","subdivision":null,"city":null,"broadcast_area":["c/TR"],"languages":["tur"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.atv.com.tr/a2tv",
+
+"logo":"https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png"},
+
+
+{"id":"A2Z.ph","name":"A2Z","alt_names":[],"network":null,"owners":[],"country":"PH","subdivision":null,"city":null,"broadcast_area":["c/PH"],"languages":["fil","eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/1zsdloF.png"},
+
+
+{"id":"A2ZNews.in","name":"A2Z News","alt_names":[],"network":null,"owners":[],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/IN"],"languages":["hin"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/z5fvYgo.png"},
+
+
+{"id":"A3Bikini.us","name":"A3Bikini","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":["xxx"],"is_nsfw":true,"launched":null,"closed":null,"replaced_by":null,"website":"http://a3bikini.com",
+
+"logo":"https://i.imgur.com/Vjrsl4z.png"},
+
+
+{"id":"A7TV.ro","name":"A7TV","alt_names":[],"network":null,"owners":[],"country":"RO","subdivision":null,"city":null,"broadcast_area":["c/RO"],"languages":["ron"],"categories":["general"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/RmFg8BN.png"},
+
+
+{"id":"AadinathTV.in","name":"Aadinath TV","alt_names":[],"network":null,"owners":[],"country":"IN","subdivision":null,"city":"New Delhi","broadcast_area":["c/IN"],"languages":["hin"],"categories":["religious"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://aadinathtv.com/",
+
+"logo":"https://i.imgur.com/9u2jXKK.png"},
+
+
+{"id":"AagTV.pk","name":"Aag TV","alt_names":[],"network":null,"owners":[],"country":"PK","subdivision":null,"city":null,"broadcast_area":["c/PK"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/tDhwzl5.png"},
+
+
+{"id":"AajEntertainment.pk","name":"Aaj Entertainment","alt_names":[],"network":null,"owners":["Recorder Television Network"],"country":"PK","subdivision":null,"city":null,"broadcast_area":["c/PK"],"languages":["urd"],"categories":["entertainment"],"is_nsfw":false,"launched":"2015-12-15","closed":null,"replaced_by":null,"website":"https://aajentertainment.tv/",
+
+"logo":"https://i.imgur.com/WK5Cqap.png"},
+
+
+{"id":"AajNews.pk","name":"Aaj News","alt_names":[],"network":null,"owners":["Business Recorder Group"],"country":"PK","subdivision":null,"city":null,"broadcast_area":["c/PK"],"languages":["urd"],"categories":["news"],"is_nsfw":false,"launched":"2005-03-23","closed":null,"replaced_by":null,"website":"https://www.aaj.tv/",
+
+"logo":"https://i.imgur.com/VNGnHYz.png"},
+
+
+{"id":"AajTak.in","name":"Aaj Tak","alt_names":[],"network":null,"owners":["Living Media"],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/IN","c/UK"],"languages":["hin"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.aajtak.in/livetv",
+
+"logo":"https://i.imgur.com/RpIdCB3.png"},
+
+
+{"id":"AakaashAath.in","name":"Aakaash Aath","alt_names":[],"network":null,"owners":[],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/IN"],"languages":["ben"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.aakashaath.com/",
+
+"logo":"https://i.imgur.com/rAAgfJ4.png"},
+
+
+{"id":"AalamiSamay.in","name":"Aalami Samay","alt_names":[],"network":null,"owners":["Sahara India Pariwar Group"],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/IN"],"languages":["urd"],"categories":[],"is_nsfw":false,"launched":"2003-10-16","closed":null,"replaced_by":null,"website":"http://www.saharasamay.com/",
+
+"logo":"https://i.imgur.com/RZ6UVTg.png"},
+
+
+{"id":"AapkaColors.in","name":"Aapka Colors","alt_names":[],"network":null,"owners":[],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/IN"],"languages":["hin"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.aapkacolors.com/",
+
+"logo":"https://static.wikia.nocookie.net/logopedia/images/b/bb/Aapka_Colors.svg/revision/latest/scale-to-width-down/512"},
+
+
+{"id":"AaseervathamTV.in","name":"Aaseervatham TV","alt_names":[],"network":null,"owners":[],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/IN"],"languages":["tam"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/GlfrYs7.png"},
+
+
+{"id":"Aastha.in","name":"Aastha","alt_names":[],"network":null,"owners":[],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/IN"],"languages":["hin"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.aasthatv.tv/",
+
+"logo":"https://i.imgur.com/IqgrV92.png"},
+
+
+{"id":"AasthaBhajan.in","name":"Aastha Bhajan","alt_names":[],"network":null,"owners":[],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/IN"],"languages":["hin"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.aasthatv.tv/",
+
+"logo":"https://i.imgur.com/LyDxqnF.png"},
+
+
+{"id":"AasthaInternational.in","name":"Aastha International","alt_names":[],"network":null,"owners":[],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/UK","c/US"],"languages":["hin"],"categories":[],"is_nsfw":false,"launched":"2009-01-14","closed":null,"replaced_by":null,"website":"http://www.aasthatv.tv/",
+
+"logo":"https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Aastha_international.png/512px-Aastha_international.png"},
+
+
+{"id":"AasthaKannada.in","name":"Aastha Kannada","alt_names":[],"network":null,"owners":[],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/IN"],"languages":["kan"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.aasthatv.tv/",
+
+"logo":"https://i.imgur.com/wP9q0KZ.png"},
+
+
+{"id":"AasthaPrime1.in","name":"Aastha Prime 1","alt_names":[],"network":null,"owners":[],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/IN"],"languages":["hin"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.aasthatv.tv/",
+
+"logo":"https://i.imgur.com/LyWSMJS.png"},
+
+
+{"id":"AasthaPrime2.in","name":"Aastha Prime 2","alt_names":[],"network":null,"owners":[],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/IN"],"languages":["hin"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.aasthatv.tv/",
+
+"logo":"https://i.imgur.com/VRdGyih.png"},
+
+
+{"id":"AasthaTamil.in","name":"Aastha Tamil","alt_names":[],"network":null,"owners":[],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/IN"],"languages":["tam"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.aasthatv.tv/",
+
+"logo":"https://i.imgur.com/YQK9ewf.png"},
+
+
+{"id":"AasthaTelugu.in","name":"Aastha Telugu","alt_names":[],"network":null,"owners":[],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/IN"],"languages":["tel"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.aasthatv.tv/",
+
+"logo":"https://i.imgur.com/P0IIqZn.png"},
+
+
+{"id":"AathavanTV.in","name":"Aathavan TV","alt_names":[],"network":null,"owners":[],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/IN"],"languages":["tam"],"categories":["entertainment"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/LEVEhTH.png"},
+
+
+{"id":"AAVISIE.nl","name":"AAVISIE","alt_names":[],"network":null,"owners":[],"country":"NL","subdivision":null,"city":null,"broadcast_area":["c/NL"],"languages":["nld"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://aavisie.nl/",
+
+"logo":"https://i.imgur.com/SUmpDHr.png"},
+
+
+{"id":"AB1.fr","name":"AB 1","alt_names":[],"network":null,"owners":[],"country":"FR","subdivision":null,"city":null,"broadcast_area":["c/FR"],"languages":["fra"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.ab1.tv/",
+
+"logo":"https://i.imgur.com/9C7UsOe.png"},
+
+
+{"id":"AB3.be","name":"AB 3","alt_names":[],"network":null,"owners":[],"country":"BE","subdivision":null,"city":null,"broadcast_area":["c/BE"],"languages":["fra"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.ab3.be/",
+
+"logo":"https://i.imgur.com/XrguYcP.png"},
+
+
+{"id":"AbadanTV.ir","name":"Abadan TV","alt_names":[],"network":null,"owners":[],"country":"IR","subdivision":null,"city":null,"broadcast_area":["c/IR"],"languages":["fas"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://abadan.irib.ir/tv",
+
+"logo":"https://i.imgur.com/6ERYQjK.png"},
+
+
+{"id":"AbaiTV.kz","name":"Abai TV","alt_names":[],"network":null,"owners":[],"country":"KZ","subdivision":null,"city":null,"broadcast_area":["c/KZ"],"languages":["kaz"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://abaitv.kz/",
+
+"logo":"https://i.imgur.com/Nw2R7Dq.png"},
+
+
+{"id":"AbazaTV.ru","name":"Abaza TV","alt_names":["Абаза ТВ"],"network":null,"owners":[],"country":"RU","subdivision":null,"city":null,"broadcast_area":["c/RU"],"languages":["rus"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://abaza.tv/",
+
+"logo":"https://i.imgur.com/7Jo7UAf.png"},
+
+
+{"id":"AbbTakk.pk","name":"Abb Takk","alt_names":[],"network":null,"owners":[],"country":"PK","subdivision":null,"city":null,"broadcast_area":["c/PK"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.abbtakk.tv/",
+
+"logo":"https://i.imgur.com/D6IHRrP.png"},
+
+
+{"id":"ABCArts.au","name":"ABC Arts","alt_names":[],"network":null,"owners":["ABC"],"country":"AU","subdivision":null,"city":null,"broadcast_area":["c/AU"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://iview.abc.net.au/channel/abcarts",
+
+"logo":"https://i.imgur.com/3X20A4x.png"},
+
+
+{"id":"ABCAustralia.au","name":"ABC Australia","alt_names":[],"network":null,"owners":[],"country":"AU","subdivision":null,"city":null,"broadcast_area":["c/AU"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"http://www.abcaustralia.net.au/",
+
+"logo":"https://i.imgur.com/qQ33TVM.png"},
+
+
+{"id":"ABCCentral.us","name":"ABC Central","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png"},
+
+
+{"id":"ABCEast.us","name":"ABC East","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png"},
+
+
+{"id":"ABChannel.it","name":"AB Channel","alt_names":[],"network":null,"owners":[],"country":"IT","subdivision":null,"city":null,"broadcast_area":["c/IT"],"languages":["ita"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/SVkDShV.png"},
+
+
+{"id":"ABCKids.au","name":"ABC Kids","alt_names":[],"network":null,"owners":[],"country":"AU","subdivision":null,"city":null,"broadcast_area":["c/AU"],"languages":["eng"],"categories":["kids"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512"},
+
+
+{"id":"ABCKidsABCTVPlus.au","name":"ABC Kids/ABC TV Plus","alt_names":[],"network":null,"owners":[],"country":"AU","subdivision":null,"city":null,"broadcast_area":["c/AU"],"languages":["eng"],"categories":["kids"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.abc.net.au/tv/guide/abc2-7day-guide.htm",
+
+"logo":"https://i.imgur.com/RpS7eZX.png"},
+
+
+{"id":"ABCMe.au","name":"ABC Me","alt_names":[],"network":null,"owners":["ABC"],"country":"AU","subdivision":null,"city":null,"broadcast_area":["c/AU"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":"2001-04-01","closed":null,"replaced_by":null,"website":"https://iview.abc.net.au/channel/abc3",
+
+"logo":"https://i.imgur.com/6NyFLAm.png"},
+
+
+{"id":"ABCMountain.us","name":"ABC Mountain","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png"},
+
+
+{"id":"ABCNewsAlbania.al","name":"ABC News Albania","alt_names":[],"network":null,"owners":[],"country":"AL","subdivision":null,"city":null,"broadcast_area":["c/AL"],"languages":["sqi"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://abcnews.al/",
+
+"logo":"https://i.imgur.com/q5pjJ2m.png"},
+
+
+{"id":"ABCNewsAustralia.au","name":"ABC News Australia","alt_names":[],"network":null,"owners":[],"country":"AU","subdivision":null,"city":null,"broadcast_area":["c/AU"],"languages":["eng"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.abc.net.au/news/newschannel/",
+
+"logo":"https://i.imgur.com/BrW7gk8.png"},
+
+
+{"id":"ABCNewsLive.us","name":"ABC News Live","alt_names":[],"network":null,"owners":["The Walt Disney Company"],"country":"US","subdivision":null,"city":null,"broadcast_area":["r/INT"],"languages":["eng"],"categories":["news"],"is_nsfw":false,"launched":"2018-03-01","closed":null,"replaced_by":null,"website":"https://abcnews.go.com/Live",
+
+"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png"},
+
+
+{"id":"ABCNewsLive1.us","name":"ABC News Live 1","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png"},
+
+
+{"id":"ABCNewsLive10.us","name":"ABC News Live 10","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png"},
+
+
+{"id":"ABCNewsLive2.us","name":"ABC News Live 2","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png"},
+
+
+{"id":"ABCNewsLive3.us","name":"ABC News Live 3","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png"},
+
+
+{"id":"ABCNewsLive4.us","name":"ABC News Live 4","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png"},
+
+
+{"id":"ABCNewsLive5.us","name":"ABC News Live 5","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png"},
+
+
+{"id":"ABCNewsLive6.us","name":"ABC News Live 6","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png"},
+
+
+{"id":"ABCNewsLive7.us","name":"ABC News Live 7","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png"},
+
+
+{"id":"ABCNewsLive8.us","name":"ABC News Live 8","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png"},
+
+
+{"id":"ABCNewsLive9.us","name":"ABC News Live 9","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png"},
+
+
+{"id":"ABCNewsNepal.np","name":"ABC News Nepal","alt_names":[],"network":null,"owners":[],"country":"NP","subdivision":null,"city":null,"broadcast_area":["c/NP"],"languages":["nep"],"categories":["news"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.abcnepal.tv/",
+
+"logo":"https://i.imgur.com/842b6IF.png"},
+
+
+{"id":"ABCSpark.ca","name":"ABC Spark","alt_names":[],"network":null,"owners":["Corus Entertainment"],"country":"CA","subdivision":null,"city":null,"broadcast_area":["c/CA"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":"2012-03-23","closed":null,"replaced_by":null,"website":"http://www.abcspark.ca/",
+
+"logo":"https://i.imgur.com/MOU2PAf.png"},
+
+
+{"id":"ABCTV.au","name":"ABC TV","alt_names":[],"network":"ABC Television","owners":["Australian Government"],"country":"AU","subdivision":null,"city":null,"broadcast_area":["c/AU"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://iview.abc.net.au/channel/abc1",
+
+"logo":"https://i.imgur.com/DPVQSjM.png"},
+
+
+{"id":"ABCTV.it","name":"ABC TV","alt_names":[],"network":null,"owners":[],"country":"IT","subdivision":null,"city":"Milan","broadcast_area":["c/IT"],"languages":["ita"],"categories":["general"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://abctv.it/",
+
+"logo":"https://i.imgur.com/bCNoz5X.png"},
+
+
+{"id":"ABCTVACT.au","name":"ABC TV ACT","alt_names":[],"network":"ABC Television","owners":["Australian Government"],"country":"AU","subdivision":null,"city":null,"broadcast_area":["c/AU"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://iview.abc.net.au/channel/abc1",
+
+"logo":"https://i.imgur.com/Puq8t7f.png"},
+
+
+{"id":"ABCTVGhana.gh","name":"ABC TV Ghana","alt_names":[],"network":null,"owners":[],"country":"GH","subdivision":null,"city":null,"broadcast_area":["c/GH"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/fTnYfEz.png"},
+
+
+{"id":"ABCTVNSW.au","name":"ABC TV NSW","alt_names":[],"network":"ABC Television","owners":["Australian Government"],"country":"AU","subdivision":null,"city":null,"broadcast_area":["c/AU"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://iview.abc.net.au/channel/abc1",
+
+"logo":"https://i.imgur.com/Ekjb7w8.png"},
+
+
+{"id":"ABCTVNT.au","name":"ABC TV NT","alt_names":[],"network":"ABC Television","owners":["Australian Government"],"country":"AU","subdivision":null,"city":null,"broadcast_area":["c/AU"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://iview.abc.net.au/channel/abc1",
+
+"logo":"https://i.imgur.com/Ekjb7w8.png"},
+
+
+{"id":"ABCTVParaguay.py","name":"ABC-TV Paraguay","alt_names":[],"network":null,"owners":[],"country":"PY","subdivision":null,"city":null,"broadcast_area":["c/PY"],"languages":["spa"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.abc.com.py/tv/",
+
+"logo":"https://i.imgur.com/OqfBMGy.png"},
+
+
+{"id":"ABCTVPlus.au","name":"ABC TV Plus","alt_names":[],"network":"ABC Television","owners":["Australian Broadcasting Corporation"],"country":"AU","subdivision":null,"city":null,"broadcast_area":["c/AU"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":"2001-07-01","closed":null,"replaced_by":null,"website":"https://www.abc.net.au/tv",
+
+"logo":"https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/ABC_TV_Plus_logo_2021.svg/512px-ABC_TV_Plus_logo_2021.svg.png"},
+
+
+{"id":"ABCTVQLD.au","name":"ABC TV QLD","alt_names":[],"network":"ABC Television","owners":["Australian Government"],"country":"AU","subdivision":null,"city":null,"broadcast_area":["c/AU"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://iview.abc.net.au/channel/abc1",
+
+"logo":"https://i.imgur.com/Ekjb7w8.png"},
+
+
+{"id":"ABCTVSA.au","name":"ABC TV SA","alt_names":[],"network":"ABC Television","owners":["Australian Government"],"country":"AU","subdivision":null,"city":null,"broadcast_area":["c/AU"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://iview.abc.net.au/channel/abc1",
+
+"logo":"https://i.imgur.com/Ekjb7w8.png"},
+
+
+{"id":"ABCTVTAS.au","name":"ABC TV TAS","alt_names":[],"network":"ABC Television","owners":["Australian Government"],"country":"AU","subdivision":null,"city":null,"broadcast_area":["c/AU"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://iview.abc.net.au/channel/abc1",
+
+"logo":"https://i.imgur.com/Ekjb7w8.png"},
+
+
+{"id":"ABCTVVIC.au","name":"ABC TV VIC","alt_names":[],"network":"ABC Television","owners":["Australian Government"],"country":"AU","subdivision":null,"city":null,"broadcast_area":["c/AU"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://iview.abc.net.au/channel/abc1",
+
+"logo":"https://i.imgur.com/Ekjb7w8.png"},
+
+
+{"id":"ABCTVWA.au","name":"ABC TV WA","alt_names":[],"network":"ABC Television","owners":["Australian Government"],"country":"AU","subdivision":null,"city":null,"broadcast_area":["c/AU"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://iview.abc.net.au/channel/abc1",
+
+"logo":"https://i.imgur.com/Ekjb7w8.png"},
+
+
+{"id":"ABCWest.us","name":"ABC West","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png"},
+
+
+{"id":"AbileneTelevisionNetwork.us","name":"Abilene Television Network","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":"US-TX","city":"Abilene","broadcast_area":["s/US-TX"],"languages":["eng"],"categories":["general"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://abilenetx.gov/561/Live-Archived-Video",
+
+"logo":"https://i.imgur.com/daTJZmM.png"},
+
+
+{"id":"AbilityTV.gh","name":"Ability TV","alt_names":[],"network":null,"owners":[],"country":"GH","subdivision":null,"city":null,"broadcast_area":["c/GH"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/3RrZgdP.png"},
+
+
+{"id":"AbingtonCAMEducationChannel.us","name":"Abington CAM Education Channel","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":"US-MA","city":"Abington","broadcast_area":["s/US-MA"],"languages":["eng"],"categories":["education"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.abingtoncam.tv/education/",
+
+"logo":"https://i.imgur.com/tUgwRRk.png"},
+
+
+{"id":"AbingtonCAMGovernmentChannel.us","name":"Abington CAM Government Channel","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":"US-MA","city":"Abington","broadcast_area":["s/US-MA"],"languages":["eng"],"categories":["legislative"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.abingtoncam.tv/government/",
+
+"logo":"https://i.imgur.com/1At8SSG.png"},
+
+
+{"id":"AbingtonCAMPublicChannel.us","name":"Abington CAM Public Channel","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":"US-MA","city":"Abington","broadcast_area":["s/US-MA"],"languages":["eng"],"categories":["general"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.abingtoncam.tv/public/",
+
+"logo":"https://i.imgur.com/E4ZD2Qx.png"},
+
+
+{"id":"ABJTV.zw","name":"ABJ TV","alt_names":[],"network":null,"owners":[],"country":"ZW","subdivision":null,"city":null,"broadcast_area":["c/ZW"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.abjtv.net/",
+
+"logo":"https://i.imgur.com/zc2m218.png"},
+
+
+{"id":"ABMIPublicChannel.us","name":"ABMI Public Channel","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":"US-MA","city":"Bellingham","broadcast_area":["s/US-MA"],"languages":["eng"],"categories":["general"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.abmi8.org/",
+
+"logo":"https://i.imgur.com/BLALz9w.jpg"},
+
+
+{"id":"ABN.us","name":"ABN","alt_names":[],"network":null,"owners":[],"country":"US","subdivision":null,"city":null,"broadcast_area":["c/US"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.abnsat.com/",
+
+"logo":"https://i.imgur.com/CxLugLs.png"},
+
+
+{"id":"ABNAndhraJyoti.in","name":"ABN Andhra Jyoti","alt_names":[],"network":null,"owners":[],"country":"IN","subdivision":null,"city":null,"broadcast_area":["c/IN"],"languages":["tel"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":"https://www.andhrajyothy.com/",
+
+"logo":"https://i.imgur.com/gcoiZJ3.png"},
+
+
+{"id":"ABNsat.iq","name":"ABNsat","alt_names":[],"network":null,"owners":[],"country":"IQ","subdivision":null,"city":null,"broadcast_area":["c/IQ"],"languages":["ara"],"categories":["religious"],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/WhPlJzh.jpeg"},
+
+
+{"id":"ABNTV.zm","name":"ABN TV","alt_names":[],"network":null,"owners":[],"country":"ZM","subdivision":null,"city":null,"broadcast_area":["c/ZM"],"languages":["eng"],"categories":[],"is_nsfw":false,"launched":null,"closed":null,"replaced_by":null,"website":null,
+
+"logo":"https://i.imgur.com/5o3yZjP.png"},
+
+
+{"id":"ABolaTV.pt","name":"A Bola TV","alt_names":[],"network":null,"owners":["Sociedade Vicra Desportiva"],"country":"PT","subdivision":null,"city":null,"broadcast_area":["c/PT"],"languages":["por"],"categories":[],"is_nsfw":false,"launched":"2012-10-12","closed":null,"replaced_by":null,"website":"http://www.abolatv.pt/",
+
+"logo":"https://i.imgur.com/IP1NWeA.png"}
 ]}]}
