@@ -1,397 +1,2276 @@
 {
     "data":[
     {
-    "numberOfChannels":98,
+    "numberOfChannels":440,
     "channels":[
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/AE_abudhabi.png",
-            "audio":"https://admdn2ta.cdn.mgmlcdn.com/adtv/smil:adtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/AE_emarat.png",
-            "audio":"https://admdn3ta.cdn.mgmlcdn.com/emarat/smil:emarat.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/AE_abudhabisport1.png",
-            "audio":"https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/AE_abudhabisport2.png",
-            "audio":"https://admdn5ta.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/UE_yes.png",
-            "audio":"https://admdn1ta.cdn.mgmlcdn.com/yastv/smil:yastv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/AE_nat-geo.png",
-            "audio":"https://admdn2ta.cdn.mgmlcdn.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/AE_dubaisports.png",
-            "audio":"http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/AE_dubai.png",
-            "audio":"https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/UE_dw_arabia.png",
-            "audio":"https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream03/streamPlaylist.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/UE_elan.png",
-            "audio":"https://stream-03.dc3.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xl2X799QBdhESIO7xZ535ZXcddygZPq5S-ev_I9JMtDw)/dm/3/x74wje5/s/live-2.m3u8"
+            "text":"http://www.247retro.com/images/sidebar_logo_gradient.jpg",
+            "audio":"http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8"
           },          
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/DZ_elaoula.png",
-            "audio":"https://elahmad.ipslow.com/tv186_www.elahmad.com_alegria_1/tracks-v1/mono.m3u8?token=79be4ff09d5e9a8a16f684f6bb91bc819f49e755-e673c31935b80025a97a962d40510994-1676388411-1676377611"
+            "text":"https://i.imgur.com/CKCtZo7.png",
+            "audio":"http://www.30a-tv.com/InvPit.m3u8?fluxustv.m3u8"
           },
-          {        "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/DZ_elaoula.png",
-            "audio":"https://rpn1.bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8?nimblesessionid=264660993&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDIzIDU6MjQ6NDIgUE0maGFzaF92YWx1ZT1YUWdBcXFTdnVxZkE3UlZCVDN4WnF3PT0mdmFsaWRtaW51dGVzPTI4ODA="
+          
+          {
+            "text":"https://i.imgur.com/gNWg9tl.png",
+            "audio":"http://30a-tv.com/music.m3u8?fluxustv.m3u8"
           },
+          
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/DZ_elaoula.png",
-            "audio":"https://elahmad.ipslow.com/tv185_www.elahmad.com_alegria_3/tracks-v1a1/mono.m3u8?token=c3475f3fd203535809bd6168a06024b548362c38-f9dc5c1afa2cf0f2840b318ee9dcc800-1675108732-1675097932"
-          },            
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/DZ_echorouk.png",
-            "audio":"https://live.elahmad.net/https://echorouk-live-tv.dzsecurity.net/echo/EchoroukNews/chunks.m3u8"
+            "text":"https://www.sidewalkstv.com/wp-content/uploads/2013/10/sw-tep-large-300x125.png",
+            "audio":"http://30a-tv.com/sidewalks.m3u8"
           },
+          
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/DZ_echorouk.png",
-            "audio":"https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/chunks.m3u8"
-          },      
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/DZ_enahar.png",
-            "audio":"https://live.elahmad.net/https://echorouk-live-tv.dzsecurity.net/entv/EnnaharTV/chunks.m3u8"
+            "text":"https://i.imgur.com/4TEMhxH.png",
+            
+            
+            "audio":"http://30a-tv.com/my999.m3u8"
           },
+          
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/DZ_elbilad.png",
-            "audio":"https://tv.ipslow.com/tv182_www.elahmad.com_elbilad_tv/tracks-v1a1/mono.m3u8?token=76964e56fe0c222373f07e3a64d5554765f28acd-2d8cfc32278b231b8603fff8045654cc-1673898132-1673887332"
+            "text":"https://i.imgur.com/4TEMhxH.png",
+            
+            
+            "audio":"http://30a-tv.com/my999.m3u8?fluxustv.m3u8"
           },
+
+          
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/DZ_elhaddaf.png",
-            "audio":"http://www.elahmad.com/tv/algeria_live.php?id=elheddaf"
+            "text":"https://i.imgur.com/4ydVVIA.png",
+            "audio":"https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8"
           },
+          
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/DZ_beur.png",
-            "audio":"http://str81.creacast.com/cna/live.sdp/chunklist_w349115404.m3u8"
+            "text":"https://upload.wikimedia.org/wikipedia/en/e/ea/KMTV3.png",
+            "audio":"http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8"
           },
+          
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/DZ_samira.png",
-            "audio":"https://shls-live-ak.akamaized.net/out/v1/2daff8b433344d659bd5079224afc3ab/index_1.m3u8"
+            "text":"https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png",
+            "audio":"https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8"
           },
+          
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/DZ_24_News.png",
-            "audio":"https://www.elahmad.com/tv/algeria_live.php?id=al24news"
+            "text":"https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png",
+            "audio":"https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master_540-57.m3u8"
           },
+          
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/DZ_elanis.png",
-            "audio":"https://tv.ipslow.com/tv185_www.elahmad.com_alanis_tv/tracks-v1a1/mono.m3u8?token=28f14dea0b573f224867a67a88265a1daf3cf77d-561372dc472ec98fe091a6e4beb2a059-1675108984-1675098184"
+            "text":"https://i.imgur.com/Q2VN3Rr.png",
+            
+            
+            "audio":"https://cvtv.cvalley.net/hls/AEHD/AEHD.m3u8"
           },
+          
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/DZ_elhayat.png",
-            "audio":"https://tv.ipslow.com/tv185_www.elahmad.com_elhayatonline/tracks-v1a1/mono.m3u8?token=38c0b1700d4186605aa08083216e3bb6762f69d9-d3e994b1e3f5d89200fca797c29fe9f9-1675106007-1675095207"
+            "text":"https://upload.wikimedia.org/wikipedia/en/4/4a/WPLGlogo.png",
+            "audio":"http://190.80.3.28/ABC/ABC.isml/index.m3u8"
           },
+
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/US_tsc.png",
-            "audio":"https://tscamd.akamaized.net/hls/live/503340/TSCLive/video_1/video_1.m3u8"
+            "text":"https://upload.wikimedia.org/wikipedia/en/8/86/WBRZ_Logo_2013.png",
+            "audio":"http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8?fluxustv.m3u8"
           },
+          
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/US_fox_news.png",
-            "audio":"https://fox-foxnewsnow-samsungus.amagi.tv/playlist480p.m3u8"
+            "text":"https://i.imgur.com/d24LxuP.png",
+          
+            "audio":"https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8"
           },
+          
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/US_bloomberg.png",
-            "audio":"https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-2/Source-EUTVqvs-10000-1-sknn1p-BP-HD-5-N96E3tz8tVF7_live.m3u8"
+            "text":"https://i.imgur.com/mz3b5QW.png",
+          
+            "audio":"https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d"
+
           },
+
+          
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/US_daystar.png",
-            "audio":"https://bcsecurelivehls-i.akamaihd.net/hls/live/621275/1539097700001/master_480p.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/US_newsmax.png",
-            "audio":"https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_404.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/US_kron_4.png",
-            "audio":"https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_404.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/US_qvc_style.png",
-            "audio":"http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/US_fox_soccer.png",
-            "audio":"https://rr5---sn-4g5edndd.googlevideo.com/videoplayback?expire=1674260343&ei=F9vKY8zvI4jKWcKam9gE&ip=105.107.94.241&id=o-AF3mcS1DJBKuwL2kNE0EbfTWnGX1qltI8R6DluP312H1&itag=135&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278%2C298%2C302%2C394%2C395%2C396%2C397%2C398&source=youtube&requiressl=yes&spc=zIddbF9JGgeW-sScqr8ocTtLjrIPaUDIi7VZGWRsW7Gr&vprv=1&mime=video%2Fmp4&ns=xDXHpRe0k124jTODUXiKmfcK&gir=yes&clen=18710703&dur=859.459&lmt=1672030575273337&keepalive=yes&fexp=24007246&c=WEB_EMBEDDED_PLAYER&txp=5535434&n=5vDfvRAZJ3Z8aK0&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRAIgYfke4m8GQH-EkhxRgqjDvCcD0ignNntOb0OW6TlJBjcCICKBDx2ZQ8N1Sc7SYSRci7bTvKzq198g9K4T1bYocmXx&cm2rm=sn-5abxgpxuxaxjvh-j1ae7k,sn-4g5edz7s&req_id=f0b51b7eec8ea3ee&redirect_counter=2&cms_redirect=yes&cmsv=e&mh=ld&mm=34&mn=sn-4g5edndd&ms=ltu&mt=1674238625&mv=m&mvi=5&pl=19&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgHDWkrKM_8MQvOD0FDnGFfBr-IJ5U_XOEA..."
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/US_goltv.png",
-            "audio":"https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/mid/c.m3u8"
+            "text":"https://gray.tv/uploads/redesign/COMPANIES/logos/WWSB.png",
+            "audio":"https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8"
           },
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/US_key.png",
+            "text":"https://i.imgur.com/xyN2yKP.png",
+            "audio":"https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8"
+          },
+          
+          {
+            "text":"https://mediaweb.wftv.com/theme/images/placeholder-square.jpg",
+            "audio":"http://svc-lvanvato-cxtv-wftv.cmgvideo.com/wftv/2564k/index.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/V8eTp2V.png",
+            "audio":"https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/V8eTp2V.png",
+            "audio":"https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/V8eTp2V.png",
+            "audio":"https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/V8eTp2V.png",
+            "audio":"https://abclive1-lh.akamaihd.net/i/abc_live03@423397/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/V8eTp2V.png",
+            "audio":"https://abclive1-lh.akamaihd.net/i/abc_live04@423398/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/V8eTp2V.png",
+            "audio":"https://abclive1-lh.akamaihd.net/i/abc_live05@423399/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/V8eTp2V.png",
+            "audio":"https://abclive1-lh.akamaihd.net/i/abc_live06@423400/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/V8eTp2V.png",
+            "audio":"https://abclive1-lh.akamaihd.net/i/abc_live07@423401/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/V8eTp2V.png",
+            "audio":"https://abclive1-lh.akamaihd.net/i/abc_live08@423402/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/V8eTp2V.png",
+            "audio":"https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/nEcuCl9.png",
+            "audio":"http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/ouhadur.png",
+            "audio":"http://api.new.livestream.com/accounts/26511688/events/7954874/live.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/MaQSYGw.jpg",
+            "audio":"https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/jLYjKFH.jpg",
+            "audio":"http://granicusliveus12-a.akamaihd.net/azleg/G0247_012/chunklist.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/ixywxhs.jpg",
+            "audio":"https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/MQET539.jpg",
+            "audio":"https://akaku.vod.castus.tv/live/ch1.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/MQET539.jpg",
+            "audio":"https://akaku.vod.castus.tv/live/ch2.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/MQET539.jpg",
+            "audio":"https://akaku.vod.castus.tv/live/ch3.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/YNdQXDz.jpg",
+            
+            
+            "audio":"https://video.blivenyc.com/broadcast/2061/22/file-858k.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/YNdQXDz.jpg",
+            
+            
+            "audio":"https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/YNdQXDz.jpg",
+          
+            "audio":"https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/VCfZB73.png",
+          
+            "audio":"http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/VCfZB73.png",
+            "audio":"http://media.smc-host.com:1935/alhorreya.tv/_definst_mp4:alhorreya3/playlist.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/6OxGGpI.png",
+            "audio":"http://stream.shqiptv.com:7080/altvusa/tracks-v1a1/mono.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/GRl09vk.jpg",
+            "audio":"http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/0qwmBEm.png",
+            "audio":"http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/DQSHHTS.png",
+            "audio":"http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/UjvjySO.png",
+            "audio":"https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/UjvjySO.png",
+            "audio":"https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/playlist.m3u8?p=roku"
+          },
+          
+          {
+            "text":"https://i.imgur.com/hjvjGVf.png",
+            "audio":"https://nimble.dashstreams.net/onestudio/americanclassictv/chunks.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/JLkzt7v.jpg",
+            "audio":"http://170.178.189.66:1935/live/Stream1/.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/JLkzt7v.jpg",
+            "audio":"http://170.178.189.66:1935/live/Stream1/playlist.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/pGNGoXe.png",
+            "audio":"https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/T1VHfY5.jpg",
+            "audio":"https://nimble.dashstreams.net/onestudio/applesaucetv/chunks.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/hSYez3V.png",
+            "audio":"http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8"
+          },
+          
+          {
+            "text":"https://www.tripsmarter.com/sites/default/files/styles/314x177/public/live_beachtv30a_0_0.jpg",
+            "audio":"http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8"
+          },
+          
+          {
+            "text":"http://www.cla.csulb.edu/departments/polisci/wp-content/uploads/2016/01/Beach-TV-Logo-300x169.jpg",
+            "audio":"http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8"
+          },
+          
+          {
+            "text":"https://image.roku.com/developer_channels/prod/35acf46bccd9f553b11b66ef1fa709c1fbd3a480c1d9394d3880e69911bafa2e.png",
+            "audio":"http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/tHopHL9.png",
+            "audio":"http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8"
+          },
+          
+          {
+            "text":"https://i.ytimg.com/vi/JueWq1SOiwY/maxresdefault.jpg",
+
+            "audio":"https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/MyRpTRc.jpg",
+            "audio":"https://granicusliveus6-a.akamaihd.net/benicia/G1750_002/chunklist.m3u8"
+          },
+          
+          {
+            "text":"http://pluto.tv.s3.amazonaws.com/channels/5ca670f6593a5d78f0e85aed/featuredImage.jpg",
+            
+      
+            "audio":"https://stitcher.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=gcuqage0urlhccbp8kbecjc830"
+          },
+
+          
+          {
+            "text":"https://i.imgur.com/wwUtlBi.png",
+            "audio":"http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8"
+          },
+          
+          {
+            "text":"https://www.pinclipart.com/picdir/middle/154-1546145_posted-biz-tv-logo-clipart.png",
+            
+            
+            "audio":"https://thegateway.online/BizAndYou/Roku/playlist.m3u8"
+          },
+          
+          {
+            "text":"http://pluto.tv.s3.amazonaws.com/channels/58af4c093a41ca9d4ecabe96/featuredImage.jpg",
+            "audio":"https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true"
+          },
+          
+          {
+            "text":"https://i.imgur.com/KjDQSPu.jpg",
+            "audio":"https://nimble.dashstreams.net/onestudio/spydar/chunks.m3u8"
+          },
+          
+          {
+            "text":"https://upload.wikimedia.org/wikipedia/en/c/c5/BlazeTVDec2018.png",    
+            "audio":"https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8"
+          },
+          
+          {
+            "text":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Fox_Life_Turkey.png",  
+            "audio":"http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/idRFfhY.png",  
+            "audio":"http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8"
+          },
+          
+          {
+            "text":"https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png",  
+            "audio":"http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8"
+          },
+          
+          {
+            "text":"https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png",  
+            "audio":"http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8"
+          },
+          
+          {
+            "text":"https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png",  
+            "audio":"http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8"
+          },
+          
+          {
+            "text":"https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png",  
+            "audio":"https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8"
+          },
+          
+          {
+            "text":"https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png",  
+            "audio":"https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8"
+          },
+          
+          {
+            "text":"https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png",  
+            "audio":"https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8"
+          },
+          
+          {
+          "text":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb3KJ9YQPn_U_FdsCBkOI60nVG_rfwJXj8RV4DQ3fs1DRiGTgGNA",
+          "audio":"https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m"
+          },
+          
+          {
+            "text":"https://i.imgur.com/3gi2eBn.jpg",
+            "audio":"https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/EEAwv8z.jpg",
+            "audio":"https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/EEAwv8z.jpg",
+            "audio":"https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/4UIqtXt.jpg",
+            "audio":"http://liveprodeucentral.global.ssl.fastly.net/btv/desktop/eu_live.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/4UIqtXt.jpg",
+            "audio":"https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/UuO7vxr.jpg",
+            "audio":"https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8"
+          },          
+          {
+            "text":"https://i.imgur.com/uGL7M09.jpg",
+          
+            "audio":"https://nimble.dashstreams.net/onestudio/blushtv/chunks.m3u8"
+
+          
+          },
+          
+          {
+            "text":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU3tOhoaIyjC8qJ_OjWjddzk-GMGxXDfKYzRfNhqOrxoLzZze3IpdGBw",
+            "audio":"http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8?fluxustv.m3u8"          
+          },
+          
+          {
+            "text":"https://media.myfoxbostoncom.cmgdigital.com/photo/2018/07/19/logo-main-wfxt_1532037842427_12380292_ver1.0.png",
+            "audio":"http://svc-lvanvato-cxtv-wfxt.cmgvideo.com:80/wfxt/2564k/index.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/Ek6GuXh.jpg",            
+            "audio":"http://a.jsrdn.com/broadcast/d5b47/+0000/low/c.m3u8"
+          },
+          
+          {
+            "text":"http://www.butv10.com/wp-content/themes/butv10/_images/favicon.png",
+            "audio":"http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8"
+          },
+          
+          {
+          "text":"https://encrypted-tbn0.gstatic.com/imag=tbn:ANd9GcSJCVb6ID85LxiWckJQk8K1fklnO6-jhl3jup2AYP9NWRBGT8CPJ7p-GM",
+          "audio":"https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8"
+          },
+          
+          {
+            "text":"https://static.iptv-epg.com/us/BuzzrTV.us.png",
+            "audio":"https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8"
+          },
+          
+          {
+            "text":"https://upload.wikimedia.org/wikipedia/en/b/be/Buzzr_%28TV_Network%29_Logo.png",
+            
+          
+            "audio":"https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8?fluxustv.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/TDRDF4q.png",
+          
+            "audio":"http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8"
+
+          },
+          
+          {
+            "text":"https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10161_h3_aa.png",
+          
+            "audio":"https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8"
+
+          },
+          
+          {
+            "text":"https://cdn.tvpassport.com/image/station/240x135/cspan2.png",
+          
+            "audio":"https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8"
+          },
+          
+          {
+            "text":"https://cdn.tvpassport.com/image/station/240x135/cspan3.png",
+          
+            "audio":"https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8"
+          },
+          
+          {
+            "text":"https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png",
+          
+            "audio":"http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8"
+          },
+          
+          {
+            "text":"https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png",
+          
+            "audio":"https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/9TbpsS0.png",
+            "audio":"https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/dwdnz3O.png",
+            "audio":"http://origin3-edge2.ord.yourstreamlive.com:1935/live/yourstreamlive/out_657_198vbyhi/playlist.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/RI9GbLX.jpg",
+            "audio":"http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8"
+          },
+          
+          {
+            "text":"http://123tvgo.com/wp-content/uploads/2018/08/cbn-news-269x151.png",
+            "audio":"http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-p.m3u8?sd=10&rebase=on"
+          },                              
+          {
+            "text":"https://cdn.tvpassport.com/image/station/240x135/cbs.png",
+          
+            "audio":"http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8" 
+          },
+          
+          {
+            "text":"https://cdn.tvpassport.com/image/station/240x135/cbs.png",
+          
+            "audio":"http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8" 
+          },
+          
+          {
+            "text":"https://cdn.tvpassport.com/image/station/240x135/cbs.png",
+          
+            "audio":"http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8" 
+          },
+          
+          {
+            "text":"https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png",
+            
+      
+            "audio":"http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/btQySLT.jpg",
+            "audio":"https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/bHIK943.png", 
+            "audio":"https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8"
+          },
+          
+          {
+            "text":"https://upload.wikimedia.org/wikipedia/en/d/da/WFOR_CBS_Miami_logo.png",
+            "audio":"http://190.80.3.28/CBS/CBS.isml/index.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/QqQbJaN.png", 
+            "audio":"https://cvtv.cvalley.net/hls/KCTVCBS/KCTVCBS.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/xQgJvW6.png", 
+            "audio":"https://cvtv.cvalley.net/hls/KHQACBS/KHQACBS.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/Ekt1an0.png",
+            "audio":"https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/HbOrvOn.jpg",
+            "audio":"http://bit.ly/2F78T4M"
+          },
+          
+          {
+            "text":"https://i.imgur.com/HbOrvOn.jpg",
+            "audio":"http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/HbOrvOn.jpg",
+            "audio":"http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8?sd=10&rebase=on"
+          },
+          
+          {
+            "text":"https://i.imgur.com/HbOrvOn.jpg",
+            "audio":"http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/HbOrvOn.jpg",
+            "audio":"http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/HbOrvOn.jpg",
+            "audio":"http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/HbOrvOn.jpg",
+            "audio":"https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8"
+          },
+          
+          {
+            "text":"https://upload.wikimedia.org/wikipedia/commons/e/e1/KCAL-TV_Logo.png",
+            "audio":"https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT"
+          },
+          
+          {
+            "text":"https://www.charlottecountyfl.gov/cctv/PublishingImages/CC-TV-color-logo.jpg",
+            "audio":"http://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/SC5nyyL.png",                    
+            "audio":"http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8"
+          },         
+          {
+            "text":"https://live-tv-channels.org/pt-data/uploads/logo/us-cerritos-tv3.jpg",
+            "audio":"http://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8?fluxustv.m3u8"
+          },
+          {
+            "text":"https://upload.wikimedia.org/wikipedia/en/0/09/Charge%21_network_logo.png",
+            "audio":"https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/nWjAjzy.png",
+            "audio":"https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8"
+          },
+          
+          {
+            "text":"https://sonyvueimgs.akamaized.net/epg-images/channel/26590/cheddar_business_440x330_NETWORK_LARGE_440_330.png",
+            "audio":"https://live.chdrstatic.com/cheddar/primary/1.m3u8"
+          },
+          
+          {
+            "text":"https://sonyvueimgs.akamaized.net/epg-images/channel/26591/cheddar_news_440x330_NETWORK_LARGE_440_330.png",
+            "audio":"https://live.chdrstatic.com/cbn/primary/1.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/J1w8bAW.png",
+            "audio":"http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w884806316.m3u8"
+          },
+          {
+            "text":"https://i.imgur.com/FM3fBaj.png",
+            "audio":"https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8"
+          },          
+          {
+            "text":"https://www.pngfind.com/pngs/m/258-2582037_cmc-usa-graphic-design-hd-png-download.png",
+            "audio":"https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/a6QmjRT.png",
+            "audio":"http://vod.hibridcdn.net/cnbc/liveabr/cnbc/live1/chunks.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/a6QmjRT.png",
+            "audio":"http://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/3yumcV3.jpg",
+            "audio":"https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/3yumcV3.jpg",
+            "audio":"https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10"
+          },
+          
+          {
+            "text":"https://i.imgur.com/s9SouED.png",
+            
+            
+            "audio":"https://cvtv.cvalley.net/hls/CNNHD/CNNHD.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/urX82hM.png",
+            "audio":"https://cvtv.cvalley.net/hls/KCTVComet/KCTVComet.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/urX82hM.png",
+            "audio":"https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/urX82hM.png",
+            "audio":"https://cvtv.cvalley.net/hls/KTVOComet/KTVOComet.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/f0FtDEI.png",
+            "audio":"https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/f0FtDEI.png",
+            "audio":"https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8?fluxustv.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/cigpFzt.png",
+            "audio":"http://media.smc-host.com:1935/csat.tv/smil:csat.smil/chunklist_w1421926306_b692000_slar_t64SEQ=.m3u8"
+          },
+          
+          {
+            "text":"https://www.csudh.edu/Assets/templates/header/CSUDH-RGB-Logo-Burgundy-Background.png",
+            "audio":"http://dhtv5.csudh.edu:1935/live/myStream/playlist.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/He6Ugfn.jpg",
+            "audio":"http://video.ct-n.com/live/ctnSupreme/chunklist_w538335829_DVR.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/He6Ugfn.jpg",
+            "audio":"http://video.ct-n.com/live/ctnspare/chunklist_w252238746_DVR.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/He6Ugfn.jpg",
+            "audio":"http://video.ct-n.com/live/web1stream/chunklist_w1992415243_DVR.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/He6Ugfn.jpg",
+            "audio":"http://video.ct-n.com/live/web2stream/chunklist_w1202315245_DVR.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/Bj37ZMY.png",
+            
+      
+            "audio":"http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/Bj37ZMY.png",
+            
+      
+            "audio":"http://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/chunklist_w846886780_b1764000.m3u8?fluxustv.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/Bj37ZMY.png",
+            
+      
+            "audio":"http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/chunklist.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/DDfymkc.jpg",
+            "audio":"http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/DDfymkc.jpg",
+            "audio":"http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8?iptvgratis?chile.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/GTpcYBO.jpg",
+            "audio":"https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/vMMR55y.png",
+            "audio":"https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_21.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/vMMR55y.png",
+            "audio":"https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_22.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/vMMR55y.png",
+          
+            "audio":"https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_24.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/qkdO7Dy.png",
+          
+            "audio":"http://bcsecurelivehls-i.akamaihd.net/hls/live/621275/1539097700001/master_240p.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/qkdO7Dy.png",
+          
+            "audio":"https://bcsecurelivehls-i.akamaihd.net/hls/live/621275/1539097700001/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/qkdO7Dy.png",
+            "audio":"https://bcsecurelivehls-i.akamaihd.net/hls/live/621275/1539097700001/master_1080p.m3u8"
+          },
+
+          {
+            "text":"https://i.imgur.com/q66RMSc.png",
+            "audio":"http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/7EKaPtE.png",
+            "audio":"https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a"
+          },
+          
+          {
+            "text":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR15PDypUsJbQf-RYabsF_7U4oUrtx458QIKX9_Fa7oeuMD_QAwoId71g",
+            "audio":"https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a"
+          },
+          
+          {
+            "text":"https://i.imgur.com/wjCFvLR.png",
+            "audio":"http://divineplayout-us2.tulix.tv/live/Stream1/.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/rnQMXRm.jpg",
+            "audio":"http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/Z4ZiY0N.jpg",
+            "audio":"https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/ZixQ64F.jpg",
+            "audio":"https://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=x24jbjrh2o33lln3jns6j2tmn0"
+          },
+          
+          {
+            "text":"https://i.imgur.com/FVWqYQG.png",
+            "audio":"https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/FppLahc.jpg",
+            "audio":"http://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/0NVfgrt.jpg",
+            "audio":"https://nimble.dashstreams.net/onestudio/dreamtv/chunks.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/Puql6oC.png",
+            "audio":"http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/ye3ckSd.png",
+            "audio":"https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/ye3ckSd.png",
+            "audio":"https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/SKfoci2.png",
+            "audio":"http://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/chunklist_w1496843195.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/fGdHIGy.png",
+            "audio":"https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/JtSSvss.png",
+            "audio":"https://cvtv.cvalley.net/hls/ESPN2HD/ESPN2HD.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/zQSTKzm.png",
+            "audio":"https://cvtv.cvalley.net/hls/ESPNHD/ESPNHD.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/vTlQAIX.jpg",
+            "audio":"https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/vTlQAIX.jpg",
+            "audio":"https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal"
+          },
+          
+          {
+            "text":"https://assets.tvplayer.com/tvos/images/channels/585.png",
+            "audio":"https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8"
+          },
+          
+          {
+            "text":"https://www.fcac.org/sites/all/themes/fcac_base/images/logo-icon.png",
+            "audio":"http://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8?fluxustv.m3u8"
+          },
+          
+          {
+            "text":"https://pbs.twimg.com/profile_images/1131290789/fnlLogo_400x400.png",
+            "audio":"http://na-all9.secdn.net/logos-channel/live/faithlifetv/playlist.m3u8"
+          },
+          
+          {
+            "text":"https://www.myfaithusa.com/wp-content/uploads/2017/06/faith-usa-white.png",
+            "audio":"http://hls-live-media.cdn01.net/default/stream_14889.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/wB9CkPG.jpg",
+            "audio":"http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/wB9CkPG.jpg",
+            "audio":"http://210.210.155.35/uq2663/h/h05/01.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/wB9CkPG.jpg",
+            "audio":"http://210.210.155.35/uq2663/h/h05/index.m3u8"
+          },
+          
+          {
+            "text":"http://fios1news.com/wp-content/uploads/2018/10/FiOS1_news_weather_traffic.png",
+            "audio":"http://urtmpkal-f.akamaihd.net/i/1is35xshu_1@64997/master.m3u8"
+          },
+          
+          {
+            "text":"http://fios1news.com/wp-content/uploads/2018/10/FiOS1_news_weather_traffic.png",
+            "audio":"http://urtmpkal-f.akamaihd.net/i/1b159ee77_1@192104/master.m3u8"
+          },
+          
+          {
+            "text":"http://fios1news.com/wp-content/uploads/2018/10/FiOS1_news_weather_traffic.png",
+            "audio":"http://urtmpkal-f.akamaihd.net/i/1if6bcg01_1@394073/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/hV46zMX.png",
+            "audio":"http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?fluxustv.m3u8"
+          },
+          
+          {
+            "text":"https://upload.wikimedia.org/wikipedia/en/thumb/1/14/KSAZ_logo_2006.png/225px-KSAZ_logo_2006.png",
+            "audio":"http://api.new.livestream.com/accounts/1859803/events/1648429/live.m3u8"
+          },
+          
+          {
+            "text":"https://localtvkstu.files.wordpress.com/2019/01/kstulogo.jpg",
+            "audio":"http://api.new.livestream.com/accounts/3417744/events/1980071/live.m3u8"
+          },
+          
+          {
+            "text":"https://upload.wikimedia.org/wikipedia/en/thumb/4/41/WXMI_2009_Logo.png/188px-WXMI_2009_Logo.png",
+            "audio":"http://api.new.livestream.com/accounts/9485505/events/3244983/live.m3u8"
+          },
+
+          
+          {
+            "text":"https://i.imgur.com/Wa35UZH.png",
+            "audio":"https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8"
+          },
+          
+          {
+            "text":"https://static.iptv-epg.com/us/FOXKOKI.us.png", 
+            "audio":"http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8"
+          },
+          
+          {
+            "text":"https://upload.wikimedia.org/wikipedia/en/d/dd/KOKI23.png",
+            "audio":"https://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/master.m3u8"
+          },
+          
+          {
+            "text":"https://upload.wikimedia.org/wikipedia/en/9/99/FOX28WTGS.PNG",
+            "audio":"http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8"
+          },
+          
+          {
+            "text":"https://localtvkdvr.files.wordpress.com/2016/03/fox31denver-kdvr.jpg",
+            "audio":"http://api.new.livestream.com/accounts/3417789/events/1980088/live.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/V9foxdL.jpg",
+            "audio":"https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8"
+          },
+          
+          {
+            "text":"https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Fox_4_Kansas_City_logo.png/375px-Fox_4_Kansas_City_logo.png",
+            "audio":"http://api.new.livestream.com/accounts/2304479/events/1745643/live.m3u8"
+          },
+          
+          {
+            "text":"http://www.newstvliveonline.com/wp-content/uploads/2017/10/FOX-40-KTXL.jpg",
+            "audio":"http://api.new.livestream.com/accounts/9486720/events/3245377/live.m3u8"
+          },
+          
+          {
+          "text":"https://vignette.wikia.nocookie.net/logopedia/images/c/fxg_gold.GIF",
+          "audio":"http://api.new.livestream.com/accounts/11328309/events/3653675/live.m3u8"
+          },
+    
+          
+          {
+            "text":"https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/WBRC_logo_2015.png/300px-WBRC_logo_2015.png",
+            "audio":"http://api.new.livestream.com/accounts/12446860/events/3855294/live.m3u8"
+          },
+          
+          {
+            "text":"https://upload.wikimedia.org/wikipedia/en/3/3e/WSVN_7_Miami_logo.png",
+            "audio":"http://190.80.3.28/FOX/FOX.isml/index.m3u8"
+          },
+          
+          {
+            "text":"https://upload.wikimedia.org/wikipedia/en/6/65/WJW_%28TV%29_logo.png",
+            "audio":"http://api.new.livestream.com/accounts/57501/events/1146195/live.m3u8"
+          },
+          
+          {
+            "text":"https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/WGHP_Fox_8_News_logo.png/225px-WGHP_Fox_8_News_logo.png",
+            "audio":"http://api.new.livestream.com/accounts/9287016/events/3206504/live.m3u8"
+          },
+          
+          {
+            "text":"https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNTkxNjYxMjAwNzIw/fox8-logojpg.jpg",
+            "audio":"http://api.new.livestream.com/accounts/10891792/events/3578864/live.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/kQS7CbC.png",
+          
+            "audio":"https://1329918864.rsc.cdn77.org/ls-54548-1/index.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/Xi2vt20.png",
+          
+            "audio":"https://1161275585.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/e9sgV1r.png",
+            "audio":"https://cvtv.cvalley.net/hls/FoxNewsHD/FoxNewsHD.m3u8"
+          },
+          
+          {
+            "text":"https://s2.wp.com/wp-content/themes/vip/localtv-2/img/kcpq/logo.png",
+            "audio":"http://api.new.livestream.com/accounts/9486768/events/3245401/live.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/vHYFQYR.png",
+            "audio":"https://cvtv.cvalley.net/hls/FS1/FS1.m3u8"
+          },
+          
+          {
+            "text":"https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_of_Free_Speech_TV.png",
+            "audio":"https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8"
+          },
+          
+          {
+            "text":"https://www.glendaleaz.com/images/City-Logo-Text.png",
+            "audio":"https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8"
+          },
+          
+          {
+            "text":"https://sites.google.com/site/globesville/head.png",
+            "audio":"http://live-h1.frontlayer.net/fl592468/live/chunks.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/Lqpy4Dz.png",
+            "audio":"http://fss27.streamhoster.com/lv_glc/_definst_/broadcast3/chuck.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/7vQrPvk.png",
+            "audio":"https://bstna.tulix.tv/live/bs_2m/index.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/2vQ8yIX.png",
+            "audio":"https://cvtv.cvalley.net/hls/HGTVHD/HGTVHD.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/XIpsgye.png",
+            "audio":"http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/ejXfHa4.png",
+            "audio":"https://cvtv.cvalley.net/hls/HistoryHD/HistoryHD.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/caGRikb.png",
+            "audio":"https://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/exdDHml.png",
+            "audio":"https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/rc4HYA4.jpg",
+          
+            "audio":"https://nimble.dashstreams.net/onestudio/horrified/chunks.m3u8"
+          },
+          
+          {
+            "text":"https://cdn.tvpassport.com/image/station/240x135/homeshop.png",
+            "audio":"https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8"
+          },
+          
+          {
+            "text":"https://sc.dish.com/shared/images/station-logos/hsn2.png",
+            "audio":"https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8?b=728,1128"
+          },
+          
+          {
+            "text":"https://sc.dish.com/shared/images/station-logos/hsn2.png",
+            "audio":"https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/DkvWWbE.png",
+            "audio":"https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8"
+          },
+          
+          {
+            "text":"http://www.huntchannel.tv/wp-content/uploads/2017/10/HC-Logo-transparent.png",
+            "audio":"https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/CQnD7yU.png",
+            "audio":"http://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/gTmNrk6.png",
+            "audio":"http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8?fluxustv.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/z1WiCeb.png",
+            "audio":"https://cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/WZapYCk.png",
+            "audio":"http://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/zJ5idav.jpg",
+            "audio":"https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/pHJm3I0.png",
+            
+      
+            "audio":"http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/VEoLKzb.png",
+            "audio":"http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/1HJraea.png",
+            "audio":"http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8"
+          },
+          
+          {
+            "text":"https://www.tbninafrica.org/image.php/programme-cover-1527230445.jpg?w=1200&h=675&src=/images/static/programme-cover-1527230445.jpg",            
+            "audio":"http://api.new.livestream.com/accounts/27460990/events/8266912/live.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/0oRXnzz.png",
+            "audio":"http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/fEjPBk3.png",
+            
+            
             "audio":"http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8"
           },
+          
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/BR_tbc.png",
-            "audio":"https://tbc.zoeweb.tv/tbc/tbc/chunklist.m3u8"
+            "text":"http://pluto.tv.s3.amazonaws.com/assets/images/channels/410c79a3-193d-ed36-bce8-5f86d9b4996a-KidsTV_featured.jpg",
+            "audio":"http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high"
+          },
+          
+          {
+            "text":"https://m.media-amazon.com/images/G/01/DeveloperBlogs/AmazonDeveloperBlogs/legacy/KIRO7_NEWS_blu_text._CB520201523_.png",
+            "audio":"http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8?fluxustv.m3u8"
+          },
+          
+          {
+            "text":"https://mediaweb.kirotv.com/photo/2018/09/24/kiro7_header_logo_152x60_13118164_ver1.0.png",
+            "audio":"http://svc-lvanvato-cxtv-kiro.cmgvideo.com:80/kiro/1864k/index.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/67QhV6o.png",
+            "audio":"https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/uD45qb5.jpg",
+            "audio":"https://cvtv.cvalley.net/hls/KMCIGrit/KMCIGrit.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/CwTUx5z.png",
+            "audio":"https://cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/If5vLgs.png",
+            
+        
+            "audio":"https://cvtv.cvalley.net/hls/KNLJ/KNLJ.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/lEnuR22.png",
+            "audio":"http://origin7-edge2.ord.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_2324_4sqkvkde/chunklist.m3u8"
           },
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/BR_tve.png",
-            "audio":"https://streaming.procergs.com.br:8443/tve/stve/chunklist_w1837585894.m3u8"
+            "text":"https://i.imgur.com/OiZowUH.png",
+            "audio":"http://w10.streamgb.com:1935/kool/kool/playlist.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/f6hqXBK.png",
+            "audio":"http://173.199.158.79:1935/roku/myStream/playlist.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/LZbUJct.png",
+            "audio":"https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/32JMut4.jpg",
+            "audio":"https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/mjiGvk8.png",
+            "audio":"http://ktvb-lh.akamaihd.net/i/KTVB_Shows_1@60359/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/uct9V2m.png",
+            "audio":"https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/uD45qb5.jpg",
+            "audio":"https://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/uct9V2m.png",
+            "audio":"https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/etndUmR.png",
+            "audio":"http://5955f4ce3f2b7.streamlock.net:1935/8080/8080/playlist.m3u8"
+          },
+          
+          {
+            "text":"https://www.liveonlineradio.net/wp-content/uploads/2016/07/Radio-Latinos-Up.jpg",
+            "audio":"https://5b38ce71f1f00.streamlock.net/8080/8080/chunklist_w956830983.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/SvY0iSk.jpg",
+            "audio":"https://live-lawandcrime.simplestreamcdn.com/landc_d1/live.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/SvY0iSk.jpg",
+            "audio":"https://live-lawandcrime.simplestreamcdn.com/landc_d2/live.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/39NuAwl.png",
+            "audio":"https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8"
+          },
+
+          
+          {
+            "text":"http://www.leominster.tv/SiteAssets/LATV%20Black%20and%20Gold.png",
+            "audio":"http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8"
           },
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/BR_tvb.png",
-            "audio":"https://stream-05.dc3.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLvmWZsY2HRG8j3FNTqqowO77-DhhLsD96jKTT2vd1iXR)/dm/3/x82pp99/d/live-2.m3u8"
+            "text":"http://www.leominster.tv/SiteAssets/LATV%20Black%20and%20Gold.png",
+            "audio":"http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8"
+          },
+
+          {
+            "text":"http://www.leominster.tv/SiteAssets/LATV%20Black%20and%20Gold.png",
+            "audio":"http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8"
+          },
+          
+          {
+            "text":"http://www.kyforward.com/wp-content/uploads/2017/11/City-Logo-Files_Web_Horse_Blue_1.png",
+            "audio":"http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8?fluxustv.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/2ettxWH.png",
+            "audio":"https://cvtv.cvalley.net/hls/LifetimeHD/LifetimeHD.m3u8"
           },
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/BR_comb.png",
-            "audio":"https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w651670998.m3u8"
+          "text":"https://lh3.googleusercontent.com/9AnBf9_s5RDDg6joBI3kPqglfVddV72Esw1jGBc4rGzlxUElacw4UQy_z2CTVnI7vHgZXDQbqp2Gw5UqzD3uvzkJXfT0YZbxKmoeNMo",
+          "audio":"https://ottmanifest.weathergroup.com/live/10.233.185.101:58081/api/v1/live/hls/localnow/index.m3u8?network=OTT&experienceid=paPhiladelphia&seid=532865b2-796b-497d-abb2-56df16f62f32&showlocalnow=false&cdn=https%3a//ottcdn-a.akamaihd.net&sessionId=LocalNowWeb_bW9jLm9vYWNiQDM4NzkwZXd0&format=HLS&tpp=10"
+          },
+          
+          {
+            "text":"https://i.imgur.com/YnOZtNm.png",
+            "audio":"https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8"
           },
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/BR_gazeta.png",
-            "audio":"https://stream-09.dc3.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v7Fs9mwvYSz70zp_wFrcX2h4CJHYDcs10EO3UKh2hrGY)/dm/3/x89qors/d/live-2.m3u8"
+            "text":"https://i.imgur.com/ZbVCrk4.png",
+            "audio":"https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/d12h8B5.jpg",
+            "audio":"https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/WlrcyMe.png",
+            "audio":"https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/WlrcyMe.png",
+            "audio":"https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/WlrcyMe.png",
+          
+            "audio":"https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8" 
+          },
+          
+          {
+            "text":"https://i.imgur.com/mXEl1Xx.png",
+          
+            "audio":"http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8" 
+          },
+          
+          {
+            "text":"https://i.imgur.com/mXEl1Xx.png",
+          
+            "audio":"http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_tablet.m3u8" 
+          },
+          
+          {
+            "text":"https://i.imgur.com/mXEl1Xx.png",
+            "audio":"http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/d8Ber25.jpg",
+            "audio":"https://nimble.dashstreams.net/onestudio/molaughter/chunks.m3u8"
+          },
+          
+          {
+            "text":"https://pmcvariety.files.wordpress.com/2016/10/mobcrush.jpg",
+            "audio":"https://ott.mobcrush.com/hls/0/ott.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/XzKinh7.jpg",
+            "audio":"https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/K6XKJTr.jpg",
+            "audio":"https://nimble.dashstreams.net/onestudio/movee4u/chunks.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/pIuJqYk.png",
+            "audio":"https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/FOiUOeW.png",
+            "audio":"http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/QpdHuGo.png",
+            "audio":"http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/uYOmK3m.jpg",
+            "audio":"http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/uYOmK3m.jpg",
+            "audio":"https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/N3mYbtb.jpg",
+            "audio":"https://nimble.dashstreams.net/onestudio/holyfield/chunks.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/gDhTnLR.jpg",
+            "audio":"https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/iJldO7U.jpg",
+            "audio":"http://c742eca7-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/6540154/2/playlist.m3u8?authType=IP_BASED_IDENTITY&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=c24a2d4ff965b2ea7a189c91d27d57e7297dcbb9&cdnHost=uhs-akamai.ustream.tv/"
+          },
+          
+          {
+            "text":"https://i.imgur.com/iJldO7U.jpg",
+            "audio":"http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7"
+          },
+          
+          {
+            "text":"https://i.imgur.com/iJldO7U.jpg",
+            "audio":"https://tinyurl.com/yyjswlhf"
+          },
+          
+          {
+            "text":"https://i.imgur.com/iJldO7U.jpg",
+            "audio":"https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/DcIYiLM.jpg",
+            "audio":"http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/DcIYiLM.jpg",
+            "audio":"http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/DcIYiLM.jpg",
+            "audio":"http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/DcIYiLM.jpg",
+            "audio":"http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/2Wy4o31.png",
+            "audio":"http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/2Wy4o31.png",
+            "audio":"http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/2Wy4o31.png",
+            "audio":"http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/FOFEg4F.png",
+            "audio":"http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/FOFEg4F.png",
+          
+            "audio":"http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8"
+          },
+          
+          {
+            "text":"https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s28717_h3_aa.png",
+            
+      
+            "audio":"http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8"
           },
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/BR_cnn_b.png",
-            "audio":"https://youtu.be/dCP-klyBPHc"
+            "text":"https://i.imgur.com/qOO32m6.png",
+            "audio":"http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q"
+          },
+          
+          {
+            "text":"https://i.imgur.com/CeI1XsD.jpg",
+            "audio":"https://cvtv.cvalley.net/hls/KYOUNBC/KYOUNBC.m3u8"
+          },
+          
+          {
+            "text":"https://upload.wikimedia.org/wikipedia/en/6/6d/WLTZ_2007.png",
+            "audio":"http://api.new.livestream.com/accounts/22400479/events/6650525/live.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/RpE3IrO.png",
+            "audio":"https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/VIhINRP.jpg",
+            "audio":"http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/VIhINRP.jpg",
+            "audio":"http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8"
+          },
+          
+          {
+            "text":"https://upload.wikimedia.org/wikipedia/commons/3/3d/WTVJ_2009_Logo.png",
+            "audio":"http://190.80.3.28/NBC/NBC.isml/index.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/0dg4qhA.jpg",
+            "audio":"https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8" 
+          },
+          
+          {
+            "text":"https://i.imgur.com/d4QN3fB.png",
+            "audio":"http://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/EBUx2s4.png",
+            "audio":"https://cvtv.cvalley.net/hls/WGEMNBC/WGEMNBC.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/jrWg5qE.jpg",
+            "audio":"http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/jrWg5qE.jpg",
+            "audio":"https://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/jrWg5qE.jpg",
+            "audio":"https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/6DgGIkZ.jpg",
+            "audio":"https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/tf3KGP4.jpg",
+            "audio":"http://bit.ly/2N6lxn9"
+          },
+          
+          {
+            "text":"https://i.imgur.com/tf3KGP4.jpg",
+            "audio":"http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8"
+          },
+          
+          {
+            "text":"http://cdn.news12.com/polopoly_fs/1.8890454.1464300091!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg",
+            "audio":"http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN"
+          },
+          
+          {
+            "text":"http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg",
+            "audio":"http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12CT_WEST"
+          },
+          
+          {
+            "text":"http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg",
+            "audio":"http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12HV"
+          },
+          
+          {
+            "text":"http://cdn.news12.com/polopoly_fs/1.8890313.1464300030!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg",
+            "audio":"http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST"
+          },
+          
+          {
+            "text":"http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg",
+            "audio":"http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTRAL"
+          },
+          
+          {
+            "text":"http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg",
+            "audio":"http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX"
+          },
+          
+          {
+            "text":"http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg",
+            "audio":"http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12WH_WESTCHESTER"
+          },
+          
+          {
+            "text":"http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg",
+            "audio":"http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_CT"
+          },
+          
+          {
+            "text":"https://vignette4.wikia.nocookie.net/logopedia/images/9/9a/News_12_Hudson_Valley_Logo_From_December_2010.jpg",
+            "audio":"http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC"
+          },
+          
+          {
+            "text":"http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg",
+            "audio":"http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_LI"
+          },
+          
+          {
+            "text":"http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg",
+            "audio":"http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NJ"
+          },
+          
+          {
+            "text":"http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg",
+            "audio":"http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NYC"
+          },
+          
+          {
+            "text":"http://content.secondspace.com/ktvz/img/KTVZ_Widget.png",
+            "audio":"http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8"
+          },
+          
+          {
+          "text":"https://image.xumo.com/v1/channels/channel/9999194/300.png?type=color_onBlack",
+          "audio":"https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m"
           },
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/BR_eParana.png",
-            "audio":"https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8"
+            "text":"http://123tvgo.com/wp-content/uploads/2018/08/Newsmax-259x151.jpg",
+            "audio":"https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_288.m3u8"
+          },
+          
+          {
+            "text":"https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png",
+            "audio":"https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8"
+          },
+          
+          {
+            "text":"http://yournewsnet.com/wp-content/uploads/2018/03/NNLogo.jpg",
+            "audio":"http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8"
+          },
+          
+          {
+            "text":"https://upload.wikimedia.org/wikipedia/en/e/ef/NewsNetLogo.png",
+            "audio":"http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv.m3u8"
           },
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/BR_aratu.png",
-            "audio":"https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8"
+            "text":"https://newsymain-npgroup.netdna-ssl.com/images/settings/150228249385.jpg",
+            "audio":"https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb"
+          },
+          
+          {
+            "text":"http://images.pluto.tv/channels/5ca6748a37b88b269472dad9/logo.png",
+            "audio":"http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=c834f953-0811-479f-94d7-0ef34aeef06a&deviceId=358fb262-122e-446f-922a-3f7a266db3aa&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true"
+          },
+          
+          {
+            "text":"http://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/logo.png",
+            "audio":"http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=1d81c85c-ff9a-48ca-ac76-aaf60ec7e71d&deviceId=358fb262-122e-446f-922a-3f7a266db3aa&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true"
           },
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/BR_canal38.png",
-            "audio":"https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8"
+            "text":"http://olelo.org/wp-content/uploads/2017/03/cropped-site-icon-180x180.png",
+            "audio":"http://granicusliveus12-a.akamaihd.net/olelo/G0125_009/chunklist.m3u8"
           },
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/BR_agromix.png",
-            "audio":"https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1863399200.m3u8"
+            "text":"http://olelo.org/wp-content/uploads/2017/03/cropped-site-icon-180x180.png",
+            "audio":"http://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8"
+          },
+          
+          {
+            "text":"http://olelo.org/wp-content/uploads/2017/03/cropped-site-icon-180x180.png",
+            "audio":"http://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/IpssJvp.png",
+            "audio":"http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8"
+          },
+          
+          {
+            "text":"https://sonyvueimgs.akamaized.net/epg-images/channel/25535/olympic_channel_440x330_NETWORK_LARGE_440_330.png",
+            "audio":"https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/IpssJvp.png",
+            "audio":"http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/IpssJvp.png",
+            "audio":"http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8?fluxustv.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/IpssJvp.png",
+            "audio":"http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8"
+          },
+          
+          {
+            "text":"https://sonyvueimgs.akamaized.net/epg-images/channel/25535/olympic_channel_440x330_NETWORK_LARGE_440_330.png",
+            "audio":"http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8"
+          },
+          
+          {
+            "text":"https://sonyvueimgs.akamaized.net/epg-images/channel/25535/olympic_channel_440x330_NETWORK_LARGE_440_330.png",
+            "audio":"http://ott-live.olympicchannel.com/out/u/OC2_1.m3u8"
+          },
+          
+          {
+            "text":"https://sonyvueimgs.akamaized.net/epg-images/channel/25535/olympic_channel_440x330_NETWORK_LARGE_440_330.png",
+            "audio":"http://ott-live.olympicchannel.com/out/u/OC3_1.m3u8"
+          },
+          
+          {
+            "text":"https://sonyvueimgs.akamaized.net/epg-images/channel/25535/olympic_channel_440x330_NETWORK_LARGE_440_330.png",
+            "audio":"http://ott-live.olympicchannel.com/out/u/OC4_1.m3u8"
+          },
+          
+          {
+            "text":"https://sonyvueimgs.akamaized.net/epg-images/channel/25535/olympic_channel_440x330_NETWORK_LARGE_440_330.png",
+            "audio":"http://ott-live.olympicchannel.com/out/u/OC5_1.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/GSD5epJ.png",
+            "audio":"http://st2.worldkast.com/8008/8008/chunklist_w2031714912.m3u8?fluxustv.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/3LEqi0D.png",
+            "audio":"https://nimble.dashstreams.net/onestudio/myoktv/chunks.m3u8"
           },
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/BR_nova.png",
-            "audio":"https://live.comets.com.br/tvnovanordeste/aovivo/chunklist.m3u8"
+            "text":"http://outoffocus.tv/wp-content/uploads/2017/01/ooftv-banner-v3.png",
+            "audio":"http://pablogott.videocdn.scaleengine.net/pablogott-live/play/ooftv1/playlist.m3u8"
+          },
+          
+          {
+            "text":"https://pbs.twimg.com/profile_images/784137001633132545/e-Muo-mT.jpg",
+            "audio":"https://p12x-lh.akamaihd.net/i/pac12plus_delivery@198236/master.m3u8"
           },
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/MA_elaoula.png",
-            "audio":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1000000=3-mp4a_130400_qad=1.m3u8"
+            "text":"https://i.imgur.com/Njl2UVf.png",
+            "audio":"https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/EA2rA7R.png",
+            "audio":"http://190.80.3.28/PBS/PBS.isml/index.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/EA2rA7R.png",
+            "audio":"http://190.80.3.28/PBS/PBS.isml/index.m3u8?fluxustv.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/UuJQntj.jpg",
+            "audio":"https://nimble.dashstreams.net/onestudio/pce/chunks.m3u8"
+          },
+          
+          {
+            "text":"http://pluto.tv.s3.amazonaws.com/channels/5b85a7582921777994caea63/featuredImage.jpg",
+            "audio":"http://stitcher.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high"
+          },
+          
+          {
+            "text":"http://pluto.tv.s3.amazonaws.com/channels/5b4e92e4694c027be6ecece1/featuredImage.jpg",
+            "audio":"http://stitcher.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high"
+          },
+          
+          {
+            "text":"http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg",
+            "audio":"http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true"
+          },
+          
+          {
+            "text":"http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg",
+            "audio":"http://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high"
+          },
+          
+          {
+            "text":"http://pluto.tv.s3.amazonaws.com/channels/5a66795ef91fef2c7031c599/featuredImage.jpg",
+            "audio":"https://stitcher.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=rb3stkgum0jt2soq367mu97333"
+          },
+          
+          {
+            "text":"https://sc.dish.com/shared/images/station-logos/qvc.png",
+            "audio":"https://lsqvc1uscln-lh.akamaihd.net/i/lsqvc1uscln_01@809410/master.m3u8"
+          },
+          
+          {
+            "text":"https://sc.dish.com/shared/images/station-logos/qvc2.png",
+            "audio":"https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8"
+          },
+          
+          {
+            "text":"https://sc.dish.com/shared/images/station-logos/qvc3.png",
+            "audio":"https://lsqvc3us-lh.akamaihd.net/i/lsqvc3us_01@809459/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/B6C0FyM.png",
+            "audio":"http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/A4GMBN6.png",
+            "audio":"http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
           },
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/MA_elaayoune.png",
-            "audio":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_1000000=3-mp4a_130400_qad=1.m3u8"
+            "text":"https://i.imgur.com/b8prEVt.png",
+            "audio":"https://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8?hdnea=st=1566236803~exp=1566236923~acl=/i/dclive_1@624563*~hmac=2b869b90909212e3093b3849511aba47d44ff643dd10994027e1775c506608f9"
+          },
+          
+          {
+            "text":"https://i.imgur.com/sOVdYJZ.png",
+            "audio":"http://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8"
+          },
+          
+          {
+            "text":"http://pluto.tv.s3.amazonaws.com/channels/5ac7d243cd17c85601684f57/featuredImage.jpg",
+          
+            "audio":"https://stitcher.pluto.tv/stitch/hls/channel/5ac7d243cd17c85601684f57/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=iaasl9n3jh3esnglai5na3geu7" 
+          },
+          
+          {
+            "text":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/480px-Russia-today-logo.svg.png",
+          
+            "audio":"https://rt-usa.secure.footprint.net/1105.m3u8"
+          },
+          
+          {
+            "text":"https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png",
+            "audio":"https://rt-usa.secure.footprint.net/1105.m3u8?fluxustv.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/sDGZCpL.png",
+            "audio":"http://18.191.91.130:1935/live/safetv/playlist.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/hDOC6nx.png",
+            "audio":"http://sonlife5-i.akamaihd.net/hls/live/584631/ch5/ch53/ch53.m3u8"
           },
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/MA_eriadia.png",
-            "audio":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1000000=3-mp4a_130400_qad=1.m3u8"
+            "text":"http://pluto.tv.s3.amazonaws.com/assets/images/channels/f7531066-b03f-9806-4292-b2cce8913a23-ScienceTV_featured.jpg",
+            "audio":"http://stitcher.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high"
+          },
+          
+          {
+            "text":"https://i.ytimg.com/vi/BP3oCHckmMY/maxresdefault.jpg",
+            "audio":"http://66.210.225.230/live/CELL-496k-270p/CELL-496k-270p.m3u8"
+          },
+          
+          {
+            "text":"https://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png",
+            "audio":"https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8"
+          },
+          
+          {
+            "text":"http://akamaicdn.shoplc.com/landing/product-recalls/ShopLC--DeliveringJoy.png",
+            "audio":"https://dpfbqenlgkzdh.cloudfront.net/shoplc_backup/live.m3u8"
+          },
+          
+          {
+            "text":"http://images.pluto.tv/channels/5317bfebff98025b3200ff99/logo.png",
+            "audio":"https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5317bfebff98025b3200ff99/master.m3u8?deviceType=web&deviceMake=&deviceModel=&sid=e&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&profileLimit=high"
+          },
+          
+          {
+            "text":"https://i.imgur.com/zXY5XLu.png",
+            "audio":"https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/1ZKpTT5.jpg",
+            "audio":"https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/n38w3FD.png",
+            "audio":"https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8"
+          },
+          
+          {
+            "text":"https://upload.wikimedia.org/wikipedia/en/b/b2/Stadium_TV_network_logo.png",
+            "audio":"https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/1.m3u8"
+          },
+          
+          {
+            "text":"https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg",
+            "audio":"https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8"
+          },
+          
+          {
+            "text":"https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg",
+            "audio":"https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/4.m3u8"
+          },
+          
+          {
+            "text":"http://pluto.tv.s3.amazonaws.com/assets/images/channels/0d2aa422-73cb-a635-1058-66bbcf517773-StandUp_featured.jpg",
+            "audio":"http://stitcher.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high"
+          },
+          
+          {
+            "text":"https://i.imgur.com/xMN1q8P.jpg",
+            "audio":"http://cdn61.liveonlineservices.com/hls/subrang.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/YaIhZeo.png",
+            "audio":"https://trinity-lh.akamaihd.net/i/ttmain_d@82127/index_3128_av-p.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/Fbzbq1y.png",
+            
+      
+            "audio":"http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/Fbzbq1y.png",
+            
+      
+            "audio":"http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a"
+          },
+          
+          {
+            "text":"https://i.imgur.com/fjMg1wx.png",
+            
+            
+            "audio":"https://cvtv.cvalley.net/hls/TBSHD/TBSHD.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/TV29g3L.png",
+            "audio":"http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHLS/TCTHLS_Live_1200.m3u8"
           },
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/MA_ethaqafia.png",
-            "audio":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1000000=3-mp4a_130400_qad=1.m3u8"
+            "text":"https://i.imgur.com/48iMZ7c.png",
+            "audio":"https://www.filmon.com/vr-streams/4136.high/playlist.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/1pxXEtP.png",
+            "audio":"https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8"
           },
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/MA_elmaghribia.png",
-            "audio":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1000000=3-mp4a_130400_qad=1.m3u8"
+            "text":"https://i.imgur.com/X4T1Gml.png", 
+            "audio":"https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8"
+          },
+          
+          {
+            "text":"https://logos-download.com/wp-content/uploads/2016/02/The_CW_logo_4800x2000.png",
+            "audio":"http://190.80.3.28/CW/CW.isml/index.m3u8"
+          },
+          
+          {
+            "text":"https://logos-download.com/wp-content/uploads/2016/02/The_CW_logo_4800x2000.png",
+          
+            "audio":"http://190.80.3.28/CW/CW.isml/index.m3u8?fluxustv.m3u8"
+          },
+          
+          {
+            "text":"https://tribwpix.files.wordpress.com/2015/09/2048x1536-news-copy.png",
+            "audio":"http://api.new.livestream.com/accounts/8896933/events/3104530/live.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/xDGoG1r.jpg",
+            "audio":"https://distro.akamaized.net/indexfd_1280x720.m3u8"
+          },
+          
+          {
+            "text":"https://channels.roku.com/images/be4667a16b1e483b8c7746156192b5ba-hd.jpg",
+            "audio":"https://link.frontlayer.com/services/hls2/fl619843/index.m3u8"
+          },
+          
+          {
+            "text":"http://www.outdoorcookingchannel.com/wp-content/uploads/2014/06/150-logo.png",
+            "audio":"http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8"
+          },
+          
+          {
+            "text":"http://www.outdoorcookingchannel.com/wp-content/uploads/2014/06/150-logo.png",
+            "audio":"http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8"
+          },
+          
+          {
+            "text":"http://cdn.iphoneincanada.ca/wp-content/uploads/2015/07/the-shopping-channel-logo.jpg",
+            "audio":"http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8"
           },
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/MA_essadissa.png",
-            "audio":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_1000000=3-mp4a_130400_qad=1.m3u8"
+            "text":"http://images.pluto.tv/channels/56377913f7c493ce618c4de1/logo.png",
+            "audio":"http://stitcher.pluto.tv/stitch/hls/channel/56377913f7c493ce618c4de1/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high"
+          },
+          
+          {
+            "text":"https://ott-gateway.sinclairstoryline.com/optimized/90/17ec0fba-d4ec-4421-a665-c8dcab0f80ee-small3x1_TheTChannel.png",
+          
+            "audio":"https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8"
+          },
+          
+          {
+            "text":"https://cdn.tvpassport.com/image/station/240x135/weatherchannel.png",
+          
+            "audio":"http://bit.ly/2wQwd1G" 
+          },
+          
+          {
+            "text":"https://cdn.tvpassport.com/image/station/240x135/weatherchannel.png",
+            "audio":"http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/BvRObyp.png",
+            "audio":"https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/t8ZCTXN.jpg",
+            "audio":"https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/wzBD6fy.png",
+            
+      
+            "audio":"https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/yAuE4iE.png",
+            
+            
+            "audio":"https://cvtv.cvalley.net/hls/TNTHD/TNTHD.m3u8"
+          },
+          
+          {
+            "text":"https://i.ytimg.com/vi/_Jt1yB1y-MM/hqdefault.jpg",
+            "audio":"http://rtmp1.abnsat.com/hls/trinity.m3u8"
           },
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/MA_tamazight.png",
-            "audio":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
+            "text":"https://i.imgur.com/kJgbASp.png",
+            "audio":"http://68.235.37.11:1935/uncion24/Uncion24/playlist.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/tIaICiP.jpg",
+            
+            
+            "audio":"https://cvtv.cvalley.net/hls/USAHD/USAHD.m3u8"
+          },
+          
+          {
+            "text":"http://uwwtv.org/wp-content/uploads/2013/07/UWW-TV-Logo-Square-2018_NO-OUTLINE-4.png",
+            "audio":"http://vanadium.uww.edu:1935/uwwlive/smil:uwwtv.smil/chunklist_w2102626622_b300000.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/K1AW9O1.png",
+            "audio":"https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/K1AW9O1.png",
+          
+            "audio":"https://a.jsrdn.com/broadcast/22690/-0800/c.m3u8"
+          },
+          
+          {
+            "text":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png",
+            "audio":"http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697"
           },
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/MA_2m.png",
-            "audio":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
+            "text":"https://i.imgur.com/vkDryWT.png",
+            "audio":"http://ss6.domint.net:1946/vct_str/vctv/playlist.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/EWkFM9u.jpg",
+            "audio":"http://188.35.9.26:2031/udp/031a"
+          },
+          
+          {
+            "text":"https://i.imgur.com/9A6LZ7z.jpg",
+            
+            
+            "audio":"http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/9A6LZ7z.jpg",
+            
+            
+            "audio":"http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/9A6LZ7z.jpg",
+            
+            
+            "audio":"https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/9A6LZ7z.jpg",
+            
+            
+            "audio":"https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8"
+          },
+          
+          {
+            "text":"https://www.vsin.com/assets/1/6/logo-300x157-bg-1.png",
+            "audio":"http://api.new.livestream.com/accounts/22774234/events/6897936/live.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/hcbtTcz.png",
+            "audio":"http://api.new.livestream.com/accounts/22774234/events/6897936/live.m3u8?fluxustv.m3u8"
+          },
+          
+          {
+            "text":"https://worcester.vod.castus.tv/wccalive.png",
+            "audio":"http://worcester.vod.castus.tv/live/ch1.m3u8?fluxustv.m3u8"
+          },
+          
+          {
+            "text":"https://cdn.tvpassport.com/image/station/240x135/ctn.png",
+            
+        
+            "audio":"http://162.244.80.254:1935/live/livestream/playlist.m3u8"
           },
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/m24_maroc.png",
-            "audio":"https://www.maptvnews.ma/live/smil:OutStream1.smil/chunklist_w501697827_b850000_sleng.m3u8"
+            "text":"https://i.imgur.com/lgNIT3I.png",
+            "audio":"https://nimble.dashmedia.tv/onestudio/western4u/ playlist.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/hCX8tAv.png",
+            "audio":"https://cvtv.cvalley.net/hls/WGEMCW/WGEMCW.m3u8"
           },
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/MA_teli.png",
-            "audio":"https://playback.akamaized.net/streams/27130247_8196478_lsi9ri88isg6wgxzy69_1/media/27130247_8196478_lsi9ri88isg6wgxzy69_1@1756000p.m3u8?dw=14400&ts=1673888400&hdnts=exp=1674064185~acl=/streams/27130247_8196478_lsi9ri88isg6wgxzy69_1/media*~hmac=354b24b717d53839cb36e5e47c561d7ab344231bbe84f53b0cc560eaf37bddc4"
+            "text":"https://cdn.tvpassport.com/image/station/240x135/wgn-cvo.png",          
+            "audio":"http://bit.ly/2z8NPLB"
+          },
+          
+          {
+            "text":"https://cdn.tvpassport.com/image/station/240x135/wgn-cvo.png",
+            "audio":"http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8"
+          },
+          
+          {
+            "text":"https://cdn.tvpassport.com/image/station/240x135/wgn-cvo.png",
+            "audio":"http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8"
+          },
+          
+          {
+            "text":"http://www.livenewsmag.com/wp-content/uploads/2017/03/WHIO-TV-Channel-7-Ohio.jpg",
+            "audio":"http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8?fluxustv.m3u8"
+          },
+          
+          {
+            "text":"https://upload.wikimedia.org/wikipedia/en/thumb/6/69/WHIO-TV_Logo.png/285px-WHIO-TV_Logo.png",
+            "audio":"http://svc-lvanvato-cxtv-whio.cmgvideo.com:80/whio/2596k/index.m3u8"
+          },
+          
+          {
+            "text":"http://wpcommunitymedia.org/images/city-of-white-plains.png",
+            "audio":"http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8"
+          },
+          
+          {
+            "text":"https://i.imgur.com/APGJc8I.jpg",
+            "audio":"https://nimble.dashstreams.net/onestudio/winktv/chunks.m3u8"
+          },
+          
+          {
+            "text":"http://images.pluto.tv/channels/5ab3e1242be690697279c75d/logo.png",
+            "audio":"http://stitcher.pluto.tv/stitch/hls/channel/5ab3e1242be690697279c75d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high"
+          },
+          
+          {
+            "text":"http://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/logo.png",
+            "audio":"http://stitcher.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high"
           },
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/FR_l'equipe.png",
-            "audio":"https://s13.tntendirect.com/lequipe21/live/chunks.m3u8?nimblesessionid=3243924&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMC8yMDIzIDk6NDY6NDcgUE0maGFzaF92YWx1ZT13am1SRittMzBML0lwV1Ava25SSG5RPT0mdmFsaWRtaW51dGVzPTMw"
-          },      
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/FR_bfm.png",
-            "audio":"https://s13.tntendirect.com/bmftv/live/chunks.m3u8?nimblesessionid=3243843&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMC8yMDIzIDk6NDM6MzAgUE0maGFzaF92YWx1ZT1GaTJaWC9ORnpaUE5SbFVMOXlGNFBnPT0mdmFsaWRtaW51dGVzPTMw"
+            "text":"https://i.imgur.com/2IOP6LI.jpg",
+            "audio":"http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8"
           },
+          
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/FR_france2.png",
-            "audio":"https://s12.tntendirect.com/france2/live/chunks.m3u8?nimblesessionid=2676458&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMC8yMDIzIDg6NTM6MTAgUE0maGFzaF92YWx1ZT1mVkNhUWRXcTRjQVVpUW5EdWVJLytRPT0mdmFsaWRtaW51dGVzPTMw"
-          },      
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/FR_france3.png",
-            "audio":"https://s12.tntendirect.com/france3/live/chunks.m3u8?nimblesessionid=2676522&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMC8yMDIzIDg6NTU6MTYgUE0maGFzaF92YWx1ZT1KbUNFdlgxYjd6OEJiTWFSUWlmRlN3PT0mdmFsaWRtaW51dGVzPTMw"
-          },      
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/FR_art.png",
-            "audio":"https://s14.tntendirect.com/arte/live/chunks.m3u8?nimblesessionid=1533313&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMC8yMDIzIDg6NTk6MDYgUE0maGFzaF92YWx1ZT1jL1pMbFp4K2o3V1ovYzVRa3NwL053PT0mdmFsaWRtaW51dGVzPTMw"
-          },      
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/FR_c8.png",
-            "audio":"https://s14.tntendirect.com/d8/live/chunks.m3u8?nimblesessionid=1533375&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMC8yMDIzIDk6MDE6NDAgUE0maGFzaF92YWx1ZT1Wamg1cENoeGdKV2RtU0NMSHBINUZBPT0mdmFsaWRtaW51dGVzPTMw"
-          },      
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/FR_w9.png",
-            "audio":"https://s14.tntendirect.com/w9/live/chunks.m3u8?nimblesessionid=1534739&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMC8yMDIzIDk6NDE6NDQgUE0maGFzaF92YWx1ZT1qNjhJenBJVmlmN2JvbVpZMHV2OVlBPT0mdmFsaWRtaW51dGVzPTMw"
-          },      
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/FR_tmc.png",
-            "audio":"https://s13.tntendirect.com/tmc/live/l_39999_17586052_2928.ts?nimblesessionid=3242522&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMC8yMDIzIDk6MDY6NDUgUE0maGFzaF92YWx1ZT1BaHF3SEVTc0IzaFEvWEROMnJHdmZRPT0mdmFsaWRtaW51dGVzPTMw"
-          },      
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/FR_tfx.png",
-            "audio":"https://s12.tntendirect.com/nt1/live/chunks.m3u8?nimblesessionid=2676951&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMC8yMDIzIDk6MDk6MDQgUE0maGFzaF92YWx1ZT1rZUQwcExKVmJWdzExWXZiNUZIci9nPT0mdmFsaWRtaW51dGVzPTMw"
-          },      
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/FR_nrj12.png",
-            "audio":"https://s12.tntendirect.com/nrj12/live/chunks.m3u8?nimblesessionid=2677012&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMC8yMDIzIDk6MTE6MDMgUE0maGFzaF92YWx1ZT1IZFBrWldudjJQNDgxam5UYm13d2dBPT0mdmFsaWRtaW51dGVzPTMw"
+            "text":"https://i.imgur.com/3TA4xsx.png",
+            "audio":"http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8"
           },
+          
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/FR_gulli.png",
-            "audio":"https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/NA/v2TM44t/index.m3u8"
+            "text":"https://i.imgur.com/piweDaK.jpg",
+            "audio":"http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8"
           },
+          
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/ES_bloomberg.png",
-            "audio":"https://dai.google.com/linear/hls/pa/event/TPKhqf0BQn2_ijC-0rOJcA/stream/7f1c919f-237f-4303-9e5b-627efab2009c:BRU/variant/3eca3f1287673dd6f988b19d058ebe75/bandwidth/800000.m3u8"
+            "text":"https://i.imgur.com/EJP58fD.png",
+            "audio":"https://imavex2.mmdlive.lldns.net/imavex2/46320b2319cf49d7bf68f70cc4a10c98/playlist.m3u8"
           },
+          
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/ES_canaria.png",
-            "audio":"https://rr2---sn-4g5ednly.googlevideo.com/videoplayback?expire=1674278203&ei=2iDLY4SlPMXw0wXWx7yYAg&ip=105.107.94.241&id=6LlZXt8nk4s.279&itag=134&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=yt_live_broadcast&requiressl=yes&spc=zIddbN7q0-MqYY4jbdhhIL3oqczCDdyohumMzlkeHuOp&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=hHw6nL4DuA-MJxHME1yM5CIK&gir=yes&keepalive=yes&fexp=24007246&c=WEB_EMBEDDED_PLAYER&n=u1RsfeQz4dFtDF-&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgTRPAhZUwElSh4TSxMQzUOfT79Hk0mENPYu2QW4aZUTkCIEU7K9WReg11merDQ4ySskgiACxK342J18Btsm0tvvcU&redirect_counter=1&cm2rm=sn-5abxgpxuxaxjvh-j1ae7d&req_id=21723cb4009a3ee&cms_redirect=yes&cmsv=e&mh=6S&mm=29&mn=sn-4g5ednly&ms=rdu&mt=1674256416&mv=m&mvi=2&pl=19&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgNXvh0HxG5NeHnjwL-hHf5gG0pBTozM2ZufJuoRDvCf8CID8sR9ozWLuuKCwlzbUVuC7XfUgLmkg87moZb6519Cw4"
+            "text":"https://i.imgur.com/c3Z5i2L.png",
+            "audio":"https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8"
           },
+          
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/ES_fcm.png",
-            "audio":"https://stream.ads.ottera.tv/cl/230120cf5i51nbcnac8r4u7oig/720x404_1513283_4_f.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/ES_aztv.png",
-            "audio":"https://azxtv.com/hls/stream.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/ES_tve.png",
-            "audio":"https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_576.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/ES_euronews.png",
-            "audio":"https://stream.ads.ottera.tv/cl/230120cf5i9tk3viu37sk2eu80/1280x720_1500000_0_f.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/ES_24h.png",
-            "audio":"https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_576.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/ES_canal_sur.png",
-            "audio":"https://rr8---sn-5abxgpxuxaxjvh-j1ae.googlevideo.com/videoplayback?expire=1674279488&ei=4CXLY4_dKITsW8zwjEg&ip=105.107.94.241&id=6Vezv0ucCpA.1&itag=135&aitags=133%2C134%2C135%2C136%2C137%2C160&source=yt_live_broadcast&requiressl=yes&mh=fE&mm=44%2C29&mn=sn-5abxgpxuxaxjvh-j1ae%2Csn-4g5lznes&ms=lva%2Crdu&mv=m&mvi=8&pl=19&initcwndbps=435000&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=_8JB3jl5n49pQGlCNb2kZ0gK&gir=yes&mt=1674257564&fvip=1&keepalive=yes&fexp=24007246&c=WEB&n=icbg2tzoqPT7UO6&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhAP_DABiV-890utl9aPX8KUo5Of_8_E5_f2XUeuQvat9pAiEA_0dfODBnFEecE_GnBVXgJSb_cfhU5zFQjpj1UC6pqX0%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgFaXeGtwNIS8KAJehoRwCufwo8cbeJjpii0z5Fp5yIzACIAhtItEYP9D-PDBAtgAFqzpWh4T2oISWbWxrK3__ZVgV"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/ES_uhd_travel.png",
-            "audio":"https://livelist01.yowi.tv/lista/f76628c633e492853b8e4d98f8eb1d129d2e6771/index-f4-v1-a1.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/ES_hqm_spanish.png",
-            "audio":"https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/index-f3-v1-a1.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/AL_news24.png",
-            "audio":"https://tv.balkanweb.com/news24/livestream/chunks.m3u8?nimblesessionid=901937900"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/AL_abc_news.png",
-            "audio":"https://tv2.abcnews.al/live/abcnews/l_34_399613360_66602.ts?nimblesessionid=10903755"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/AL_top_channel.png",
-            "audio":"https://stream-11.dc3.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irdeAD3Pf1rxYljg1NN92px5NlIRZidNYQ3TD71VEgiER)/dm/3/x6inuzo/s/live-1.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/IN_dd_national.png",
-            "audio":"https://rr2---sn-5abxgpxuxaxjvh-j1as.googlevideo.com/videoplayback?expire=1674280637&ei=XSrLY6SUHtGRWpyShZgB&ip=105.107.94.241&id=0UtGWtPcOI4.2&itag=244&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=lp&mm=44%2C29&mn=sn-5abxgpxuxaxjvh-j1as%2Csn-hpa7zne6&ms=lva%2Crdu&mv=m&mvi=2&pl=19&initcwndbps=455000&spc=zIddbN_SSoZyROEwI4-0evLaNESPGyfjzLN-W5-_BAsI&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=0nZCtgz9XPAgvNAAMGtANJAK&gir=yes&mt=1674258523&fvip=2&keepalive=yes&fexp=24007246&c=WEB_EMBEDDED_PLAYER&n=UfP-_Hdnv1AXyw&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgZCzZpdc4o3T-dnY_2LaAj3Eh8W6oaaCUSZnQ_lAhm1wCIQDHCCWb-8O1ZkFT6XeRCQtKGkpQAmjdm_qMAl4GgcyV1w%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAOYg3gayP4T8YUBBMeRCwXSfGlKdmXjk8_mDECiaN_toAiEAw7SJbjuK7En5nVBfo-tIr74N9lchr35OmzKB9Nqm7Yc%3D&alr=yes&cpn=CzwkSKpZgu47Ts..."
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/IN_aaj_tak.png",
-            "audio":"https://aajtaklive-amd.akamaized.net/hls/live/2014416-b/aajtak/aajtaklive/live_404p/chunks.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/IN_cnn_news.png",
-            "audio":"https://rr3---sn-hpa7zn7d.googlevideo.com/videoplayback?expire=1674280922&ei=eivLY_2sC5fJxwK_spKIAg&ip=105.107.94.241&id=DjF5XT4DP-U.1&itag=135&aitags=133%2C134%2C135%2C136%2C160&source=yt_live_broadcast&requiressl=yes&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=vYC07RONCF3zzeYSCMPrcIoK&gir=yes&keepalive=yes&fexp=24007246&c=WEB&n=6nb1s2wgq7SVjTD&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIhAJsbC6jmtflpE5L6pOEdn5xXl2gahh5VGCqJVyWhFujlAiB4UwrlfM-wfaOXReMaPHjugixClR-zIpW1Lau6oZ-EBw%3D%3D&redirect_counter=1&cm2rm=sn-5abxgpxuxaxjvh-j1ae7z&req_id=255929a53a45a3ee&cms_redirect=yes&cmsv=e&mh=As&mm=29&mn=sn-hpa7zn7d&ms=rdu&mt=1674259053&mv=m&mvi=3&pl=19&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgWlvlvIzkJHaWbiS6BB7IXaDI3vxgRk2YtxNBCO12R7gCIGxrk6XRDKf7TcyLrZHtLGSlTikiWnNGIM8A81L_0cb-"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/IN_10tv.png",
-            "audio":"https://rr3---sn-5abxgpxuxaxjvh-j1ae.googlevideo.com/videoplayback?expire=1674280994&ei=wivLY8DxNMHL0wXQtrC4Aw&ip=105.107.94.241&id=PcTpDnGtNKE.4&itag=244&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=qg&mm=44%2C29&mn=sn-5abxgpxuxaxjvh-j1ae%2Csn-hpa7znzr&ms=lva%2Crdu&mv=m&mvi=3&pl=19&initcwndbps=467500&spc=zIddbAH9mFEx81q2BPrdFlNy51RifDWEuKA43XOvSgn_&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=4jCC5tDHNtQwHQ6jaPIdtO8K&gir=yes&mt=1674259004&fvip=1&keepalive=yes&fexp=24007246&c=WEB_EMBEDDED_PLAYER&n=mLdOMUT3YjDfpw&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIhAK7DaF2e0pr9lucKwSIDFu-WVe0LBOvVJeo_j6KdH860AiBN-UVJhGTuX-QsnZkU37tAIQ-73tmK40uKSm-6bMHd4A%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAPOziTrpB-xuesCAfglTPkuRMX8qDcoDTwNrxeGeJXeWAiAguoPCVp5N6aUSeQZxOy7MES1Pe2u6Mj-r1fSuuDVNKQ%3D%3D&alr=yes&cpn=gbYYl2Ay11..."
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/IN_public.png",
-            "audio":"https://livestream.knowtable.xyz:5443/show/streams/Publictv_480p1000kbps.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/IN_tv9_gujarati.png",
-            "audio":"https://rr5---sn-hpa7zns6.googlevideo.com/videoplayback?expire=1674281273&ei=2SzLY_3REoTosALR5JGIAw&ip=105.107.94.241&id=lfpMUpkSvLg.6&itag=135&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&spc=zIddbCeEGq7FHwDTnhzigq1A81P6LjiL2nLZGWjmiMRp&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=S53fzd4wU0pouXb9yZebBzQK&gir=yes&keepalive=yes&fexp=24007246&c=WEB_EMBEDDED_PLAYER&n=NaXYL6_YAOV8gnK&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgOFWsHJd299YYtN8qmDsSs2QGQoenVcv9_XxKn9OPvAkCIH9IV5evviQ970y3Pzrqll13S3mDiiuY0YOMmNH64Csa&redirect_counter=1&cm2rm=sn-5abxgpxuxaxjvh-j1as7e&req_id=3b31c1820eca3ee&cms_redirect=yes&cmsv=e&mh=nE&mm=29&mn=sn-hpa7zns6&ms=rdu&mt=1674259540&mv=m&mvi=5&pl=19&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAPuZJ6Adj3CDyNMRSMDL6Nl6GCdE9nyaBHUJoMgWBsuKAiBr-yVKld1xf71uVn_BhjYveNX_Q-RJUAS2yXd3QMUL1A%3D%3D"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/IN_kairali.png",
-            "audio":"https://rr5---sn-5abxgpxuxaxjvh-j1ae.googlevideo.com/videoplayback?expire=1674281399&ei=Vy3LY-bSJOrWxN8PqrO9oAQ&ip=105.107.94.241&id=K-OZ1WUMArA.5&itag=244&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=yt_live_broadcast&requiressl=yes&mh=G7&mm=44%2C29&mn=sn-5abxgpxuxaxjvh-j1ae%2Csn-hpa7kn7z&ms=lva%2Crdu&mv=m&mvi=5&pl=19&initcwndbps=443750&spc=zIddbCNp6Ly7Pgoxc-x_PYBSyuN8DoudFTickODbXiqP&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=GjXp64sl8X-AtRct5CRfcWkK&gir=yes&mt=1674259488&fvip=1&keepalive=yes&fexp=24007246&c=WEB_EMBEDDED_PLAYER&n=FfrkBDjIjklURA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAJe9CzN9yxLZGGDxD9GkU95o-E0uVpFv4kKeXHRfXUoxAiEAg2kysGhuAiEK58Zq-WNF2aZ0sUgJFwugHUuXyTuqsMg%3D&alr=yes&sig=AOq0QJ8wRQIhAI6u8hh8SDe3yNms3NTYdUjoIuR3Ga8-cLLxnlOU0K4AAiANVpp6KZNvFwEDCFjzw7qaaGSVE-Yg3whDUjNo8Ypwgg%3D%3D&cpn=VDkpSkTESAWV5Xss&cver=1..."
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/IN_brics.png",
-            "audio":"https://engbrics.mediacdn.ru/cdn/brics/english/tracks-v1a1/2023/01/21/00/11/30-06000.ts"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/IN_wion.png",
-            "audio":"https://dai.google.com/linear/hls/pa/event/x_dFvsORSZWERbxrltEk0g/stream/aeefca30-3b7d-46d4-85ef-984e0988ebeb:BRU/variant/9a02b64fdef4a97d39df7464fba83086/bandwidth/1258360.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/IN_today.png",
-            "audio":"https://rr3---sn-5abxgpxuxaxjvh-j1ae.googlevideo.com/videoplayback?expire=1674281840&ei=EC_LY-mNA4-yWeXGrcgB&ip=105.107.94.241&id=sYZtOFzM78M.1&itag=244&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=1W&mm=44%2C29&mn=sn-5abxgpxuxaxjvh-j1ae%2Csn-hpa7znzr&ms=lva%2Crdu&mv=m&mvi=3&pl=19&initcwndbps=460000&spc=zIddbB313DaXw_Zp58VoemykVNhOgqHlpQPhJGZ42VzL&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=hf0VeZhBC9OeTbn6NCM5dWUK&gir=yes&mt=1674259963&fvip=3&keepalive=yes&fexp=24007246&c=WEB_EMBEDDED_PLAYER&n=vgtI5sudbiCWLA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhAOm-D83ghrJ8DPwvGvY1CAzicAanewU9pEAwzJxHsoT0AiEAxxl9ae2gpYWqDGf3EBnqrodde6IRtBeUC7FerIMM8UA%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgIhghZBA61UPbJbcaTeZZw1mP25istN8A52B59lCHFTICIA2owC2D6sHOX9ePm9Qi_Y4xyfkNuOpjrjaH4Oe_aVRG&alr=yes&cpn=a_UC1FlH7xu_PrKI&cver=..."
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/SA_saoudia.png",
-            "audio":"https://cllive.itworkscdn.net/ksa1live/token=nva=1674319691~dirs=1~hash=0d3c2780aaab58766b1a1/ksa1.smil/ksa1_480p_chunks_dvr.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/SA_elikhbaria.png",
-            "audio":"https://cllive.itworkscdn.net/ikhbariyalive/token=nva=1674320044~dirs=1~hash=02d3eddcd6fc72777583e/ikhbariya.smil/ikhbariya_480p_chunks_dvr.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/SA_dikraiat.png",
-            "audio":"https://cllive.itworkscdn.net/zikrayatlive/token=nva=1674320271~dirs=1~hash=071bbf3de86e995387c49/zikrayat.smil/zikrayat_480p_chunks_dvr.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/SA_ksa_sport_1.png",
-            "audio":"https://cllive.itworkscdn.net/ksasports1live/token=nva=1674320459~dirs=1~hash=035db63a3d95ec8b768be/ksasports1.smil/ksasports1_480p_chunks_dvr.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/SA_ksa_sport_2.png",
-            "audio":"https://cllive.itworkscdn.net/ksasports2live/token=nva=1674320708~dirs=1~hash=07cc9ddceaaeaec9e59ae/ksasports2.smil/ksasports2_480p_chunks_dvr.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/SA_ksa_sport_3.png",
-            "audio":"https://cllive.itworkscdn.net/ksasports3live/token=nva=1674320685~dirs=1~hash=05f42d174d66c1560cc70/ksasports3.smil/ksasports3_480p_chunks_dvr.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/SA_ksa_sport_4.png",
-            "audio":"https://cllive.itworkscdn.net/ksasports3live/token=nva=1674320605~dirs=1~hash=0b5b93137aa0df62528bb/ksasports3.smil/ksasports3_480p_chunks_dvr.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/SA_Quoran.png",
-            "audio":"https://cllive.itworkscdn.net/ksaquranlive/token=nva=1674320736~dirs=1~hash=0f704fd5bcdfe83880c9f/ksaquran.smil/ksaquran_480p_chunks_dvr.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/SA_sonna.png",
-            "audio":"https://cllive.itworkscdn.net/ksaquranlive/token=nva=1674320736~dirs=1~hash=0f704fd5bcdfe83880c9f/ksaquran.smil/ksaquran_480p_chunks_dvr.m3u8"
-          },
-          {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/SA_sbc.png",
-            "audio":"https://cllive.itworkscdn.net/sbclive/token=nva=1674321890~dirs=1~hash=036d24f5e0c2a40d29c16/sbc.smil/sbc_480p_chunks_dvr.m3u8"
+            "text":"https://i.imgur.com/c3Z5i2L.png",
+          
+            "audio":"https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8"
           }
+
 ]}]}
